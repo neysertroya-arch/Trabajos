@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "TRABAJO"
+  author: "Alexandra Rivera, Neyser Troya"
+  date: "23/10/2026"
+  chapters:
+    - index.qmd
+    - "Capitulos de libros/introduccion.qmd"
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
