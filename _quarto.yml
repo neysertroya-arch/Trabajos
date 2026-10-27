@@ -8,6 +8,7 @@ book:
   chapters:
     - index.qmd
     - "Capitulos de libros/introduccion.qmd"
+    - "Capitulos de libros/marco_teorico.qmd"
 
 bibliography: references.bib
 

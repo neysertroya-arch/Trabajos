@@ -1,5 +1,71 @@
 ---
-title: "marco_teorico"
-format: html
+title: "Marco teórico"
 ---
 
+## Antecedentes teóricos
+
+La literatura económica identifica varios canales por los cuales el clima afecta el trabajo. El primero es la asignación del tiempo: Graff Zivin y Neidell (2014) muestran que, ante temperaturas altas, los trabajadores de sectores expuestos al clima reducen sus horas de trabajo y destinan ese tiempo al ocio. El segundo es la productividad: el calor deteriora la capacidad física y cognitiva (Kjellstrom et al., 2016; Graff Zivin et al., 2018; Heal y Park, 2016), lo que reduce el rendimiento por hora y, cuando el pago depende de lo producido, también el ingreso (Somanathan et al., 2021). El tercero es la producción: en actividades agrícolas, la falta de lluvia reduce las cosechas y los ingresos, lo que obliga a reasignar el trabajo entre sectores (Deschênes y Greenstone, 2007; Colmer, 2021).
+
+Estos canales no afectan por igual a todos los trabajadores. Carleton y Hsiang (2016) destacan que la capacidad de adaptación y la exposición varían entre grupos, y Dell et al. (2012) encuentran que los efectos del calor se concentran en economías de menores ingresos. Desde esta perspectiva, se esperaría que los trabajadores informales, sin contrato ni seguridad social, tengan menos herramientas para protegerse de un choque climático. En cuanto al género, Afridi et al. (2022) muestran que las normas sociales limitan la diversificación de las mujeres hacia otras actividades cuando ocurre una sequía. Respecto de la educación y el sector, se esperaría que una mayor escolaridad facilite el acceso a empleos menos expuestos al clima, un mecanismo coherente con las diferencias por sector halladas por Graff Zivin y Neidell (2014).
+
+Por último, el análisis requiere construir variables climáticas y aislar su efecto. Dell et al. (2014) y Hsiang (2016) explican que las fluctuaciones del clima de un período a otro, dentro de un mismo lugar, funcionan como variación exógena. Auffhammer et al. (2013) advierten sobre los errores de medición al usar datos de estaciones o de reanálisis, y Burke et al. (2015) muestran que la relación entre temperatura y producción no es lineal, lo que justifica medir eventos extremos mediante umbrales y no solo promedios.
+
+## Evidencia empírica
+
+A escala macroeconómica, Dell et al. (2012) encuentran que las temperaturas más altas reducen el crecimiento en los países pobres, pero no en los ricos. Hsiang (2010) documenta pérdidas de producción asociadas al calor en el Caribe y Centroamérica, sobre todo en los sectores no agrícolas. Kalkuhl y Wenz (2020) y Burke et al. (2015) confirman con paneles globales que el clima afecta la producción de forma no lineal, y Dasgupta et al. (2021) estiman que el cambio climático reduce de forma combinada la productividad y la oferta de trabajo. Carleton y Hsiang (2016) resumen esta evidencia y subrayan que los impactos son heterogéneos.
+
+Con datos de trabajadores y empresas, Somanathan et al. (2021) encuentran que el calor reduce la productividad y la oferta de trabajo en fábricas de India, y Zhang et al. (2018) hallan que las temperaturas altas reducen la producción de las plantas manufactureras de China. Colmer (2021) muestra que el calor en India reasigna trabajo desde la agricultura hacia otros sectores, y Jessoe et al. (2018) encuentran que, en el México rural, las temperaturas altas reducen el empleo local y aumentan la migración. En cuanto a la sequía, Afridi et al. (2022) documentan que, en India, las mujeres reducen sus días de trabajo más que los hombres cuando ocurre una sequía.
+
+Para América Latina, la evidencia con enfoque laboral es más limitada. Rosales-Rueda (2018) muestra que las inundaciones del fenómeno de El Niño de 1997-1998 en Ecuador redujeron el ingreso y el consumo de los hogares afectados. Maccini y Yang (2009) encuentran que la lluvia al nacer influye en la salud, la escolaridad y el nivel socioeconómico posterior de las mujeres en Indonesia, lo que indica que los choques climáticos tienen efectos distintos según el género. Cavallo et al. (2013) concluyen que solo los desastres naturales de gran magnitud tienen efectos negativos duraderos sobre el crecimiento, y Hornbeck (2012) muestra que, tras un desastre ambiental severo, las pérdidas persisten y el ajuste de la población ocurre en buena parte por migración.
+
+## Brecha literaria
+
+En los estudios revisados, la mayor parte de la evidencia sobre clima y trabajo proviene de India, China, Estados Unidos y México, y se concentra en la manufactura y la agricultura. Para Ecuador, la evidencia disponible se centra en choques como El Niño y en resultados de los hogares o de los niños, y se encontró poco análisis de los ingresos y las horas trabajadas de los adultos. Tampoco se encontró una comparación sistemática entre trabajadores formales e informales, que son la mayoría de la fuerza laboral en la región y tienen menos protección frente a los choques. Además, las olas de calor y las sequías suelen estudiarse por separado, y pocos trabajos examinan a la vez las diferencias por género, educación y sector. Este proyecto busca aportar en esa dirección con datos laborales de la ENEMDU y registros climáticos de acceso abierto.
+
+## Bibliografía {.unnumbered}
+
+Afridi, F., Mahajan, K., y Sangwan, N. (2022). The gendered effects of droughts: Production shocks and labor response in agriculture. *Labour Economics, 78*, 102227. [Ver en Google Académico](https://scholar.google.com/scholar?q=The%20gendered%20effects%20of%20droughts%3A%20Production%20shocks%20and%20labor%20response%20in%20agriculture)
+
+Auffhammer, M., Hsiang, S. M., Schlenker, W., y Sobel, A. (2013). Using weather data and climate model output in economic analyses of climate change. *Review of Environmental Economics and Policy, 7*(2), 181-198. [Ver en Google Académico](https://scholar.google.com/scholar?q=Using%20weather%20data%20and%20climate%20model%20output%20in%20economic%20analyses%20of%20climate%20change)
+
+Burke, M., Hsiang, S. M., y Miguel, E. (2015). Global non-linear effect of temperature on economic production. *Nature, 527*(7577), 235-239. [Ver en Google Académico](https://scholar.google.com/scholar?q=Global%20non-linear%20effect%20of%20temperature%20on%20economic%20production)
+
+Carleton, T. A., y Hsiang, S. M. (2016). Social and economic impacts of climate. *Science, 353*(6304), aad9837. [Ver en Google Académico](https://scholar.google.com/scholar?q=Social%20and%20economic%20impacts%20of%20climate%20Carleton%20Hsiang)
+
+Cavallo, E., Galiani, S., Noy, I., y Pantano, J. (2013). Catastrophic natural disasters and economic growth. *Review of Economics and Statistics, 95*(5), 1549-1561. [Ver en Google Académico](https://scholar.google.com/scholar?q=Catastrophic%20natural%20disasters%20and%20economic%20growth)
+
+Colmer, J. (2021). Temperature, labor reallocation, and industrial production: Evidence from India. *American Economic Journal: Applied Economics, 13*(4), 101-124. [Ver en Google Académico](https://scholar.google.com/scholar?q=Temperature%2C%20labor%20reallocation%2C%20and%20industrial%20production%3A%20Evidence%20from%20India)
+
+Dasgupta, S., van Maanen, N., Gosling, S. N., Piontek, F., Otto, C., y Schleussner, C.-F. (2021). Effects of climate change on combined labour productivity and supply: An empirical, multi-model study. *The Lancet Planetary Health, 5*(7), e455-e465. [Ver en Google Académico](https://scholar.google.com/scholar?q=Effects%20of%20climate%20change%20on%20combined%20labour%20productivity%20and%20supply%3A%20an%20empirical%2C%20multi-model%20study)
+
+Dell, M., Jones, B. F., y Olken, B. A. (2012). Temperature shocks and economic growth: Evidence from the last half century. *American Economic Journal: Macroeconomics, 4*(3), 66-95. [Ver en Google Académico](https://scholar.google.com/scholar?q=Temperature%20shocks%20and%20economic%20growth%3A%20Evidence%20from%20the%20last%20half%20century)
+
+Dell, M., Jones, B. F., y Olken, B. A. (2014). What do we learn from the weather? The new climate-economy literature. *Journal of Economic Literature, 52*(3), 740-798. [Ver en Google Académico](https://scholar.google.com/scholar?q=What%20do%20we%20learn%20from%20the%20weather%3F%20The%20new%20climate-economy%20literature)
+
+Deschênes, O., y Greenstone, M. (2007). The economic impacts of climate change: Evidence from agricultural output and random fluctuations in weather. *American Economic Review, 97*(1), 354-385. [Ver en Google Académico](https://scholar.google.com/scholar?q=The%20economic%20impacts%20of%20climate%20change%3A%20Evidence%20from%20agricultural%20output%20and%20random%20fluctuations%20in%20weather)
+
+Graff Zivin, J., Hsiang, S. M., y Neidell, M. (2018). Temperature and human capital in the short and long run. *Journal of the Association of Environmental and Resource Economists, 5*(1), 77-105. [Ver en Google Académico](https://scholar.google.com/scholar?q=Temperature%20and%20human%20capital%20in%20the%20short%20and%20long%20run)
+
+Graff Zivin, J., y Neidell, M. (2014). Temperature and the allocation of time: Implications for climate change. *Journal of Labor Economics, 32*(1), 1-26. [Ver en Google Académico](https://scholar.google.com/scholar?q=Temperature%20and%20the%20allocation%20of%20time%3A%20Implications%20for%20climate%20change)
+
+Heal, G., y Park, J. (2016). Reflections—Temperature stress and the direct impact of climate change: A review of an emerging literature. *Review of Environmental Economics and Policy, 10*(2), 347-362. [Ver en Google Académico](https://scholar.google.com/scholar?q=Temperature%20stress%20and%20the%20direct%20impact%20of%20climate%20change%3A%20A%20review%20of%20an%20emerging%20literature)
+
+Hornbeck, R. (2012). The enduring impact of the American Dust Bowl: Short- and long-run adjustments to environmental catastrophe. *American Economic Review, 102*(4), 1477-1507. [Ver en Google Académico](https://scholar.google.com/scholar?q=The%20enduring%20impact%20of%20the%20American%20Dust%20Bowl%3A%20Short-%20and%20long-run%20adjustments%20to%20environmental%20catastrophe)
+
+Hsiang, S. M. (2010). Temperatures and cyclones strongly associated with economic production in the Caribbean and Central America. *Proceedings of the National Academy of Sciences, 107*(35), 15367-15372. [Ver en Google Académico](https://scholar.google.com/scholar?q=Temperatures%20and%20cyclones%20strongly%20associated%20with%20economic%20production%20in%20the%20Caribbean%20and%20Central%20America)
+
+Hsiang, S. (2016). Climate econometrics. *Annual Review of Resource Economics, 8*, 43-75. [Ver en Google Académico](https://scholar.google.com/scholar?q=Climate%20econometrics%20Hsiang%20Annual%20Review%20of%20Resource%20Economics)
+
+Jessoe, K., Manning, D. T., y Taylor, J. E. (2018). Climate change and labour allocation in rural Mexico: Evidence from annual fluctuations in weather. *The Economic Journal, 128*(608), 230-261. [Ver en Google Académico](https://scholar.google.com/scholar?q=Climate%20change%20and%20labour%20allocation%20in%20rural%20Mexico%3A%20Evidence%20from%20annual%20fluctuations%20in%20weather)
+
+Kalkuhl, M., y Wenz, L. (2020). The impact of climate conditions on economic production. Evidence from a global panel of regions. *Journal of Environmental Economics and Management, 103*, 102360. [Ver en Google Académico](https://scholar.google.com/scholar?q=The%20impact%20of%20climate%20conditions%20on%20economic%20production.%20Evidence%20from%20a%20global%20panel%20of%20regions)
+
+Kjellstrom, T., Briggs, D., Freyberg, C., Lemke, B., Otto, M., y Hyatt, O. (2016). Heat, human performance, and occupational health: A key issue for the assessment of global climate change impacts. *Annual Review of Public Health, 37*, 97-112. [Ver en Google Académico](https://scholar.google.com/scholar?q=Heat%2C%20human%20performance%2C%20and%20occupational%20health%3A%20A%20key%20issue%20for%20the%20assessment%20of%20global%20climate%20change%20impacts)
+
+Maccini, S., y Yang, D. (2009). Under the weather: Health, schooling, and economic consequences of early-life rainfall. *American Economic Review, 99*(3), 1006-1026. [Ver en Google Académico](https://scholar.google.com/scholar?q=Under%20the%20weather%3A%20Health%2C%20schooling%2C%20and%20economic%20consequences%20of%20early-life%20rainfall)
+
+Rosales-Rueda, M. (2018). The impact of early life shocks on human capital formation: Evidence from El Niño floods in Ecuador. *Journal of Health Economics, 62*, 13-44. [Ver en Google Académico](https://scholar.google.com/scholar?q=The%20impact%20of%20early%20life%20shocks%20on%20human%20capital%20formation%3A%20evidence%20from%20El%20Ni%C3%B1o%20floods%20in%20Ecuador)
+
+Somanathan, E., Somanathan, R., Sudarshan, A., y Tewari, M. (2021). The impact of temperature on productivity and labor supply: Evidence from Indian manufacturing. *Journal of Political Economy, 129*(6), 1797-1827. [Ver en Google Académico](https://scholar.google.com/scholar?q=The%20impact%20of%20temperature%20on%20productivity%20and%20labor%20supply%3A%20Evidence%20from%20Indian%20manufacturing)
+
+Zhang, P., Deschênes, O., Meng, K., y Zhang, J. (2018). Temperature effects on productivity and factor reallocation: Evidence from a half million Chinese manufacturing plants. *Journal of Environmental Economics and Management, 88*, 1-17. [Ver en Google Académico](https://scholar.google.com/scholar?q=Temperature%20effects%20on%20productivity%20and%20factor%20reallocation%3A%20Evidence%20from%20a%20half%20million%20Chinese%20manufacturing%20plants)
