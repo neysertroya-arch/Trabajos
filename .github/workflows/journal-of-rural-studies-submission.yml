@@ -1,0 +1,112 @@
+name: Journal of Rural Studies submission package
+
+on:
+  pull_request:
+    paths:
+      - 'manuscript/**'
+      - 'R/12_build_jrs_submission.R'
+      - 'R/13_build_jrs_assets.R'
+      - 'scripts/build_jrs_submission_docs.py'
+      - 'submission/journal-of-rural-studies/**'
+      - '.github/workflows/journal-of-rural-studies-submission.yml'
+  workflow_dispatch:
+
+jobs:
+  jrs-submission-package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: 'release'
+          use-public-rspm: true
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Parse analytical and JRS submission scripts
+        run: |
+          Rscript -e 'files <- c("R/01_download_wcad.R","R/02_audit_wcad.R","R/02b_audit_wcad_comparability.R","R/03_download_usda.R","R/04_harmonize.R","R/04b_audit_farm_structure.R","R/04c_add_development_controls.R","R/05_descriptive_diagnostics.R","R/06_models_robustness.R","R/07_advanced_robustness.R","R/08_publication_outputs.R","R/12_build_jrs_submission.R","R/13_build_jrs_assets.R","R/14_audit_jrs_submission.R"); for (f in files) parse(file=f); cat("JRS_PIPELINE_PARSE_OK\n")'
+
+      - name: Audit JRS manuscript and references before computation
+        run: Rscript R/14_audit_jrs_submission.R
+
+      - name: Rebuild approved analytical pipeline once
+        run: |
+          Rscript R/01_download_wcad.R
+          Rscript R/02_audit_wcad.R
+          Rscript R/02b_audit_wcad_comparability.R
+          Rscript R/03_download_usda.R
+          Rscript R/04_harmonize.R
+          Rscript R/04b_audit_farm_structure.R
+          Rscript R/04c_add_development_controls.R
+          Rscript R/05_descriptive_diagnostics.R
+          Rscript R/06_models_robustness.R
+          Rscript R/07_advanced_robustness.R
+          Rscript R/08_publication_outputs.R
+
+      - name: Build JRS anonymous source and artwork
+        run: |
+          Rscript R/12_build_jrs_submission.R
+          Rscript R/13_build_jrs_assets.R
+
+      - name: Build reproducible Word formatting and editable JRS files
+        run: |
+          python scripts/build_lup_reference_docx.py
+          python scripts/build_jrs_submission_docs.py
+
+      - name: Render anonymous JRS Word manuscript
+        shell: bash
+        run: |
+          set -euo pipefail
+          (cd submission/journal-of-rural-studies && quarto render article_jrs_anonymous.qmd --to docx)
+          mkdir -p outputs/submission/journal-of-rural-studies
+          mv submission/journal-of-rural-studies/article_jrs_anonymous.docx outputs/submission/journal-of-rural-studies/
+
+      - name: Audit JRS manuscript anonymity
+        shell: bash
+        run: |
+          set -euo pipefail
+          DOCX="outputs/submission/journal-of-rural-studies/article_jrs_anonymous.docx"
+          AUDIT_DIR="/tmp/jrs-docx-audit"
+          rm -rf "$AUDIT_DIR"; mkdir -p "$AUDIT_DIR"; unzip -q "$DOCX" -d "$AUDIT_DIR"
+          if grep -R -a -Eiq 'Andrea Yolanda Jaramillo Castillo|José Vicente Ordóñez Yaguache|Jose Vicente Ordonez Yaguache|Universidad Nacional de Loja|josevicente1980|0000-0002-3349-6714' "$AUDIT_DIR"; then
+            echo "JRS_ANONYMITY_AUDIT_FAIL"; exit 1
+          fi
+          echo "JRS_ANONYMITY_AUDIT_PASS"
+
+      - name: Build anonymous JRS replication bundle
+        shell: bash
+        run: |
+          set -euo pipefail
+          ROOT="outputs/submission/journal-of-rural-studies/replication"
+          mkdir -p "$ROOT/R" "$ROOT/outputs"
+          find R -maxdepth 1 -type f -name '*.R' ! -name '09*' ! -name '11*' ! -name '12*' ! -name '13*' -exec cp {} "$ROOT/R/" \;
+          cp submission/journal-of-rural-studies/REPLICATION_README.md "$ROOT/README.md"
+          if [ -f renv.lock ]; then cp renv.lock "$ROOT/renv.lock"; fi
+          cp -R outputs/publication "$ROOT/outputs/publication"
+          if grep -R -a -Eiq 'Andrea Yolanda Jaramillo Castillo|José Vicente Ordóñez Yaguache|Jose Vicente Ordonez Yaguache|Universidad Nacional de Loja|josevicente1980|0000-0002-3349-6714' "$ROOT"; then
+            echo "JRS_REPLICATION_ANONYMITY_FAIL"; exit 1
+          fi
+          (cd "outputs/submission/journal-of-rural-studies" && zip -qr anonymous-replication.zip replication)
+          rm -rf "$ROOT"
+
+      - name: Add sources and verify JRS transfer files
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp submission/journal-of-rural-studies/title-page.md outputs/submission/journal-of-rural-studies/
+          cp submission/journal-of-rural-studies/cover-letter.md outputs/submission/journal-of-rural-studies/
+          cp submission/journal-of-rural-studies/highlights.md outputs/submission/journal-of-rural-studies/
+          for f in article_jrs_anonymous.docx title-page.docx cover-letter.docx highlights.docx figure-captions.docx Figure_1.pdf Figure_2.pdf anonymous-replication.zip; do
+            test -s "outputs/submission/journal-of-rural-studies/$f"
+          done
+          echo "JRS_REQUIRED_TRANSFER_FILES_OK"
+
+      - name: Upload JRS transfer package
+        uses: actions/upload-artifact@v4
+        with:
+          name: journal-of-rural-studies-transfer-package
+          path: outputs/submission/journal-of-rural-studies/
+          if-no-files-found: error
+          retention-days: 14

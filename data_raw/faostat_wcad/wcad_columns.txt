@@ -1,0 +1,15 @@
+Area Code
+Area Code (M49)
+Area
+Item Code
+Item
+Element Code
+Element
+WCA Round code
+WCA Round
+Census Year Code
+Census Year
+Unit
+Value
+Flag
+Note

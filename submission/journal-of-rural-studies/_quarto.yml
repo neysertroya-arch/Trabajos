@@ -1,0 +1,19 @@
+project:
+  type: default
+  render:
+    - article_jrs_anonymous.qmd
+
+format:
+  docx:
+    reference-doc: ../land-use-policy/reference.docx
+
+filters:
+  - ../land-use-policy/table-widths.lua
+
+bibliography: ../../manuscript/references.bib
+lang: en
+
+execute:
+  echo: false
+  warning: false
+  message: false

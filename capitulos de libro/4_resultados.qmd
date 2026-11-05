@@ -1,0 +1,42 @@
+---
+title: "4. Resultados"
+format: html
+---
+
+## 4.1 Estadística descriptiva
+
+![Tabla descriptiva](tabla1_descriptivos.csv)
+
+## 4.2 Distribución del arrendamiento y estructura agraria
+
+![Distribución de la participación de tierra arrendada a terceros](imagenes/figura1_distribucion_arrendamiento.png)
+
+![Tamaño medio de explotación vs participación de tierra arrendada](imagenes/figura2_tamano_vs_arrendamiento.png)
+
+![Distribución del tamaño medio de explotación](imagenes/figura6_tamano_medio_hist.png)
+
+![Distribución de explotaciones menores a 2 hectáreas](imagenes/figura7_pequenas_hist.png)
+
+## 4.3 Arrendamiento, estructura agraria y desarrollo
+
+![Participación de tierra arrendada vs explotaciones menores a 2 ha](imagenes/figura8_arrend_vs_pequenas.png)
+
+![PIB per cápita vs participación de tierra arrendada](imagenes/figura9_pib_vs_arrend.png)
+
+## 4.4 Relación entre arrendamiento y crecimiento de la TFP
+
+![Participación de tierra arrendada vs crecimiento de la TFP a 5 años post-censo](imagenes/figura3_arrendamiento_vs_tfp_post5.png)
+
+## 4.5 Correlaciones
+
+![Matriz de correlaciones de Pearson](imagenes/figura4_matriz_correlaciones.png)
+
+![Tabla de correlaciones](tabla2_correlaciones.csv)
+
+## 4.6 ANOVA por cuartiles de arrendamiento
+
+![Crecimiento de la TFP a 5 años post-censo según cuartiles de participación de tierra arrendada](imagenes/figura5_anova_cuartiles.png)
+
+## 4.7 Evidencia para el Objetivo 2
+
+Con base exclusivamente en la base unificada (N=65), el modelo MCO muestra un coeficiente de `rental_area_share` pequeño e impreciso. Las correlaciones son bajas y el ANOVA por cuartiles no muestra diferencias marcadas entre grupos, lo que indica una asociación débil entre la prevalencia del arrendamiento y el crecimiento posterior de la TFP agrícola.

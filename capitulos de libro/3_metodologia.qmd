@@ -1,0 +1,25 @@
+---
+title: "3. Metodología"
+format: html
+---
+
+## 3.1 Fuentes de información
+
+Las fuentes utilizadas fueron: FAO World Census of Agriculture (WCAD), USDA ERS International Agricultural Productivity (IAP) y World Bank World Development Indicators (WDI). 
+
+## 3.2 Formación de la base unificada
+
+Se partió de la muestra analítica aprobada del proyecto, resultado de la intersección entre las tres fuentes, obteniéndose una muestra de 65 países-censo. Con base en dicha intersección se construyó la base unificada (`base_arrendamiento_unificada.rds`) con las variables necesarias para el análisis.
+
+**Variables utilizadas:**
+
+- `rental_area_share`: porcentaje del área agrícola arrendada a terceros (variable de interés).
+- `small_holdings_share_lt2`: proporción de explotaciones menores a 2 hectáreas (estructura agraria).
+- `average_holding_area_ha`: tamaño medio de la explotación (estructura agraria).
+- `log_gdp_per_capita`: logaritmo del PIB per cápita (control de desarrollo).
+- `agriculture_value_added_pct_gdp`: valor agregado agrícola como porcentaje del PIB (control).
+- `tfp_growth_post5`: crecimiento logarítmico anualizado de la TFP agrícola a 5 años post-censo (variable dependiente).
+
+## 3.3 Técnicas de análisis
+
+Se empleó estadística descriptiva, diagramas de dispersión, correlaciones de Pearson, ANOVA por cuartiles de `rental_area_share` y un modelo de regresión lineal por mínimos cuadrados ordinarios (MCO).

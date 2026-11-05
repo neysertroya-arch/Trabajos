@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this research repository, please cite the resulting article."
+title: "Land Rental, Farm Structure and Agricultural Productivity"
+type: dataset
+authors:
+  - family-names: "Jaramillo Castillo"
+    given-names: "Andrea Yolanda"
+  - family-names: "Ordóñez Yaguache"
+    given-names: "José Vicente"
+    orcid: "https://orcid.org/0000-0002-3349-6714"
+repository-code: "https://github.com/josevicente1980/land-rental-productivity-global"

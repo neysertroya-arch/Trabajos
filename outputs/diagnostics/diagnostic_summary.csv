@@ -1,0 +1,9 @@
+"diagnostic","value"
+"quadratic_rental_added_term_F_test_p",0.709310187007879
+"reset_F_test_p",0.998797290405352
+"breusch_pagan_LM",5.02547426479316
+"breusch_pagan_df",4
+"breusch_pagan_p",0.284693650032407
+"n_iqr_flagged_any_primary_variable",8
+"n_cooks_distance_gt_4_over_n",3
+"n_abs_studentized_residual_gt_2",3

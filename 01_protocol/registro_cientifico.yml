@@ -1,0 +1,38 @@
+﻿research:
+  title: "Land Rental Prevalence, Farm Structure and Agricultural TFP Growth: Cross-Country Evidence from Agricultural Censuses"
+  question: "Does greater national prevalence of agricultural rental arrangements predict faster subsequent national agricultural TFP growth?"
+  gap: "The aggregate cross-country relationship between rental prevalence and subsequent agricultural TFP growth remains insufficiently established relative to the stronger microeconomic literature on land reallocation."
+  contribution: "Cross-country boundary test linking agricultural-census rental prevalence to subsequent agricultural TFP growth while separating market prevalence from market effectiveness."
+  hypothesis: "Rental prevalence may be associated with subsequent agricultural TFP growth, potentially conditional on farm structure."
+
+data:
+  source: "FAO agricultural censuses; USDA agricultural TFP; World Bank controls"
+  version: "FAOSTAT WCAD catalogue 2026-04-27; USDA ERS IAP release 2026-01-27 (1961-2023); World Bank WDI API snapshot documented by local manifests"
+  period: "2001-2018"
+  unit_of_analysis: "Country-census observation"
+
+method:
+  main_method: "Cross-country regression of post-census agricultural TFP growth on rental-area prevalence"
+  robustness: "Predefined robustness checks with conservative inference"
+  causal_design: false
+
+evidence:
+  literature_audited: true
+  data_audited: true
+  results_reproducible: true
+
+editorial:
+  target_journal: "European Review of Agricultural Economics"
+  scope_checked: true
+  ai_policy_checked: true
+  data_policy_checked: true
+  code_policy_checked: true
+  blind_review_checked: true
+  costs_checked: true
+  publication_time_checked: true
+
+risks:
+  methodological: "Cross-country observational design; results must remain associational."
+  editorial: "Journal-specific policies still require final verification."
+
+decision: "REVIEW"

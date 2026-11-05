@@ -1,0 +1,2 @@
+"indicator_code","variable","source_url","downloaded_zip","zip_bytes","zip_md5","downloaded_at_utc"
+"NV.AGR.TOTL.ZS","agriculture_value_added_pct_gdp","https://api.worldbank.org/v2/country/all/indicator/NV.AGR.TOTL.ZS?source=2&downloadformat=csv","data_raw/wdi/NV.AGR.TOTL.ZS.zip",114499,"e5c7ed8051f3c5d3b7a37c4c76120edb","2026-09-08 00:07:48 UTC"

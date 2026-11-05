@@ -1,23 +1,21 @@
 project:
-  type: book
+  type: manuscript
+  output-dir: _quarto
+  render:
+    - manuscript/article.qmd
 
-book:
-  title: "TRABAJO"
-  author: "Alexandra Rivera, Neyser Troya"
-  date: "23/10/2026"
-  chapters:
-    - index.qmd
-    - "Capitulos de libros/introduccion.qmd"
-    - "Capitulos de libros/marco_teorico.qmd"
-
-bibliography: references.bib
+manuscript:
+  article: manuscript/article.qmd
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-  pdf:
-    documentclass: scrreprt
+    toc: true
+  docx: default
 
-editor: visual
+execute:
+  echo: false
+  warning: false
+  message: false
+
+bibliography: manuscript/references.bib
+lang: en

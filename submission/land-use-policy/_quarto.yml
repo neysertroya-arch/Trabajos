@@ -1,0 +1,19 @@
+project:
+  type: default
+  render:
+    - article_lup_anonymous.qmd
+
+format:
+  docx:
+    reference-doc: reference.docx
+
+filters:
+  - table-widths.lua
+
+bibliography: ../../manuscript/references.bib
+lang: en
+
+execute:
+  echo: false
+  warning: false
+  message: false

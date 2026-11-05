@@ -1,0 +1,28 @@
+---
+title: "6. Referencias bibliográficas"
+format: html
+---
+
+Adamopoulos, T. y Restuccia, D. (2014). The size distribution of farms and international productivity differences. *American Economic Review*, 104, 1667-1697.
+
+Besley, T. (1995). Property rights and investment incentives: Theory and evidence from Ghana. *Journal of Political Economy*, 103, 903-937.
+
+Deininger, K. y Jin, S. (2005). The potential of land rental markets in the process of economic development: Evidence from China. *Journal of Development Economics*, 78, 241-270.
+
+Deininger, K., Jin, S. y Nagarajan, H. K. (2008). Efficiency and equity impacts of rural land rental restrictions: Evidence from India. *European Economic Review*, 52, 892-918.
+
+Gollin, D., Lagakos, D. y Waugh, M. E. (2014). Agricultural productivity differences across countries. *American Economic Review*, 104, 165-170.
+
+Hsieh, C. T. y Klenow, P. J. (2009). Misallocation and manufacturing TFP in China and India. *Quarterly Journal of Economics*, 124, 1403-1448.
+
+Jin, S. y Deininger, K. (2009). Land rental markets in the process of rural structural transformation: Productivity and equity impacts from China. *Journal of Comparative Economics*, 37, 629-646.
+
+Kimura, S., Otsuka, K., Sonobe, T. y Rozelle, S. (2011). Efficiency of land allocation through tenancy markets: Evidence from China. *Economic Development and Cultural Change*, 59, 485-510.
+
+Macours, K., de Janvry, A. y Sadoulet, E. (2010). Insecurity of property rights and social matching in the tenancy market. *European Economic Review*, 54, 880-899.
+
+Restuccia, D. y Rogerson, R. (2008). Policy distortions and aggregate productivity with heterogeneous establishments. *Review of Economic Dynamics*, 11, 707-720.
+
+Restuccia, D., Yang, D. T. y Zhu, X. (2008). Agriculture and aggregate productivity: A quantitative cross-country analysis. *Journal of Monetary Economics*, 55, 234-250.
+
+Vranken, L. y Swinnen, J. F. M. (2006). Land rental markets in transition: Theory and evidence from Hungary. *World Development*, 34, 481-500.

@@ -1,0 +1,82 @@
+"category","item","element","unit","n_country_years","n_countries"
+"fragmentation_parcels","Parcels","Number","No",17,17
+"fragmentation_parcels","Holdings reporting number of parcels","Number","No",14,14
+"fragmentation_parcels","Holdings with 1 parcel","Number","No",14,14
+"fragmentation_parcels","Holdings with 2-3 parcels","Number","No",14,14
+"fragmentation_parcels","Holdings with 4-5 parcels","Number","No",14,14
+"fragmentation_parcels","Holdings with 6-9 parcels","Number","No",14,14
+"fragmentation_parcels","Parcels","Average number of parcels per holding","No",11,11
+"fragmentation_parcels","Holdings with 10 or more parcels","Number","No",10,10
+"holding_size_distribution","Holdings","Area","ha",66,66
+"holding_size_distribution","Holdings","Average area","ha",66,66
+"holding_size_distribution","Holdings owned by the holder or in owner-like possession","Area","ha",66,66
+"holding_size_distribution","Holdings owned by the holder or in owner-like possession","Percentage of total area","%",66,66
+"holding_size_distribution","Holdings rented from others","Area","ha",66,66
+"holding_size_distribution","Holdings rented from others","Percentage of total area","%",66,66
+"holding_size_distribution","Holdings with land size 0-<1","Number","No",64,64
+"holding_size_distribution","Holdings with land size 1-<2","Number","No",64,64
+"holding_size_distribution","Holdings with land size 0-<1","Area","ha",63,63
+"holding_size_distribution","Holdings with land size 1-<2","Area","ha",63,63
+"holding_size_distribution","Holdings with land size 10-<20","Number","No",63,63
+"holding_size_distribution","Holdings with land size 5-<10","Number","No",63,63
+"holding_size_distribution","Holdings with land size 10-<20","Area","ha",62,62
+"holding_size_distribution","Holdings with land size 5-<10","Area","ha",62,62
+"holding_size_distribution","Holdings with land size 2-<3","Number","No",59,59
+"holding_size_distribution","Holdings with land size 20-<50","Area","ha",59,59
+"holding_size_distribution","Holdings with land size 20-<50","Number","No",59,59
+"holding_size_distribution","Holdings with land size 3-<4","Number","No",59,59
+"holding_size_distribution","Holdings with land size 2-<3","Area","ha",58,58
+"holding_size_distribution","Holdings with land size 3-<4","Area","ha",58,58
+"holding_size_distribution","Holdings with land size 4-<5","Number","No",58,58
+"holding_size_distribution","Holdings with land size 4-<5","Area","ha",57,57
+"holding_size_distribution","Holdings with land size 50-<100","Area","ha",57,57
+"holding_size_distribution","Holdings with land size 50-<100","Number","No",57,57
+"holding_size_distribution","Holdings operated by civil persons","Area","ha",56,56
+"holding_size_distribution","Holdings operated by civil persons","Percentage of total area","%",56,56
+"holding_size_distribution","Holdings operated by juridical persons","Area","ha",56,56
+"holding_size_distribution","Holdings operated by juridical persons","Percentage of total area","%",56,56
+"holding_size_distribution","Holdings with land size 100-<200","Number","No",54,54
+"holding_size_distribution","Holdings with land size 100-<200","Area","ha",53,53
+"holding_size_distribution","Holdings operated under other forms of tenure","Area","ha",47,47
+"holding_size_distribution","Holdings operated under other forms of tenure","Percentage of total area","%",47,47
+"holding_size_distribution","Holdings with land size 200-<500","Number","No",21,21
+"holding_size_distribution","Holdings with land size 200-<500","Area","ha",20,20
+"holding_size_distribution","Holdings with land size 500-<1000","Number","No",17,17
+"holding_size_distribution","Holdings with land size 500-<1000","Area","ha",16,16
+"holding_size_distribution","Holdings under more than one form of tenure","Area","ha",12,12
+"holding_size_distribution","Holdings under more than one form of tenure","Percentage of total area","%",12,12
+"holding_size_distribution","Holdings with land size 1000-<2500","Area","ha",11,11
+"holding_size_distribution","Holdings with land size 1000-<2500","Number","No",11,11
+"holding_size_distribution","Holdings operated by other legal status(es)","Area","ha",9,9
+"holding_size_distribution","Holdings operated by other legal status(es)","Percentage of total area","%",9,9
+"holding_size_distribution","Holdings with land size >=2500","Area","ha",8,8
+"holding_size_distribution","Holdings with land size >=2500","Number","No",8,8
+"holding_size_distribution","Holdings reporting household size","Number","No",6,6
+"holding_size_distribution","Holdings with household size of 1 person","Number","No",6,6
+"holding_size_distribution","Holdings with household size of 10 or more persons","Number","No",6,6
+"holding_size_distribution","Holdings with household size of 2-3 persons","Number","No",6,6
+"holding_size_distribution","Holdings with household size of 4-5 persons","Number","No",6,6
+"holding_size_distribution","Holdings with household size of 6-9 persons","Number","No",6,6
+"holding_size_distribution","Holdings with land size 2-<5","Area","ha",5,5
+"holding_size_distribution","Holdings with land size 2-<5","Number","No",5,5
+"holding_size_distribution","Holdings with land size >=1000","Area","ha",1,1
+"holding_size_distribution","Holdings with land size >=1000","Number","No",1,1
+"holdings_general","Holdings","Number","No",66,66
+"holdings_general","Holdings operated by civil persons","Number","No",56,56
+"holdings_general","Holdings operated by civil persons","Percent of total number","%",56,56
+"holdings_general","Holdings operated by juridical persons","Number","No",56,56
+"holdings_general","Holdings operated by juridical persons","Percent of total number","%",56,56
+"holdings_general","Holdings owned by the holder or in owner-like possession","Number","No",55,55
+"holdings_general","Holdings owned by the holder or in owner-like possession","Percent of total number","%",55,55
+"holdings_general","Holdings rented from others","Number","No",55,55
+"holdings_general","Holdings rented from others","Percent of total number","%",55,55
+"holdings_general","Holdings without land","Number","No",44,44
+"holdings_general","Employees on the holding","Number","No",43,43
+"holdings_general","Employees on the holding","Average persons per holding (employees on the holding)","No",43,43
+"holdings_general","Holdings operated under other forms of tenure","Number","No",39,39
+"holdings_general","Holdings operated under other forms of tenure","Percent of total number","%",39,39
+"holdings_general","Household members, total","Average persons per holding (household members)","No",15,15
+"holdings_general","Holdings under more than one form of tenure","Number","No",11,11
+"holdings_general","Holdings under more than one form of tenure","Percent of total number","%",11,11
+"holdings_general","Holdings operated by other legal status(es)","Number","No",9,9
+"holdings_general","Holdings operated by other legal status(es)","Percent of total number","%",9,9

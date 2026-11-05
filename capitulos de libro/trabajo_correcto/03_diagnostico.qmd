@@ -1,0 +1,116 @@
+# Diagnóstico: problemas y potencialidades
+
+A partir de la literatura revisada se identifican los siguientes problemas y potencialidades del arrendamiento de tierras como mecanismo de reasignación. Cada uno se sustenta en la fuente indicada y define una implicación para el estudio.
+
+::: {#tabla-problemas}
+**Tabla 1: Problemas y potencialidades identificados**
+
+```{r}
+problemas <- data.frame(
+  Tipo = c(
+    "Problema", "Problema", "Problema", "Problema", "Problema", "Problema",
+    "Problema", "Problema", "Potencialidad", "Potencialidad", "Potencialidad",
+    "Potencialidad", "Potencialidad", "Potencialidad"
+  ),
+  `Problema o potencialidad` = c(
+    "La prevalencia no equivale a efectividad: con tenencia insegura se arrienda a allegados y no a los más productivos",
+    "El riesgo de expropiación y la falta de derechos seguros frenan el arriendo y la inversión",
+    "Restricciones legales y costos de transacción limitan la participación",
+    "Persisten fricciones aun con certificación de tierras",
+    "Estructura agraria fragmentada y mala asignación de recursos",
+    "Errores de medición del tamaño de las explotaciones y de la TFP",
+    "Muestra pequeña, heterocedasticidad y observaciones influyentes",
+    "Factores omitidos que afectan la TFP, como el clima",
+    "El arriendo reasigna tierra hacia hogares más hábiles y con menos tierra",
+    "La certificación y la seguridad de tenencia elevan el arriendo y la productividad",
+    "Los mercados de trabajo no agrícolas impulsan el arriendo",
+    "Las ganancias agregadas de una mejor reasignación pueden ser grandes",
+    "Existen datos públicos, comparables y reproducibles",
+    "Los agentes de IA aceleran la construcción de la base y la modelación"
+  ),
+  `Según` = c(
+    "Macours et al. (2010); Besley (1995)",
+    "Kimura et al. (2011); Goldstein y Udry (2008)",
+    "Deininger et al. (2008); Jin y Deininger (2009)",
+    "Chen et al. (2022)",
+    "Adamopoulos y Restuccia (2014); Restuccia y Rogerson (2008); Lowder et al. (2016)",
+    "Carletto et al. (2013); Desiere y Jolliffe (2018); Coelli y Rao (2005)",
+    "Long y Ervin (2000); Hayes y Cai (2007); Cook (1977)",
+    "Ortiz-Bobea et al. (2021)",
+    "Deininger y Jin (2005); Vranken y Swinnen (2006); Jin y Deininger (2009)",
+    "Holden et al. (2011); Ali et al. (2014); Chen et al. (2022)",
+    "Kung (2002); Jin y Deininger (2009)",
+    "Chen et al. (2022); Adamopoulos et al. (2022); Hsieh y Klenow (2009)",
+    "Alston y Pardey (2014); Lowder et al. (2016; 2021)",
+    "Korinek (2023); Brynjolfsson et al. (2025)"
+  ),
+  `Implicación para el estudio` = c(
+    "La proporción de tierra arrendada es un indicador agregado limitado",
+    "La seguridad de tenencia es un factor omitido relevante",
+    "Países con igual prevalencia pueden tener mercados distintos",
+    "La señal agregada puede ser débil",
+    "Se incorpora el tamaño medio y la interacción con explotaciones menores de dos hectáreas",
+    "Se validan los datos y se prueban medidas alternativas",
+    "Errores HC3 y exclusión de observaciones influyentes",
+    "Se interpreta de forma asociacional, sin causalidad",
+    "Justifica esperar una asociación positiva con la TFP",
+    "Orienta la recomendación de política pública",
+    "El PIB per cápita y el peso agrícola actúan como controles",
+    "La pregunta tiene relevancia de política",
+    "Es viable construir la base con FAO, USDA y Banco Mundial",
+    "Se usan con verificación humana de cada resultado"
+  ),
+  check.names = FALSE
+)
+
+knitr::kable(
+  problemas,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = "llll",
+  linesep = ""
+)
+```
+:::
+
+La [Tabla 1](#tabla-problemas) ordena los hallazgos en dos bloques. Los problemas muestran que la prevalencia del arrendamiento no basta para garantizar una reasignación eficiente; las potencialidades indican por qué, aun así, el arrendamiento puede mejorar la asignación y la productividad. La [Tabla 2](#tabla-esquema) sintetiza esa lectura en cinco ejes y la conecta con la respuesta metodológica del proyecto.
+
+::: {#tabla-esquema}
+**Tabla 2: Esquema síntesis del diagnóstico**
+
+```{r}
+esquema <- data.frame(
+  Eje = c("Institucional", "Estructural", "Medición", "Estadístico", "Tecnológico"),
+  Problema = c(
+    "Inseguridad de tenencia y costos de transacción",
+    "Explotaciones fragmentadas y mala asignación",
+    "Errores en tamaño de explotación y TFP",
+    "N pequeño, heterocedasticidad, influyentes",
+    "Tiempo y riesgo de errores al consolidar y modelar"
+  ),
+  Potencialidad = c(
+    "Certificación y reformas de seguridad",
+    "Reasignación hacia productores más hábiles",
+    "Fuentes oficiales y comparables",
+    "Métodos robustos disponibles",
+    "Agentes de IA como apoyo"
+  ),
+  `Respuesta del proyecto` = c(
+    "Interpretar la prevalencia como indicador parcial",
+    "Interacción con explotaciones menores de dos hectáreas",
+    "Validación y medidas alternativas",
+    "HC3 y distancia de Cook",
+    "Protocolo de verificación humana"
+  ),
+  check.names = FALSE
+)
+
+knitr::kable(
+  esquema,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = "llll",
+  linesep = ""
+)
+```
+:::

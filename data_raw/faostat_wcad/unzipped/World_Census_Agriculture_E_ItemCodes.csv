@@ -1,0 +1,81 @@
+Item Code,Item
+270051,Civil holders; female
+2700510,Civil holders; female
+2700511,Civil holders; female <25 years
+2700513,Civil holders; female <35 years
+2700517,Civil holders; female >=65 years
+2700512,Civil holders; female 25-<35 years
+2700514,Civil holders; female 35-<45 years
+2700515,Civil holders; female 45-<55 years
+2700516,Civil holders; female 55-<65 years
+270052,Civil holders; male
+2700520,Civil holders; male
+2700521,Civil holders; male <25 years
+2700523,Civil holders; male <35 years
+2700527,Civil holders; male >=65 years
+2700522,Civil holders; male 25-<35 years
+2700524,Civil holders; male 35-<45 years
+2700525,Civil holders; male 45-<55 years
+2700526,Civil holders; male 55-<65 years
+270050,Civil holders; total
+2700500,Civil holders; total
+2700501,Civil holders; total <25 years
+2700503,Civil holders; total <35 years
+2700507,Civil holders; total >=65 years
+2700502,Civil holders; total 25-<35 years
+2700504,Civil holders; total 35-<45 years
+2700505,Civil holders; total 45-<55 years
+2700506,Civil holders; total 55-<65 years
+27010,Employees on the holding
+27005,Holders by gender and age
+27008,Holder's household members
+27002,Holdings
+28002,Holdings by household size
+27003,Holdings by land size
+27007,Holdings by legal status
+28001,Holdings by number of parcels
+27006,Holdings by tenure
+270070,Holdings operated by civil persons
+270071,Holdings operated by juridical persons
+270072,Holdings operated by other legal status(es)
+270062,Holdings operated under other forms of tenure
+270060,Holdings owned by the holder or in owner-like possession
+270061,Holdings rented from others
+280021,Holdings reporting household size
+280011,Holdings reporting number of parcels
+270064,Holdings under more than one form of tenure
+280012,Holdings with 1 parcel
+280016,Holdings with 10 or more parcels
+280013,Holdings with 2-3 parcels
+280014,Holdings with 4-5 parcels
+280015,Holdings with 6-9 parcels
+280022,Holdings with household size of 1 person
+280026,Holdings with household size of 10 or more persons
+280023,Holdings with household size of 2-3 persons
+280024,Holdings with household size of 4-5 persons
+280025,Holdings with household size of 6-9 persons
+2700304,Holdings with land size >=1000
+2700305,Holdings with land size >=2500
+270030,Holdings with land size 0-<1
+270031,Holdings with land size 1-<2
+270037,Holdings with land size 10-<20
+2700300,Holdings with land size 100-<200
+2700303,Holdings with land size 1000-<2500
+270032,Holdings with land size 2-<3
+270033,Holdings with land size 2-<5
+270038,Holdings with land size 20-<50
+2700301,Holdings with land size 200-<500
+270034,Holdings with land size 3-<4
+270035,Holdings with land size 4-<5
+270036,Holdings with land size 5-<10
+270039,Holdings with land size 50-<100
+2700302,Holdings with land size 500-<1000
+270066,Holdings without land
+27009,Household members engaged in agriculture
+270091,Household members; engaged in agriculture; female
+270092,Household members; engaged in agriculture; male
+270090,Household members; engaged in agriculture; total
+270081,Household members; female
+270082,Household members; male
+270080,Household members; total
+27004,Parcels

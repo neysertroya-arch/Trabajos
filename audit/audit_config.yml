@@ -1,0 +1,4 @@
+﻿manuscript: "submission/european-review-agricultural-economics/article_erae_anonymous.qmd"
+bibliography: "manuscript/references.bib"
+journal: "European Review of Agricultural Economics"
+results_dir: "05_results"

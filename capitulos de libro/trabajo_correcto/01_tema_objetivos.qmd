@@ -1,0 +1,21 @@
+# Tema y objetivos
+
+## Tema
+
+Arrendamiento de tierras, estructura agraria y crecimiento de la productividad total de los factores (TFP) agrícola: evidencia censal entre 65 países.
+
+La TFP mide cuánto produce la agricultura con los mismos recursos y es uno de los principales determinantes de su capacidad de crecer (Alston y Pardey, 2014). Una de las ideas más difundidas en la literatura sobre mercados de tierras es que el arrendamiento permite que la tierra pase de propietarios con menor capacidad productiva hacia productores más eficientes, lo que mejora la asignación de recursos y, con ello, la productividad (Deininger y Jin, 2005; Jin y Deininger, 2009). Sin embargo, que una proporción alta de la tierra se arriende no implica que el mercado funcione bien: la seguridad de la tenencia, la duración de los contratos y los costos de transacción pueden diferir mucho entre países (Macours et al., 2010; Deininger et al., 2008).
+
+Este proyecto estudia si los países donde el arrendamiento de tierras agrícolas es más frecuente experimentan, después, un crecimiento más rápido de la TFP agrícola. La pregunta es deliberadamente agregada y asociacional: no se hacen afirmaciones causales. Se vinculan las características estructurales observadas en el año censal (FAO) con la evolución posterior de la TFP (USDA ERS), controlando por el nivel de desarrollo con datos del Banco Mundial. La contribución principal es distinguir entre la prevalencia y la efectividad del mercado de arrendamiento.
+
+## Objetivos
+
+**Objetivo 1:** Consolidar una base de datos país–censo que integre los indicadores censales de la FAO, las series de TFP del USDA ERS y los controles del Banco Mundial, y, a partir de ella y de la literatura, diagnosticar los problemas y las potencialidades del arrendamiento de tierras como mecanismo de reasignación.
+
+Para ello se busca:
+
+- reunir y armonizar las tres fuentes en una sola base, con un diccionario de variables;
+- describir la distribución del arrendamiento, del tamaño de las explotaciones y del crecimiento de la TFP en la muestra;
+- identificar los problemas y las potencialidades que condicionan la relación.
+
+**Objetivo 2:** Estimar un modelo de regresión del crecimiento anualizado de la TFP agrícola sobre la prevalencia del arrendamiento, con controles de estructura agraria y desarrollo, errores estándar robustos HC3, un término de interacción con la proporción de explotaciones menores de dos hectáreas y un conjunto de comprobaciones de robustez.

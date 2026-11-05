@@ -1,0 +1,78 @@
+# Metodología
+
+## Objetivo 1: consolidación de la base de datos
+
+La base se construye con el siguiente procedimiento:
+
+1. **Reunir las fuentes.** Del Censo Mundial de Agricultura de la FAO: porcentaje del área agrícola arrendada a terceros, tamaño medio de la explotación, proporción de explotaciones menores de dos hectáreas y proporción de explotaciones arrendadas. Del USDA ERS: series anuales de TFP agrícola. Del Banco Mundial (WDI): PIB per cápita y valor agregado agrícola como porcentaje del PIB.
+2. **Armonizar países y años.** Para cada censo se toma la TFP del año censal y la de cinco años después (tres años para la robustez), los cinco años anteriores como diagnóstico temporal y los controles del año censal.
+3. **Construir las variables.** Cambio logarítmico anualizado de la TFP, logaritmos de tamaño medio y PIB per cápita, e interacción.
+4. **Definir las muestras.** Muestra basal de 65 países y submuestra de censos repetidos para el modelo de efectos fijos.
+5. **Validar.** Revisar duplicados, unidades, rangos plausibles, valores faltantes y observaciones influyentes.
+6. **Documentar.** Elaborar un diccionario de datos y guardar el código para que la base pueda reconstruirse desde las fuentes oficiales.
+
+::: {#tabla-variables}
+**Tabla 3: Variables del estudio**
+
+```{r}
+variables <- data.frame(
+  Variable = c(
+    "Crecimiento de la TFP agrícola",
+    "Prevalencia del arrendamiento",
+    "Explotaciones pequeñas",
+    "Tamaño medio de la explotación",
+    "PIB per cápita",
+    "Peso de la agricultura"
+  ),
+  Medición = c(
+    "Cambio logarítmico anualizado durante los cinco años posteriores al censo",
+    "Porcentaje del área agrícola arrendada a terceros (efecto por 10 pp)",
+    "Proporción de explotaciones menores de dos hectáreas",
+    "Logaritmo",
+    "Logaritmo",
+    "Valor agregado agrícola, % del PIB"
+  ),
+  Fuente = c("USDA ERS", "FAO", "FAO", "FAO", "WDI", "WDI"),
+  Rol = c(
+    "Dependiente",
+    "Independiente de interés",
+    "Moderadora (interacción)",
+    "Control",
+    "Control",
+    "Control"
+  ),
+  check.names = FALSE
+)
+
+knitr::kable(
+  variables,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = "llll",
+  linesep = ""
+)
+```
+:::
+
+## Objetivo 2: modelación
+
+Se estima por mínimos cuadrados ordinarios el modelo base:
+
+$$
+\Delta \ln \mathrm{TFP}_i = \alpha + \beta \, \mathrm{Arr}_i + \gamma \, \ln \mathrm{Tam}_i + \delta \, \ln \mathrm{PIBpc}_i + \theta \, \mathrm{VAA}_i + \varepsilon_i
+$$
+
+donde $\Delta \ln \mathrm{TFP}_i$ es el crecimiento anualizado de la TFP en los cinco años posteriores al censo del país $i$, $\mathrm{Arr}_i$ es la prevalencia del arrendamiento, $\ln \mathrm{Tam}_i$ el logaritmo del tamaño medio de la explotación, $\ln \mathrm{PIBpc}_i$ el logaritmo del PIB per cápita y $\mathrm{VAA}_i$ el valor agregado agrícola como porcentaje del PIB. El modelo de heterogeneidad añade la proporción de explotaciones menores de dos hectáreas ($\mathrm{Peq}_i$) y su interacción con $\mathrm{Arr}_i$. La inferencia usa errores estándar robustos HC3. El diseño es asociacional.
+
+Como robustez se emplean:
+
+i. un horizonte de tres años;
+ii. el crecimiento de la TFP en los cinco años previos al censo como diagnóstico temporal;
+iii. la exclusión de observaciones influyentes según la distancia de Cook;
+iv. una medida alternativa basada en la proporción de explotaciones arrendadas;
+v. un resultado de aceleración de la TFP (posterior menos anterior);
+vi. un modelo exploratorio de efectos fijos por país con censos repetidos.
+
+## Apoyo de agentes de IA y control de calidad
+
+Los agentes de IA se emplean para acelerar la consolidación de la base, la escritura y depuración del código, la ejecución de las comprobaciones de robustez y la búsqueda de literatura. Cada resultado se contrasta con las fuentes originales, cada referencia se verifica (autores, año, revista, volumen y páginas) y el uso de IA se declara de forma transparente.

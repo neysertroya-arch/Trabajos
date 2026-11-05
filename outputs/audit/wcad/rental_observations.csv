@@ -1,0 +1,1265 @@
+"source_row","country","census_year","item","unit","measure_dimension","value","flag","note"
+35,"Albania",2012,"Holdings rented from others","ha","area",59539,"A",
+36,"Albania",2012,"Holdings rented from others","%","area",16.02,"A",
+37,"Albania",2012,"Holdings rented from others","No","holdings",18171,"A",
+38,"Albania",2012,"Holdings rented from others","%","holdings",5.65,"A",
+330,"American Samoa",1950,"Holdings rented from others","ha","area",1806,"A",
+339,"American Samoa",1950,"Holdings rented from others","%","area",30.09,"A",
+348,"American Samoa",1950,"Holdings rented from others","No","holdings",628,"A",
+356,"American Samoa",1950,"Holdings rented from others","%","holdings",42.15,"A",
+331,"American Samoa",1960,"Holdings rented from others","ha","area",449,"A",
+340,"American Samoa",1960,"Holdings rented from others","%","area",9.63,"A",
+349,"American Samoa",1960,"Holdings rented from others","No","holdings",316,"A",
+357,"American Samoa",1960,"Holdings rented from others","%","holdings",14.8,"A",
+332,"American Samoa",1970,"Holdings rented from others","ha","area",490,"A",
+341,"American Samoa",1970,"Holdings rented from others","%","area",11.63,"A",
+350,"American Samoa",1970,"Holdings rented from others","No","holdings",267,"A",
+358,"American Samoa",1970,"Holdings rented from others","%","holdings",13.88,"A",
+333,"American Samoa",1980,"Holdings rented from others","ha","area",57,"A",
+342,"American Samoa",1980,"Holdings rented from others","%","area",2.35,"A",
+351,"American Samoa",1980,"Holdings rented from others","No","holdings",67,"A",
+359,"American Samoa",1980,"Holdings rented from others","%","holdings",5.03,"A",
+334,"American Samoa",1990,"Holdings rented from others","ha","area",24,"A",
+343,"American Samoa",1990,"Holdings rented from others","%","area",1.02,"A",
+352,"American Samoa",1990,"Holdings rented from others","No","holdings",10,"A",
+360,"American Samoa",1990,"Holdings rented from others","%","holdings",2.6,"A",
+335,"American Samoa",2003,"Holdings rented from others","ha","area",99,"A",
+344,"American Samoa",2003,"Holdings rented from others","%","area",1.25,"A",
+336,"American Samoa",2008,"Holdings rented from others","ha","area",111.29,"A",
+345,"American Samoa",2008,"Holdings rented from others","%","area",1.45,"A",
+353,"American Samoa",2008,"Holdings rented from others","No","holdings",174,"A",
+361,"American Samoa",2008,"Holdings rented from others","%","holdings",2.98,"A",
+337,"American Samoa",2018,"Holdings rented from others","ha","area",95,"A",
+346,"American Samoa",2018,"Holdings rented from others","%","area",1.63,"A",
+354,"American Samoa",2018,"Holdings rented from others","No","holdings",43,"A",
+362,"American Samoa",2018,"Holdings rented from others","%","holdings",0.68,"A",
+338,"American Samoa",2023,"Holdings rented from others","ha","area",51.44,"A",
+347,"American Samoa",2023,"Holdings rented from others","%","area",1.37,"A",
+355,"American Samoa",2023,"Holdings rented from others","No","holdings",107,"A",
+363,"American Samoa",2023,"Holdings rented from others","%","holdings",1.5,"A",
+532,"Antigua and Barbuda",1984,"Holdings rented from others","ha","area",1025,"A",
+533,"Antigua and Barbuda",1984,"Holdings rented from others","%","area",52.59,"A",
+632,"Argentina",1988,"Holdings rented from others","ha","area",8244686,"A",
+634,"Argentina",1988,"Holdings rented from others","%","area",4.65,"A",
+636,"Argentina",1988,"Holdings rented from others","No","holdings",26186,"A",
+638,"Argentina",1988,"Holdings rented from others","%","holdings",6.92,"A",
+633,"Argentina",2018,"Holdings rented from others","ha","area",16144065,"A",
+635,"Argentina",2018,"Holdings rented from others","%","area",10.43,"A",
+637,"Argentina",2018,"Holdings rented from others","No","holdings",25921,"A",
+639,"Argentina",2018,"Holdings rented from others","%","holdings",10.38,"A",
+1252,"Austria",1930,"Holdings rented from others","ha","area",340752.09,"A",
+1259,"Austria",1930,"Holdings rented from others","%","area",4.47,"A",
+1266,"Austria",1930,"Holdings rented from others","No","holdings",39973,"A",
+1273,"Austria",1930,"Holdings rented from others","%","holdings",9.22,"A",
+1253,"Austria",1951,"Holdings rented from others","ha","area",135742,"A",
+1260,"Austria",1951,"Holdings rented from others","%","area",1.76,"A",
+1267,"Austria",1951,"Holdings rented from others","No","holdings",21160,"A",
+1274,"Austria",1951,"Holdings rented from others","%","holdings",4.89,"A",
+1254,"Austria",1970,"Holdings rented from others","ha","area",62465,"A","Excluding shares of area from rights of common property"
+1261,"Austria",1970,"Holdings rented from others","%","area",0.83,"A","Excluding shares of area from rights of common property"
+1268,"Austria",1970,"Holdings rented from others","No","holdings",6726,"A",
+1275,"Austria",1970,"Holdings rented from others","%","holdings",1.86,"A",
+1255,"Austria",1980,"Holdings rented from others","ha","area",96222,"A","Area under rights of usufruct on common land is excluded (739 954 ha)."
+1262,"Austria",1980,"Holdings rented from others","%","area",1.31,"A","Area under rights of usufruct on common land is excluded (739 954 ha)."
+1269,"Austria",1980,"Holdings rented from others","No","holdings",6946,"A","Area under rights of usufruct on common land is excluded (739 954 ha)."
+1276,"Austria",1980,"Holdings rented from others","%","holdings",2.3,"A","Area under rights of usufruct on common land is excluded (739 954 ha)."
+1270,"Austria",1990,"Holdings rented from others","No","holdings",10297,"A",
+1277,"Austria",1990,"Holdings rented from others","%","holdings",3.77,"A",
+1257,"Austria",2010,"Holdings rented from others","ha","area",891230,"A",
+1264,"Austria",2010,"Holdings rented from others","%","area",15.24,"A",
+1271,"Austria",2010,"Holdings rented from others","No","holdings",70110,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+1278,"Austria",2010,"Holdings rented from others","%","holdings",46.69,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+1258,"Austria",2020,"Holdings rented from others","ha","area",1100080,"A",
+1265,"Austria",2020,"Holdings rented from others","%","area",42.27,"A",
+1272,"Austria",2020,"Holdings rented from others","No","holdings",69420,"A",
+1279,"Austria",2020,"Holdings rented from others","%","holdings",62.66,"A",
+1519,"Azerbaijan",2015,"Holdings rented from others","ha","area",574755,"A",
+1520,"Azerbaijan",2015,"Holdings rented from others","%","area",24.33,"A",
+1618,"Bahamas",1978,"Holdings rented from others","ha","area",888,"A",
+1620,"Bahamas",1978,"Holdings rented from others","%","area",2.45,"A",
+1622,"Bahamas",1978,"Holdings rented from others","No","holdings",170,"A","Holdings with land only."
+1624,"Bahamas",1978,"Holdings rented from others","%","holdings",4,"A","Holdings with land only."
+1619,"Bahamas",1994,"Holdings rented from others","ha","area",8455,"A","Tenure of main parcel."
+1621,"Bahamas",1994,"Holdings rented from others","%","area",41.58,"A","Tenure of main parcel."
+1623,"Bahamas",1994,"Holdings rented from others","No","holdings",354,"A","Tenure of main parcel."
+1625,"Bahamas",1994,"Holdings rented from others","%","holdings",20.11,"A","Tenure of main parcel."
+1890,"Bangladesh",1960,"Holdings rented from others","ha","area",97975,"A",
+1895,"Bangladesh",1960,"Holdings rented from others","%","area",1.11,"A",
+1900,"Bangladesh",1960,"Holdings rented from others","No","holdings",100040,"A",
+1905,"Bangladesh",1960,"Holdings rented from others","%","holdings",1.14,"A",
+1891,"Bangladesh",1977,"Holdings rented from others","ha","area",36084,"A",
+1896,"Bangladesh",1977,"Holdings rented from others","%","area",0.41,"A",
+1901,"Bangladesh",1977,"Holdings rented from others","No","holdings",35453,"A","Holdings with land only."
+1906,"Bangladesh",1977,"Holdings rented from others","%","holdings",0.52,"A","Holdings with land only."
+1892,"Bangladesh",1996,"Holdings rented from others","ha","area",175493,"A",
+1897,"Bangladesh",1996,"Holdings rented from others","%","area",2.12,"A",
+1902,"Bangladesh",1996,"Holdings rented from others","No","holdings",1814577,"A",
+1907,"Bangladesh",1996,"Holdings rented from others","%","holdings",10.18,"A",
+1893,"Bangladesh",2008,"Holdings rented from others","ha","area",172364.11,"A",
+1898,"Bangladesh",2008,"Holdings rented from others","%","area",1.91,"A",
+1903,"Bangladesh",2008,"Holdings rented from others","No","holdings",473251,"A",
+1908,"Bangladesh",2008,"Holdings rented from others","%","holdings",3.12,"A",
+1894,"Bangladesh",2019,"Holdings rented from others","ha","area",133335.54,"A",
+1899,"Bangladesh",2019,"Holdings rented from others","%","area",1.52,"A",
+1904,"Bangladesh",2019,"Holdings rented from others","No","holdings",358861,"A",
+1909,"Bangladesh",2019,"Holdings rented from others","%","holdings",2.13,"A",
+2023,"Barbados",1989,"Holdings rented from others","ha","area",1498,"A","Area reported by tenure."
+2024,"Barbados",1989,"Holdings rented from others","%","area",6.95,"A","Area reported by tenure."
+2339,"Belgium",1959,"Holdings rented from others","ha","area",512848,"A","Data on area are for agricultural area"
+2345,"Belgium",1959,"Holdings rented from others","%","area",29.02,"A","Data on area are for agricultural area"
+2351,"Belgium",1959,"Holdings rented from others","No","holdings",66502,"A","Data on area are for agricultural area"
+2355,"Belgium",1959,"Holdings rented from others","%","holdings",24.72,"A","Data on area are for agricultural area"
+2340,"Belgium",1970,"Holdings rented from others","ha","area",427458,"A","Data refer to agricultural area"
+2346,"Belgium",1970,"Holdings rented from others","%","area",26.67,"A","Data refer to agricultural area"
+2352,"Belgium",1970,"Holdings rented from others","No","holdings",42819,"A","Excludes 4543 holdings without agricultural land"
+2356,"Belgium",1970,"Holdings rented from others","%","holdings",23.27,"A","Excludes 4543 holdings without agricultural land"
+2341,"Belgium",1990,"Holdings rented from others","ha","area",908542,"A","Data refer to agricultural land."
+2347,"Belgium",1990,"Holdings rented from others","%","area",64.88,"A","Data refer to agricultural land."
+2343,"Belgium",2010,"Holdings rented from others","ha","area",895640,"A",
+2349,"Belgium",2010,"Holdings rented from others","%","area",64.67,"A",
+2353,"Belgium",2010,"Holdings rented from others","No","holdings",32450,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+2357,"Belgium",2010,"Holdings rented from others","%","holdings",75.73,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+2344,"Belgium",2020,"Holdings rented from others","ha","area",825090,"A",
+2350,"Belgium",2020,"Holdings rented from others","%","area",60.31,"A",
+2354,"Belgium",2020,"Holdings rented from others","No","holdings",28190,"A",
+2358,"Belgium",2020,"Holdings rented from others","%","holdings",78.31,"A",
+2740,"Bolivia (Plurinational State of)",2013,"Holdings rented from others","ha","area",483000,"A","The figures provided are for holdings with land."
+2741,"Bolivia (Plurinational State of)",2013,"Holdings rented from others","%","area",1.39,"A","The figures provided are for holdings with land."
+2742,"Bolivia (Plurinational State of)",2013,"Holdings rented from others","No","holdings",22860,"A","The figures provided are for holdings with land."
+2743,"Bolivia (Plurinational State of)",2013,"Holdings rented from others","%","holdings",2.62,"A","The figures provided are for holdings with land."
+3077,"Brazil",1960,"Holdings rented from others","ha","area",17907956,"A",
+3084,"Brazil",1960,"Holdings rented from others","%","area",7.17,"A",
+3091,"Brazil",1960,"Holdings rented from others","No","holdings",575871,"A",
+3095,"Brazil",1960,"Holdings rented from others","%","holdings",17.25,"A",
+3078,"Brazil",1970,"Holdings rented from others","ha","area",17949833,"A",
+3085,"Brazil",1970,"Holdings rented from others","%","area",6.1,"A",
+3092,"Brazil",1970,"Holdings rented from others","No","holdings",1006505,"A",
+3096,"Brazil",1970,"Holdings rented from others","%","holdings",20.44,"A",
+3079,"Brazil",1985,"Holdings rented from others","ha","area",16489664,"A",
+3086,"Brazil",1985,"Holdings rented from others","%","area",4.52,"A",
+3093,"Brazil",1985,"Holdings rented from others","No","holdings",887007,"A",
+3097,"Brazil",1985,"Holdings rented from others","%","holdings",17.19,"A",
+3080,"Brazil",1986,"Holdings rented from others","ha","area",19355434,"A",
+3087,"Brazil",1986,"Holdings rented from others","%","area",5.14,"A",
+3081,"Brazil",1996,"Holdings rented from others","ha","area",11823529,"A",
+3088,"Brazil",1996,"Holdings rented from others","%","area",3.34,"A",
+3082,"Brazil",2006,"Holdings rented from others","ha","area",15127498,"A",
+3089,"Brazil",2006,"Holdings rented from others","%","area",4.53,"A",
+3083,"Brazil",2017,"Holdings rented from others","ha","area",43455249,"A",
+3090,"Brazil",2017,"Holdings rented from others","%","area",12.37,"A",
+3094,"Brazil",2017,"Holdings rented from others","No","holdings",827630,"A",
+3098,"Brazil",2017,"Holdings rented from others","%","holdings",16.31,"A",
+3415,"Bulgaria",2010,"Holdings rented from others","ha","area",2894980,"A",
+3417,"Bulgaria",2010,"Holdings rented from others","%","area",55.03,"A",
+3419,"Bulgaria",2010,"Holdings rented from others","No","holdings",73040,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+3421,"Bulgaria",2010,"Holdings rented from others","%","holdings",19.71,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+3416,"Bulgaria",2020,"Holdings rented from others","ha","area",3519870,"A",
+3418,"Bulgaria",2020,"Holdings rented from others","%","area",77.12,"A",
+3420,"Bulgaria",2020,"Holdings rented from others","No","holdings",61230,"A",
+3422,"Bulgaria",2020,"Holdings rented from others","%","holdings",46.13,"A",
+3629,"Cabo Verde",2015,"Holdings rented from others","ha","area",5605,"A","The category 'not declared' is included in other form of tenure."
+3630,"Cabo Verde",2015,"Holdings rented from others","%","area",15.37,"A","The category 'not declared' is included in other form of tenure."
+3711,"Cambodia",2013,"Holdings rented from others","ha","area",108946,"A",
+3712,"Cambodia",2013,"Holdings rented from others","%","area",3.31,"A",
+4008,"Canada",1931,"Holdings rented from others","ha","area",8106812.81,"A",
+4017,"Canada",1931,"Holdings rented from others","%","area",12.28,"A",
+4026,"Canada",1931,"Holdings rented from others","No","holdings",74382,"A",
+4034,"Canada",1931,"Holdings rented from others","%","holdings",10.21,"A",
+4009,"Canada",1951,"Holdings rented from others","ha","area",6342269,"A",
+4018,"Canada",1951,"Holdings rented from others","%","area",9,"A",
+4027,"Canada",1951,"Holdings rented from others","No","holdings",44983,"A",
+4035,"Canada",1951,"Holdings rented from others","%","holdings",7.22,"A",
+4010,"Canada",1961,"Holdings rented from others","ha","area",4250521,"A",
+4019,"Canada",1961,"Holdings rented from others","%","area",6.09,"A",
+4028,"Canada",1961,"Holdings rented from others","No","holdings",27696,"A",
+4036,"Canada",1961,"Holdings rented from others","%","holdings",5.76,"A",
+4011,"Canada",1971,"Holdings rented from others","ha","area",3839474,"A",
+4020,"Canada",1971,"Holdings rented from others","%","area",5.59,"A",
+4029,"Canada",1971,"Holdings rented from others","No","holdings",19200,"A",
+4037,"Canada",1971,"Holdings rented from others","%","holdings",5.24,"A",
+4030,"Canada",1981,"Holdings rented from others","No","holdings",19847,"A",
+4038,"Canada",1981,"Holdings rented from others","%","holdings",6.23,"A",
+4012,"Canada",1991,"Holdings rented from others","ha","area",24792348,"A",
+4021,"Canada",1991,"Holdings rented from others","%","area",36.59,"A",
+4013,"Canada",2001,"Holdings rented from others","ha","area",25237292,"A",
+4022,"Canada",2001,"Holdings rented from others","%","area",37.39,"A",
+4014,"Canada",2011,"Holdings rented from others","ha","area",23841892,"A","'total area' includes also 'total area of land used by others' (3 314 424 ha)."
+4023,"Canada",2011,"Holdings rented from others","%","area",36.79,"A","'total area' includes also 'total area of land used by others' (3 314 424 ha)."
+4031,"Canada",2011,"Holdings rented from others","No","holdings",97892,"A","'total area' includes also 'total area of land used by others' (3 314 424 ha)."
+4039,"Canada",2011,"Holdings rented from others","%","holdings",47.58,"A","'total area' includes also 'total area of land used by others' (3 314 424 ha)."
+4015,"Canada",2016,"Holdings rented from others","ha","area",24801313,"A",
+4024,"Canada",2016,"Holdings rented from others","%","area",38.61,"A",
+4032,"Canada",2016,"Holdings rented from others","No","holdings",83878,"A",
+4040,"Canada",2016,"Holdings rented from others","%","holdings",43.35,"A",
+4016,"Canada",2021,"Holdings rented from others","ha","area",23528019,"A",
+4025,"Canada",2021,"Holdings rented from others","%","area",37.83,"A",
+4033,"Canada",2021,"Holdings rented from others","No","holdings",80853,"A",
+4041,"Canada",2021,"Holdings rented from others","%","holdings",42.58,"A",
+4442,"Chile",1997,"Holdings rented from others","ha","area",793578,"A","Holdings with land only."
+4445,"Chile",1997,"Holdings rented from others","%","area",2.99,"A","Holdings with land only."
+4448,"Chile",1997,"Holdings rented from others","No","holdings",13946,"A","Holdings with land only."
+4451,"Chile",1997,"Holdings rented from others","%","holdings",4.41,"A","Holdings with land only."
+4443,"Chile",2021,"Holdings rented from others","ha","area",884935,"A","34 603 ha of holdings are not classified by tenure."
+4446,"Chile",2021,"Holdings rented from others","%","area",1.93,"A","34 603 ha of holdings are not classified by tenure."
+4449,"Chile",2021,"Holdings rented from others","No","holdings",11081,"A","130 number of holdings are not classified by tenure."
+4452,"Chile",2021,"Holdings rented from others","%","holdings",7.99,"A","130 number of holdings are not classified by tenure."
+4785,"Colombia",1960,"Holdings rented from others","ha","area",2009274,"A",
+4788,"Colombia",1960,"Holdings rented from others","%","area",7.35,"A",
+4791,"Colombia",1960,"Holdings rented from others","No","holdings",282347,"A",
+4794,"Colombia",1960,"Holdings rented from others","%","holdings",23.34,"A",
+4787,"Colombia",1988,"Holdings rented from others","ha","area",921364,"A",
+4790,"Colombia",1988,"Holdings rented from others","%","area",2.56,"A",
+4793,"Colombia",1988,"Holdings rented from others","No","holdings",86140,"A",
+4796,"Colombia",1988,"Holdings rented from others","%","holdings",5.57,"A",
+5036,"Cook Islands",2000,"Holdings rented from others","ha","area",194,"A",
+5038,"Cook Islands",2000,"Holdings rented from others","%","area",18.85,"A",
+5037,"Cook Islands",2011,"Holdings rented from others","ha","area",120,"A",
+5039,"Cook Islands",2011,"Holdings rented from others","%","area",19.93,"A",
+5189,"Costa Rica",1950,"Holdings rented from others","ha","area",16452,"A",
+5193,"Costa Rica",1950,"Holdings rented from others","%","area",0.91,"A",
+5197,"Costa Rica",1950,"Holdings rented from others","No","holdings",1559,"A",
+5200,"Costa Rica",1950,"Holdings rented from others","%","holdings",3.62,"A",
+5190,"Costa Rica",1963,"Holdings rented from others","ha","area",17086,"A",
+5194,"Costa Rica",1963,"Holdings rented from others","%","area",0.64,"A",
+5198,"Costa Rica",1963,"Holdings rented from others","No","holdings",2579,"A",
+5201,"Costa Rica",1963,"Holdings rented from others","%","holdings",3.99,"A",
+5191,"Costa Rica",1973,"Holdings rented from others","ha","area",37993,"A",
+5195,"Costa Rica",1973,"Holdings rented from others","%","area",1.22,"A",
+5199,"Costa Rica",1973,"Holdings rented from others","No","holdings",3821,"A",
+5202,"Costa Rica",1973,"Holdings rented from others","%","holdings",4.68,"A",
+5192,"Costa Rica",2014,"Holdings rented from others","ha","area",179905,"A",
+5196,"Costa Rica",2014,"Holdings rented from others","%","area",7.48,"A",
+5363,"Côte d'Ivoire",2001,"Holdings rented from others","ha","area",174801,"A","Area of traditional sector only."
+5364,"Côte d'Ivoire",2001,"Holdings rented from others","%","area",4.02,"A","Area of traditional sector only."
+5487,"Croatia",2003,"Holdings rented from others","ha","area",328276,"A","Agricultural area"
+5490,"Croatia",2003,"Holdings rented from others","%","area",23.59,"A","Agricultural area"
+5488,"Croatia",2010,"Holdings rented from others","ha","area",600290,"A",
+5491,"Croatia",2010,"Holdings rented from others","%","area",39.69,"A",
+5493,"Croatia",2010,"Holdings rented from others","No","holdings",65470,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+5495,"Croatia",2010,"Holdings rented from others","%","holdings",28.06,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+5489,"Croatia",2020,"Holdings rented from others","ha","area",524000,"A",
+5492,"Croatia",2020,"Holdings rented from others","%","area",42.55,"A",
+5494,"Croatia",2020,"Holdings rented from others","No","holdings",33620,"A",
+5496,"Croatia",2020,"Holdings rented from others","%","holdings",23.36,"A",
+5695,"Cyprus",1977,"Holdings rented from others","ha","area",47687,"A",
+5700,"Cyprus",1977,"Holdings rented from others","%","area",23.71,"A",
+5696,"Cyprus",1994,"Holdings rented from others","ha","area",58054,"A",
+5701,"Cyprus",1994,"Holdings rented from others","%","area",32.66,"A",
+5697,"Cyprus",2003,"Holdings rented from others","ha","area",80885,"A","Agricultural area"
+5702,"Cyprus",2003,"Holdings rented from others","%","area",41.03,"A","Agricultural area"
+5698,"Cyprus",2010,"Holdings rented from others","ha","area",61070,"A",
+5703,"Cyprus",2010,"Holdings rented from others","%","area",44.33,"A",
+5705,"Cyprus",2010,"Holdings rented from others","No","holdings",6260,"A",
+5707,"Cyprus",2010,"Holdings rented from others","%","holdings",16.11,"A",
+5699,"Cyprus",2020,"Holdings rented from others","ha","area",77000,"A",
+5704,"Cyprus",2020,"Holdings rented from others","%","area",57.4,"A",
+5706,"Cyprus",2020,"Holdings rented from others","No","holdings",6630,"A",
+5708,"Cyprus",2020,"Holdings rented from others","%","holdings",19.47,"A",
+5981,"Czechia",2000,"Holdings rented from others","No","holdings",8446,"A",
+5984,"Czechia",2000,"Holdings rented from others","%","holdings",14.95,"A",
+5977,"Czechia",2010,"Holdings rented from others","ha","area",2716380,"A",
+5979,"Czechia",2010,"Holdings rented from others","%","area",53.63,"A",
+5982,"Czechia",2010,"Holdings rented from others","No","holdings",14080,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+5985,"Czechia",2010,"Holdings rented from others","%","holdings",61.59,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+5978,"Czechia",2020,"Holdings rented from others","ha","area",2539940,"A",
+5980,"Czechia",2020,"Holdings rented from others","%","area",72.72,"A",
+5983,"Czechia",2020,"Holdings rented from others","No","holdings",18070,"A",
+5986,"Czechia",2020,"Holdings rented from others","%","holdings",62.5,"A",
+6234,"Democratic Republic of the Congo",1990,"Holdings rented from others","ha","area",64000,"A",
+6235,"Democratic Republic of the Congo",1990,"Holdings rented from others","%","area",2.68,"A",
+6446,"Denmark",2010,"Holdings rented from others","ha","area",825970,"A",
+6449,"Denmark",2010,"Holdings rented from others","%","area",27.52,"A",
+6451,"Denmark",2010,"Holdings rented from others","No","holdings",19710,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+6453,"Denmark",2010,"Holdings rented from others","%","holdings",47.65,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+6447,"Denmark",2020,"Holdings rented from others","ha","area",1074650,"A",
+6450,"Denmark",2020,"Holdings rented from others","%","area",40.86,"A",
+6452,"Denmark",2020,"Holdings rented from others","No","holdings",16590,"A",
+6454,"Denmark",2020,"Holdings rented from others","%","holdings",44.73,"A",
+6614,"Dominica",1995,"Holdings rented from others","ha","area",1160,"A",
+6615,"Dominica",1995,"Holdings rented from others","%","area",5.49,"A",
+6731,"Dominican Republic",1950,"Holdings rented from others","ha","area",56246,"A",
+6733,"Dominican Republic",1950,"Holdings rented from others","%","area",2.42,"A",
+6735,"Dominican Republic",1950,"Holdings rented from others","No","holdings",17054,"A",
+6738,"Dominican Republic",1950,"Holdings rented from others","%","holdings",6.16,"A",
+6736,"Dominican Republic",1960,"Holdings rented from others","No","holdings",129149,"A",
+6739,"Dominican Republic",1960,"Holdings rented from others","%","holdings",28.89,"A",
+6732,"Dominican Republic",1971,"Holdings rented from others","ha","area",132290,"A",
+6734,"Dominican Republic",1971,"Holdings rented from others","%","area",4.83,"A",
+6737,"Dominican Republic",1971,"Holdings rented from others","No","holdings",30861,"A",
+6740,"Dominican Republic",1971,"Holdings rented from others","%","holdings",10.12,"A",
+6978,"Egypt",1990,"Holdings rented from others","ha","area",614666,"A",
+6981,"Egypt",1990,"Holdings rented from others","%","area",18.64,"A",
+6984,"Egypt",1990,"Holdings rented from others","No","holdings",431633,"A",
+6987,"Egypt",1990,"Holdings rented from others","%","holdings",12.42,"A",
+7191,"El Salvador",1950,"Holdings rented from others","ha","area",79382,"A",
+7194,"El Salvador",1950,"Holdings rented from others","%","area",5.19,"A",
+7337,"Estonia",1929,"Holdings rented from others","ha","area",568498.44,"A",
+7341,"Estonia",1929,"Holdings rented from others","%","area",18.38,"A",
+7345,"Estonia",1929,"Holdings rented from others","No","holdings",27603,"A",
+7349,"Estonia",1929,"Holdings rented from others","%","holdings",20.7,"A",
+7338,"Estonia",2001,"Holdings rented from others","ha","area",255052,"A","Holdings with agricultural land."
+7342,"Estonia",2001,"Holdings rented from others","%","area",14.96,"A","Holdings with agricultural land."
+7346,"Estonia",2001,"Holdings rented from others","No","holdings",11117,"A","Holdings with agricultural land."
+7350,"Estonia",2001,"Holdings rented from others","%","holdings",13.26,"A","Holdings with agricultural land."
+7339,"Estonia",2010,"Holdings rented from others","ha","area",495620,"A",
+7343,"Estonia",2010,"Holdings rented from others","%","area",39.91,"A",
+7347,"Estonia",2010,"Holdings rented from others","No","holdings",4690,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+7351,"Estonia",2010,"Holdings rented from others","%","holdings",23.92,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+7340,"Estonia",2020,"Holdings rented from others","ha","area",616080,"A",
+7344,"Estonia",2020,"Holdings rented from others","%","area",63.17,"A",
+7348,"Estonia",2020,"Holdings rented from others","No","holdings",6610,"A",
+7352,"Estonia",2020,"Holdings rented from others","%","holdings",58.14,"A",
+7725,"Fiji",1991,"Holdings rented from others","ha","area",294972,"A",
+7727,"Fiji",1991,"Holdings rented from others","%","area",49.88,"A",
+7726,"Fiji",2020,"Holdings rented from others","ha","area",49502,"A",
+7728,"Fiji",2020,"Holdings rented from others","%","area",25.42,"A",
+7730,"Fiji",2020,"Holdings rented from others","No","holdings",12639,"A",
+7732,"Fiji",2020,"Holdings rented from others","%","holdings",17.8,"A",
+8049,"Finland",2010,"Holdings rented from others","ha","area",792820,"A",
+8052,"Finland",2010,"Holdings rented from others","%","area",12.68,"A",
+8055,"Finland",2010,"Holdings rented from others","No","holdings",37680,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+8058,"Finland",2010,"Holdings rented from others","%","holdings",58.99,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+8050,"Finland",2020,"Holdings rented from others","ha","area",774570,"A",
+8053,"Finland",2020,"Holdings rented from others","%","area",33.95,"A",
+8056,"Finland",2020,"Holdings rented from others","No","holdings",26070,"A",
+8059,"Finland",2020,"Holdings rented from others","%","holdings",57.13,"A",
+8374,"France",1963,"Holdings rented from others","No","holdings",392230,"A",
+8378,"France",1963,"Holdings rented from others","%","holdings",20.65,"A",
+8366,"France",1988,"Holdings rented from others","ha","area",15729671,"A","Data refer to agricultural land."
+8370,"France",1988,"Holdings rented from others","%","area",49.18,"A","Data refer to agricultural land."
+8368,"France",2010,"Holdings rented from others","ha","area",20949070,"A",
+8372,"France",2010,"Holdings rented from others","%","area",70.9,"A",
+8376,"France",2010,"Holdings rented from others","No","holdings",337170,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+8380,"France",2010,"Holdings rented from others","%","holdings",65.33,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+8369,"France",2020,"Holdings rented from others","ha","area",16946740,"A",
+8373,"France",2020,"Holdings rented from others","%","area",61.93,"A",
+8377,"France",2020,"Holdings rented from others","No","holdings",271750,"A",
+8381,"France",2020,"Holdings rented from others","%","holdings",69.14,"A",
+8579,"French Guiana",1989,"Holdings rented from others","ha","area",11800,"A","Data refer to agricultural land."
+8580,"French Guiana",1989,"Holdings rented from others","%","area",28.4,"A","Data refer to agricultural land."
+8633,"French Polynesia",1995,"Holdings rented from others","ha","area",5451,"A","Data refer to agricultural land."
+8634,"French Polynesia",1995,"Holdings rented from others","%","area",17.88,"A","Data refer to agricultural land."
+8661,"Gabon",2020,"Holdings rented from others","No","holdings",6,"A","Pertains to modern and semi-modern holdings only."
+8662,"Gabon",2020,"Holdings rented from others","%","holdings",0.01,"A","Pertains to modern and semi-modern holdings only."
+8807,"Georgia",2014,"Holdings rented from others","ha","area",107464,"A",
+8808,"Georgia",2014,"Holdings rented from others","%","area",12.76,"A",
+8809,"Georgia",2014,"Holdings rented from others","No","holdings",16407,"A",
+8810,"Georgia",2014,"Holdings rented from others","%","holdings",2.55,"A",
+9100,"Germany",1933,"Holdings rented from others","ha","area",4460477.42,"A","0.5 ha and above"
+9107,"Germany",1933,"Holdings rented from others","%","area",10.59,"A","0.5 ha and above"
+9114,"Germany",1933,"Holdings rented from others","No","holdings",1466785,"A","0.5 ha and above"
+9119,"Germany",1933,"Holdings rented from others","%","holdings",17.35,"A","0.5 ha and above"
+9101,"Germany",1949,"Holdings rented from others","ha","area",899583,"A",
+9108,"Germany",1949,"Holdings rented from others","%","area",4.09,"A",
+9115,"Germany",1949,"Holdings rented from others","No","holdings",108744,"A","Figures pertain to only Germany excluding The Saar"
+9120,"Germany",1949,"Holdings rented from others","%","holdings",5.3,"A","Figures pertain to only Germany excluding The Saar"
+9102,"Germany",1960,"Holdings rented from others","ha","area",1118940,"A",
+9109,"Germany",1960,"Holdings rented from others","%","area",5.23,"A",
+9116,"Germany",1960,"Holdings rented from others","No","holdings",85844,"A",
+9121,"Germany",1960,"Holdings rented from others","%","holdings",4.87,"A",
+9103,"Germany",1995,"Holdings rented from others","ha","area",10446200,"A","Data refer to agricultural land."
+9110,"Germany",1995,"Holdings rented from others","%","area",54.47,"A","Data refer to agricultural land."
+9105,"Germany",2010,"Holdings rented from others","ha","area",9982640,"A",
+9112,"Germany",2010,"Holdings rented from others","%","area",54.29,"A",
+9117,"Germany",2010,"Holdings rented from others","No","holdings",221970,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+9122,"Germany",2010,"Holdings rented from others","%","holdings",74.21,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+9106,"Germany",2020,"Holdings rented from others","ha","area",9970560,"A",
+9113,"Germany",2020,"Holdings rented from others","%","area",60.14,"A",
+9118,"Germany",2020,"Holdings rented from others","No","holdings",195200,"A",
+9123,"Germany",2020,"Holdings rented from others","%","holdings",74.34,"A",
+9511,"Greece",1995,"Holdings rented from others","ha","area",898500,"A","Data refer to agricultural land."
+9515,"Greece",1995,"Holdings rented from others","%","area",24.9,"A","Data refer to agricultural land."
+9514,"Greece",2020,"Holdings rented from others","ha","area",1008900,"A",
+9518,"Greece",2020,"Holdings rented from others","%","area",35.74,"A",
+9520,"Greece",2020,"Holdings rented from others","No","holdings",129854,"A",
+9522,"Greece",2020,"Holdings rented from others","%","holdings",24.47,"A",
+9689,"Grenada",1981,"Holdings rented from others","No","holdings",1156,"A",
+9691,"Grenada",1981,"Holdings rented from others","%","holdings",14.09,"A",
+9685,"Grenada",1995,"Holdings rented from others","ha","area",1659,"A",
+9687,"Grenada",1995,"Holdings rented from others","%","area",11.71,"A",
+9686,"Grenada",2012,"Holdings rented from others","ha","area",917.02,"A",
+9688,"Grenada",2012,"Holdings rented from others","%","area",9.61,"A",
+9690,"Grenada",2012,"Holdings rented from others","No","holdings",600,"A",
+9692,"Grenada",2012,"Holdings rented from others","%","holdings",6.42,"A",
+9837,"Guadeloupe",1989,"Holdings rented from others","ha","area",10081,"A","Data refer to agricultural land."
+9839,"Guadeloupe",1989,"Holdings rented from others","%","area",18.82,"A","Data refer to agricultural land."
+10058,"Guam",1950,"Holdings rented from others","ha","area",2175,"A",
+10066,"Guam",1950,"Holdings rented from others","%","area",21.7,"A",
+10074,"Guam",1950,"Holdings rented from others","No","holdings",227,"A",
+10081,"Guam",1950,"Holdings rented from others","%","holdings",10.04,"A",
+10059,"Guam",1959,"Holdings rented from others","ha","area",316,"A",
+10067,"Guam",1959,"Holdings rented from others","%","area",2.43,"A",
+10075,"Guam",1959,"Holdings rented from others","No","holdings",72,"A",
+10082,"Guam",1959,"Holdings rented from others","%","holdings",3.55,"A",
+10060,"Guam",1969,"Holdings rented from others","ha","area",222,"A",
+10068,"Guam",1969,"Holdings rented from others","%","area",2.1,"A",
+10076,"Guam",1969,"Holdings rented from others","No","holdings",47,"A",
+10083,"Guam",1969,"Holdings rented from others","%","holdings",4.19,"A",
+10061,"Guam",1978,"Holdings rented from others","ha","area",60,"A",
+10069,"Guam",1978,"Holdings rented from others","%","area",0.52,"A",
+10077,"Guam",1978,"Holdings rented from others","No","holdings",116,"A",
+10084,"Guam",1978,"Holdings rented from others","%","holdings",5.8,"A",
+10062,"Guam",2002,"Holdings rented from others","ha","area",380,"A",
+10070,"Guam",2002,"Holdings rented from others","%","area",56.97,"A",
+10063,"Guam",2007,"Holdings rented from others","ha","area",84.58,"A",
+10071,"Guam",2007,"Holdings rented from others","%","area",20.88,"A",
+10078,"Guam",2007,"Holdings rented from others","No","holdings",25,"A",
+10085,"Guam",2007,"Holdings rented from others","%","holdings",24.04,"A",
+10064,"Guam",2018,"Holdings rented from others","ha","area",347.49,"A",
+10072,"Guam",2018,"Holdings rented from others","%","area",35.15,"A",
+10079,"Guam",2018,"Holdings rented from others","No","holdings",87,"A",
+10086,"Guam",2018,"Holdings rented from others","%","holdings",32.95,"A",
+10065,"Guam",2023,"Holdings rented from others","ha","area",51.44,"A",
+10073,"Guam",2023,"Holdings rented from others","%","area",4.46,"A",
+10080,"Guam",2023,"Holdings rented from others","No","holdings",24,"A",
+10087,"Guam",2023,"Holdings rented from others","%","holdings",4.12,"A",
+10324,"Guatemala",1950,"Holdings rented from others","ha","area",105806,"A",
+10328,"Guatemala",1950,"Holdings rented from others","%","area",2.85,"A",
+10332,"Guatemala",1950,"Holdings rented from others","No","holdings",59192,"A",
+10336,"Guatemala",1950,"Holdings rented from others","%","holdings",16.98,"A",
+10325,"Guatemala",1964,"Holdings rented from others","ha","area",107565,"A",
+10329,"Guatemala",1964,"Holdings rented from others","%","area",3.09,"A",
+10333,"Guatemala",1964,"Holdings rented from others","No","holdings",47027,"A",
+10337,"Guatemala",1964,"Holdings rented from others","%","holdings",11.27,"A",
+10326,"Guatemala",1979,"Holdings rented from others","ha","area",110862,"A",
+10330,"Guatemala",1979,"Holdings rented from others","%","area",2.67,"A",
+10334,"Guatemala",1979,"Holdings rented from others","No","holdings",33413,"A",
+10338,"Guatemala",1979,"Holdings rented from others","%","holdings",6.29,"A",
+10327,"Guatemala",2003,"Holdings rented from others","ha","area",190304,"A",
+10331,"Guatemala",2003,"Holdings rented from others","%","area",5.07,"A",
+10335,"Guatemala",2003,"Holdings rented from others","No","holdings",81744,"A",
+10339,"Guatemala",2003,"Holdings rented from others","%","holdings",9.84,"A",
+10444,"Guinea",1995,"Holdings rented from others","ha","area",89401,"A",
+10445,"Guinea",1995,"Holdings rented from others","%","area",9.98,"A",
+10507,"Guinea-Bissau",1988,"Holdings rented from others","ha","area",518,"A",
+10508,"Guinea-Bissau",1988,"Holdings rented from others","%","area",0.54,"A",
+10645,"Honduras",1952,"Holdings rented from others","ha","area",89845,"A",
+10648,"Honduras",1952,"Holdings rented from others","%","area",3.58,"A",
+10651,"Honduras",1952,"Holdings rented from others","No","holdings",19665,"A",
+10653,"Honduras",1952,"Holdings rented from others","%","holdings",12.59,"A",
+10646,"Honduras",1974,"Holdings rented from others","ha","area",140387,"A",
+10649,"Honduras",1974,"Holdings rented from others","%","area",5.34,"A",
+10652,"Honduras",1974,"Holdings rented from others","No","holdings",44054,"A",
+10654,"Honduras",1974,"Holdings rented from others","%","holdings",22.55,"A",
+10647,"Honduras",1993,"Holdings rented from others","ha","area",88168,"A",
+10650,"Honduras",1993,"Holdings rented from others","%","area",2.42,"A",
+10810,"Hungary",2010,"Holdings rented from others","ha","area",2340170,"A",
+10812,"Hungary",2010,"Holdings rented from others","%","area",32.95,"A",
+10814,"Hungary",2010,"Holdings rented from others","No","holdings",24640,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+10816,"Hungary",2010,"Holdings rented from others","%","holdings",4.27,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+10811,"Hungary",2020,"Holdings rented from others","ha","area",2471120,"A",
+10813,"Hungary",2020,"Holdings rented from others","%","area",50.21,"A",
+10815,"Hungary",2020,"Holdings rented from others","No","holdings",35310,"A",
+10817,"Hungary",2020,"Holdings rented from others","%","holdings",15.22,"A",
+10972,"Iceland",2010,"Holdings rented from others","ha","area",161130,"A",
+10973,"Iceland",2010,"Holdings rented from others","%","area",6.29,"A",
+10974,"Iceland",2010,"Holdings rented from others","No","holdings",800,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+10975,"Iceland",2010,"Holdings rented from others","%","holdings",30.89,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+11317,"Indonesia",1963,"Holdings rented from others","ha","area",540249,"A",
+11320,"Indonesia",1963,"Holdings rented from others","%","area",3.69,"A",
+11323,"Indonesia",1963,"Holdings rented from others","No","holdings",832525,"A",
+11325,"Indonesia",1963,"Holdings rented from others","%","holdings",6.8,"A",
+11318,"Indonesia",1973,"Holdings rented from others","ha","area",347018,"A",
+11321,"Indonesia",1973,"Holdings rented from others","%","area",2.12,"A",
+11324,"Indonesia",1973,"Holdings rented from others","No","holdings",456641,"A",
+11326,"Indonesia",1973,"Holdings rented from others","%","holdings",3.18,"A",
+11319,"Indonesia",1993,"Holdings rented from others","ha","area",2312129,"A",
+11322,"Indonesia",1993,"Holdings rented from others","%","area",13.49,"A",
+11511,"Iran (Islamic Republic of)",1960,"Holdings rented from others","ha","area",7065772,"A",
+11512,"Iran (Islamic Republic of)",1960,"Holdings rented from others","%","area",62.22,"A",
+11513,"Iran (Islamic Republic of)",1960,"Holdings rented from others","No","holdings",1049478,"A",
+11514,"Iran (Islamic Republic of)",1960,"Holdings rented from others","%","holdings",55.9,"A",
+11599,"Iraq",1952,"Holdings rented from others","ha","area",1925609,"A",
+11600,"Iraq",1952,"Holdings rented from others","%","area",30.16,"A",
+11801,"Ireland",1929,"Holdings rented from others","ha","area",157572.18,"A",
+11805,"Ireland",1929,"Holdings rented from others","%","area",2.54,"A",
+11809,"Ireland",1960,"Holdings rented from others","No","holdings",19538,"A",
+11812,"Ireland",1960,"Holdings rented from others","%","holdings",5.43,"A",
+11802,"Ireland",2000,"Holdings rented from others","ha","area",827460,"A","Agricultural area"
+11806,"Ireland",2000,"Holdings rented from others","%","area",17.55,"A","Agricultural area"
+11803,"Ireland",2010,"Holdings rented from others","ha","area",784380,"A",
+11807,"Ireland",2010,"Holdings rented from others","%","area",14.75,"A",
+11810,"Ireland",2010,"Holdings rented from others","No","holdings",41440,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+11813,"Ireland",2010,"Holdings rented from others","%","holdings",29.62,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+11804,"Ireland",2020,"Holdings rented from others","ha","area",1436160,"A",
+11808,"Ireland",2020,"Holdings rented from others","%","area",31.92,"A",
+11811,"Ireland",2020,"Holdings rented from others","No","holdings",68840,"A",
+11814,"Ireland",2020,"Holdings rented from others","%","holdings",52.88,"A",
+12235,"Italy",1930,"Holdings rented from others","ha","area",3338319.97,"A",
+12243,"Italy",1930,"Holdings rented from others","%","area",12.72,"A",
+12251,"Italy",1930,"Holdings rented from others","No","holdings",565770,"A",
+12259,"Italy",1930,"Holdings rented from others","%","holdings",13.48,"A",
+12236,"Italy",1961,"Holdings rented from others","ha","area",2217562,"A",
+12244,"Italy",1961,"Holdings rented from others","%","area",8.35,"A",
+12252,"Italy",1961,"Holdings rented from others","No","holdings",371396,"A",
+12260,"Italy",1961,"Holdings rented from others","%","holdings",8.65,"A",
+12237,"Italy",1970,"Holdings rented from others","ha","area",1903428,"A",
+12245,"Italy",1970,"Holdings rented from others","%","area",7.59,"A",
+12253,"Italy",1970,"Holdings rented from others","No","holdings",241924,"A","Only for holdings with land"
+12261,"Italy",1970,"Holdings rented from others","%","holdings",6.71,"A","Only for holdings with land"
+12238,"Italy",1982,"Holdings rented from others","ha","area",1293783,"A",
+12246,"Italy",1982,"Holdings rented from others","%","area",5.49,"A",
+12254,"Italy",1982,"Holdings rented from others","No","holdings",131270,"A","Holdings with land only."
+12262,"Italy",1982,"Holdings rented from others","%","holdings",4.01,"A","Holdings with land only."
+12239,"Italy",1990,"Holdings rented from others","ha","area",1208337,"A",
+12247,"Italy",1990,"Holdings rented from others","%","area",5.32,"A",
+12255,"Italy",1990,"Holdings rented from others","No","holdings",95045,"A",
+12263,"Italy",1990,"Holdings rented from others","%","holdings",3.14,"A",
+12240,"Italy",2000,"Holdings rented from others","ha","area",1056109,"A",
+12248,"Italy",2000,"Holdings rented from others","%","area",5.39,"A",
+12256,"Italy",2000,"Holdings rented from others","No","holdings",59239,"A",
+12264,"Italy",2000,"Holdings rented from others","%","holdings",2.29,"A",
+12241,"Italy",2010,"Holdings rented from others","ha","area",3797840,"A",
+12249,"Italy",2010,"Holdings rented from others","%","area",22.23,"A",
+12257,"Italy",2010,"Holdings rented from others","No","holdings",260290,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+12265,"Italy",2010,"Holdings rented from others","%","holdings",16.06,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+12242,"Italy",2020,"Holdings rented from others","ha","area",4969980,"A",
+12250,"Italy",2020,"Holdings rented from others","%","area",41.27,"A",
+12258,"Italy",2020,"Holdings rented from others","No","holdings",297780,"A",
+12266,"Italy",2020,"Holdings rented from others","%","holdings",26.34,"A",
+12749,"Japan",1929,"Holdings rented from others","No","holdings",1478214,"A",
+12750,"Japan",1929,"Holdings rented from others","%","holdings",26.51,"A",
+12990,"Jordan",1975,"Holdings rented from others","ha","area",47527,"A",
+12994,"Jordan",1975,"Holdings rented from others","%","area",12.17,"A",
+12998,"Jordan",1975,"Holdings rented from others","No","holdings",8276,"A","Only for holdings with land"
+13002,"Jordan",1975,"Holdings rented from others","%","holdings",14.9,"A","Only for holdings with land"
+12991,"Jordan",1983,"Holdings rented from others","ha","area",31388,"A",
+12995,"Jordan",1983,"Holdings rented from others","%","area",8.62,"A",
+12999,"Jordan",1983,"Holdings rented from others","No","holdings",7516,"A","Holdings with land only."
+13003,"Jordan",1983,"Holdings rented from others","%","holdings",12.09,"A","Holdings with land only."
+12992,"Jordan",2007,"Holdings rented from others","ha","area",22568,"A",
+12996,"Jordan",2007,"Holdings rented from others","%","area",8.63,"A",
+13000,"Jordan",2007,"Holdings rented from others","No","holdings",1973,"A",
+13004,"Jordan",2007,"Holdings rented from others","%","holdings",2.46,"A",
+12993,"Jordan",2017,"Holdings rented from others","ha","area",43546.19,"A",
+12997,"Jordan",2017,"Holdings rented from others","%","area",15.45,"A",
+13001,"Jordan",2017,"Holdings rented from others","No","holdings",5415,"A",
+13005,"Jordan",2017,"Holdings rented from others","%","holdings",5.03,"A",
+13370,"Kuwait",1970,"Holdings rented from others","ha","area",165,"A",
+13371,"Kuwait",1970,"Holdings rented from others","%","area",6.05,"A",
+13372,"Kuwait",1970,"Holdings rented from others","No","holdings",120,"A",
+13373,"Kuwait",1970,"Holdings rented from others","%","holdings",26.73,"A",
+13429,"Kyrgyzstan",2002,"Holdings rented from others","No","holdings",2933,"A","Tenure of holdings with arable land."
+13430,"Kyrgyzstan",2002,"Holdings rented from others","%","holdings",0.26,"A","Tenure of holdings with arable land."
+13637,"Latvia",1929,"Holdings rented from others","ha","area",529443,"A",
+13641,"Latvia",1929,"Holdings rented from others","%","area",12.05,"A",
+13645,"Latvia",1929,"Holdings rented from others","No","holdings",27787,"A","Holdings with land only."
+13648,"Latvia",1929,"Holdings rented from others","%","holdings",10.44,"A","Holdings with land only."
+13638,"Latvia",2001,"Holdings rented from others","ha","area",438300,"A","Area of economically active farms."
+13642,"Latvia",2001,"Holdings rented from others","%","area",12.22,"A","Area of economically active farms."
+13639,"Latvia",2010,"Holdings rented from others","ha","area",564920,"A",
+13643,"Latvia",2010,"Holdings rented from others","%","area",19.62,"A",
+13646,"Latvia",2010,"Holdings rented from others","No","holdings",14400,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+13649,"Latvia",2010,"Holdings rented from others","%","holdings",17.27,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+13640,"Latvia",2020,"Holdings rented from others","ha","area",754470,"A",
+13644,"Latvia",2020,"Holdings rented from others","%","area",38.32,"A",
+13647,"Latvia",2020,"Holdings rented from others","No","holdings",15460,"A",
+13650,"Latvia",2020,"Holdings rented from others","%","holdings",22.41,"A",
+13809,"Lebanon",2010,"Holdings rented from others","ha","area",48596,"A",
+13811,"Lebanon",2010,"Holdings rented from others","%","area",21.04,"A",
+13812,"Lebanon",2010,"Holdings rented from others","No","holdings",12954,"A",
+13813,"Lebanon",2010,"Holdings rented from others","%","holdings",7.64,"A",
+14261,"Lithuania",1930,"Holdings rented from others","ha","area",397645.27,"A",
+14264,"Lithuania",1930,"Holdings rented from others","%","area",9.19,"A",
+14267,"Lithuania",1930,"Holdings rented from others","No","holdings",25576,"A",
+14270,"Lithuania",1930,"Holdings rented from others","%","holdings",8.29,"A",
+14262,"Lithuania",2010,"Holdings rented from others","ha","area",1273390,"A",
+14265,"Lithuania",2010,"Holdings rented from others","%","area",42.4,"A",
+14268,"Lithuania",2010,"Holdings rented from others","No","holdings",61110,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+14271,"Lithuania",2010,"Holdings rented from others","%","holdings",30.57,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+14263,"Lithuania",2020,"Holdings rented from others","ha","area",1167380,"A",
+14266,"Lithuania",2020,"Holdings rented from others","%","area",40.05,"A",
+14269,"Lithuania",2020,"Holdings rented from others","No","holdings",35510,"A",
+14272,"Lithuania",2020,"Holdings rented from others","%","holdings",26.89,"A",
+14509,"Luxembourg",1950,"Holdings rented from others","ha","area",6659,"A",
+14514,"Luxembourg",1950,"Holdings rented from others","%","area",4.62,"A",
+14519,"Luxembourg",1950,"Holdings rented from others","No","holdings",2405,"A",
+14522,"Luxembourg",1950,"Holdings rented from others","%","holdings",17.51,"A",
+14510,"Luxembourg",1990,"Holdings rented from others","ha","area",62434,"A","Data refer to agricultural land."
+14515,"Luxembourg",1990,"Holdings rented from others","%","area",45.36,"A","Data refer to agricultural land."
+14512,"Luxembourg",2010,"Holdings rented from others","ha","area",76720,"A",
+14517,"Luxembourg",2010,"Holdings rented from others","%","area",55.63,"A",
+14520,"Luxembourg",2010,"Holdings rented from others","No","holdings",2070,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+14523,"Luxembourg",2010,"Holdings rented from others","%","holdings",94.09,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+14513,"Luxembourg",2020,"Holdings rented from others","ha","area",79830,"A",
+14518,"Luxembourg",2020,"Holdings rented from others","%","area",60.41,"A",
+14521,"Luxembourg",2020,"Holdings rented from others","No","holdings",1750,"A",
+14524,"Luxembourg",2020,"Holdings rented from others","%","holdings",93.09,"A",
+14868,"Malaysia",1960,"Holdings rented from others","ha","area",56735,"A",
+14869,"Malaysia",1960,"Holdings rented from others","%","area",2.33,"A",
+14870,"Malaysia",1960,"Holdings rented from others","No","holdings",48496,"A",
+14871,"Malaysia",1960,"Holdings rented from others","%","holdings",8.98,"A",
+15046,"Malta",1960,"Holdings rented from others","ha","area",11959,"A",
+15052,"Malta",1960,"Holdings rented from others","%","area",64.82,"A",
+15058,"Malta",1960,"Holdings rented from others","No","holdings",8479,"A",
+15063,"Malta",1960,"Holdings rented from others","%","holdings",72.18,"A",
+15048,"Malta",1979,"Holdings rented from others","ha","area",9223,"A",
+15054,"Malta",1979,"Holdings rented from others","%","area",66.02,"A",
+15060,"Malta",1979,"Holdings rented from others","No","holdings",8386,"A",
+15065,"Malta",1979,"Holdings rented from others","%","holdings",69.48,"A",
+15049,"Malta",2001,"Holdings rented from others","ha","area",8165,"A","Agricultural area"
+15055,"Malta",2001,"Holdings rented from others","%","area",70.27,"A","Agricultural area"
+15050,"Malta",2010,"Holdings rented from others","ha","area",8730,"A",
+15056,"Malta",2010,"Holdings rented from others","%","area",67.47,"A",
+15061,"Malta",2010,"Holdings rented from others","No","holdings",9600,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+15066,"Malta",2010,"Holdings rented from others","%","holdings",76.62,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+15051,"Malta",2020,"Holdings rented from others","ha","area",7240,"A",
+15057,"Malta",2020,"Holdings rented from others","%","area",73.88,"A",
+15062,"Malta",2020,"Holdings rented from others","No","holdings",6020,"A",
+15067,"Malta",2020,"Holdings rented from others","%","holdings",78.69,"A",
+15210,"Martinique",1989,"Holdings rented from others","ha","area",8363,"A","Data refer to agricultural land."
+15211,"Martinique",1989,"Holdings rented from others","%","area",16.66,"A","Data refer to agricultural land."
+15279,"Mauritius",2014,"Holdings rented from others","ha","area",9161,"A",
+15280,"Mauritius",2014,"Holdings rented from others","%","area",13.79,"A",
+15471,"Mexico",1930,"Holdings rented from others","No","holdings",36983,"A","Holdings of 1ha and over"
+15475,"Mexico",1930,"Holdings rented from others","%","holdings",4.31,"A","Holdings of 1ha and over"
+15463,"Mexico",1960,"Holdings rented from others","ha","area",7451561,"A","Data relate to predominant tenure"
+15467,"Mexico",1960,"Holdings rented from others","%","area",4.41,"A","Data relate to predominant tenure"
+15472,"Mexico",1960,"Holdings rented from others","No","holdings",33759,"A","Data relate to predominant tenure"
+15476,"Mexico",1960,"Holdings rented from others","%","holdings",2.47,"A","Data relate to predominant tenure"
+15464,"Mexico",1991,"Holdings rented from others","ha","area",2608653,"A","Data refer to Rural Production Units only."
+15468,"Mexico",1991,"Holdings rented from others","%","area",1.42,"A","Data refer to Rural Production Units only."
+15465,"Mexico",2007,"Holdings rented from others","ha","area",2426869,"A",
+15469,"Mexico",2007,"Holdings rented from others","%","area",3.54,"A",
+15473,"Mexico",2007,"Holdings rented from others","No","holdings",235743,"A",
+15477,"Mexico",2007,"Holdings rented from others","%","holdings",5.8,"A",
+15466,"Mexico",2022,"Holdings rented from others","ha","area",2587301.62,"A",
+15470,"Mexico",2022,"Holdings rented from others","%","area",3.79,"A",
+15474,"Mexico",2022,"Holdings rented from others","No","holdings",290928,"A","Excludes holdings without land."
+15478,"Mexico",2022,"Holdings rented from others","%","holdings",6.28,"A","Excludes holdings without land."
+15700,"Montenegro",2010,"Holdings rented from others","ha","area",2220,"A",
+15701,"Montenegro",2010,"Holdings rented from others","%","area",0.72,"A",
+15702,"Montenegro",2010,"Holdings rented from others","No","holdings",450,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+15703,"Montenegro",2010,"Holdings rented from others","%","holdings",0.92,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+15778,"Morocco",1996,"Holdings rented from others","ha","area",410026,"A",
+15779,"Morocco",1996,"Holdings rented from others","%","area",4.7,"A",
+16271,"Nepal",1982,"Holdings rented from others","ha","area",35725,"A",
+16276,"Nepal",1982,"Holdings rented from others","%","area",1.45,"A",
+16272,"Nepal",1992,"Holdings rented from others","ha","area",36149,"A",
+16277,"Nepal",1992,"Holdings rented from others","%","area",1.39,"A",
+16281,"Nepal",1992,"Holdings rented from others","No","holdings",49114,"A",
+16285,"Nepal",1992,"Holdings rented from others","%","holdings",1.8,"A",
+16273,"Nepal",2002,"Holdings rented from others","ha","area",26307,"A",
+16278,"Nepal",2002,"Holdings rented from others","%","area",0.99,"A",
+16282,"Nepal",2002,"Holdings rented from others","No","holdings",35844,"A",
+16286,"Nepal",2002,"Holdings rented from others","%","holdings",1.07,"A",
+16275,"Nepal",2021,"Holdings rented from others","ha","area",28531.2,"A","Excludes area under crops of less than 0.01272 hectares in the hill or mountain districts, or 0.01355 hectares in the Terai"
+16280,"Nepal",2021,"Holdings rented from others","%","area",1.29,"A","Excludes area under crops of less than 0.01272 hectares in the hill or mountain districts, or 0.01355 hectares in the Terai"
+16284,"Nepal",2021,"Holdings rented from others","No","holdings",53948,"A","Excludes holdings without land."
+16288,"Nepal",2021,"Holdings rented from others","%","holdings",1.31,"A","Excludes holdings without land."
+16655,"Netherlands (Kingdom of the)",1930,"Holdings rented from others","ha","area",1054450.25,"A",
+16661,"Netherlands (Kingdom of the)",1930,"Holdings rented from others","%","area",49.03,"A",
+16667,"Netherlands (Kingdom of the)",1930,"Holdings rented from others","No","holdings",173706,"A",
+16672,"Netherlands (Kingdom of the)",1930,"Holdings rented from others","%","holdings",46.68,"A",
+16656,"Netherlands (Kingdom of the)",1960,"Holdings rented from others","ha","area",779535,"A","Data on area are for net agricultural area (gross agricultural area totalled 2658297 ha)"
+16662,"Netherlands (Kingdom of the)",1960,"Holdings rented from others","%","area",29.32,"A","Data on area are for net agricultural area (gross agricultural area totalled 2658297 ha)"
+16668,"Netherlands (Kingdom of the)",1960,"Holdings rented from others","No","holdings",91814,"A","Data on area are for net agricultural area (gross agricultural area totalled 2658297 ha)"
+16673,"Netherlands (Kingdom of the)",1960,"Holdings rented from others","%","holdings",30.53,"A","Data on area are for net agricultural area (gross agricultural area totalled 2658297 ha)"
+16657,"Netherlands (Kingdom of the)",1970,"Holdings rented from others","ha","area",575576,"A",
+16663,"Netherlands (Kingdom of the)",1970,"Holdings rented from others","%","area",26.86,"A",
+16669,"Netherlands (Kingdom of the)",1970,"Holdings rented from others","No","holdings",40833,"A","Excludes 3494 holdings without land"
+16674,"Netherlands (Kingdom of the)",1970,"Holdings rented from others","%","holdings",22.12,"A","Excludes 3494 holdings without land"
+16659,"Netherlands (Kingdom of the)",2010,"Holdings rented from others","ha","area",507020,"A",
+16665,"Netherlands (Kingdom of the)",2010,"Holdings rented from others","%","area",25.12,"A",
+16670,"Netherlands (Kingdom of the)",2010,"Holdings rented from others","No","holdings",33690,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+16675,"Netherlands (Kingdom of the)",2010,"Holdings rented from others","%","holdings",46.58,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+16660,"Netherlands (Kingdom of the)",2020,"Holdings rented from others","ha","area",481820,"A",
+16666,"Netherlands (Kingdom of the)",2020,"Holdings rented from others","%","area",26.5,"A",
+16671,"Netherlands (Kingdom of the)",2020,"Holdings rented from others","No","holdings",28230,"A",
+16676,"Netherlands (Kingdom of the)",2020,"Holdings rented from others","%","holdings",53.63,"A",
+16879,"New Caledonia",2002,"Holdings rented from others","ha","area",40017,"A",
+16880,"New Caledonia",2002,"Holdings rented from others","%","area",13.82,"A",
+17081,"New Zealand",1950,"Holdings rented from others","ha","area",8892896,"A",
+17084,"New Zealand",1950,"Holdings rented from others","%","area",50.92,"A",
+17087,"New Zealand",1950,"Holdings rented from others","No","holdings",20147,"A",
+17089,"New Zealand",1950,"Holdings rented from others","%","holdings",22.31,"A",
+17083,"New Zealand",1980,"Holdings rented from others","ha","area",10485853,"A",
+17086,"New Zealand",1980,"Holdings rented from others","%","area",49.37,"A",
+17217,"Nicaragua",2001,"Holdings rented from others","No","holdings",5024,"A",
+17218,"Nicaragua",2001,"Holdings rented from others","%","holdings",2.52,"A",
+17215,"Nicaragua",2011,"Holdings rented from others","ha","area",78883.9,"A",
+17216,"Nicaragua",2011,"Holdings rented from others","%","area",1.3,"A",
+17404,"Niue",1989,"Holdings rented from others","ha","area",125,"A",
+17406,"Niue",1989,"Holdings rented from others","%","area",4.53,"A",
+17405,"Niue",2021,"Holdings rented from others","ha","area",44,"A",
+17407,"Niue",2021,"Holdings rented from others","%","area",3.79,"A",
+17616,"Northern Mariana Islands",1980,"Holdings rented from others","ha","area",3340,"A",
+17621,"Northern Mariana Islands",1980,"Holdings rented from others","%","area",67.72,"A",
+17626,"Northern Mariana Islands",1980,"Holdings rented from others","No","holdings",37,"A",
+17631,"Northern Mariana Islands",1980,"Holdings rented from others","%","holdings",12.37,"A",
+17617,"Northern Mariana Islands",1990,"Holdings rented from others","ha","area",4593,"A",
+17622,"Northern Mariana Islands",1990,"Holdings rented from others","%","area",78.7,"A",
+17627,"Northern Mariana Islands",1990,"Holdings rented from others","No","holdings",28,"A",
+17632,"Northern Mariana Islands",1990,"Holdings rented from others","%","holdings",23.53,"A",
+17618,"Northern Mariana Islands",2002,"Holdings rented from others","ha","area",517,"A",
+17623,"Northern Mariana Islands",2002,"Holdings rented from others","%","area",54.31,"A",
+17619,"Northern Mariana Islands",2007,"Holdings rented from others","ha","area",1159.42,"A",
+17624,"Northern Mariana Islands",2007,"Holdings rented from others","%","area",71.39,"A",
+17628,"Northern Mariana Islands",2007,"Holdings rented from others","No","holdings",115,"A",
+17633,"Northern Mariana Islands",2007,"Holdings rented from others","%","holdings",44.92,"A",
+17620,"Northern Mariana Islands",2018,"Holdings rented from others","ha","area",345,"A",
+17625,"Northern Mariana Islands",2018,"Holdings rented from others","%","area",56.19,"A",
+17629,"Northern Mariana Islands",2018,"Holdings rented from others","No","holdings",91,"A",
+17634,"Northern Mariana Islands",2018,"Holdings rented from others","%","holdings",35.97,"A",
+17630,"Northern Mariana Islands",2023,"Holdings rented from others","No","holdings",83,"A",
+17635,"Northern Mariana Islands",2023,"Holdings rented from others","%","holdings",26.27,"A",
+17939,"Norway",1929,"Holdings rented from others","No","holdings",42712,"A",
+17944,"Norway",1929,"Holdings rented from others","%","holdings",14.32,"A",
+17940,"Norway",1959,"Holdings rented from others","No","holdings",13480,"A",
+17945,"Norway",1959,"Holdings rented from others","%","holdings",6.8,"A",
+17941,"Norway",1969,"Holdings rented from others","No","holdings",9412,"A",
+17946,"Norway",1969,"Holdings rented from others","%","holdings",6.07,"A",
+17933,"Norway",1999,"Holdings rented from others","ha","area",120713,"A",
+17936,"Norway",1999,"Holdings rented from others","%","area",11.63,"A",
+17934,"Norway",2010,"Holdings rented from others","ha","area",418430,"A",
+17937,"Norway",2010,"Holdings rented from others","%","area",10.42,"A",
+17942,"Norway",2010,"Holdings rented from others","No","holdings",30480,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+17947,"Norway",2010,"Holdings rented from others","%","holdings",65.38,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+17935,"Norway",2020,"Holdings rented from others","ha","area",333760,"A","UAA"
+17938,"Norway",2020,"Holdings rented from others","%","area",33.96,"A","UAA"
+17943,"Norway",2020,"Holdings rented from others","No","holdings",19240,"A",
+17948,"Norway",2020,"Holdings rented from others","%","holdings",49.7,"A",
+18303,"Pakistan",1960,"Holdings rented from others","ha","area",7767867,"A",
+18309,"Pakistan",1960,"Holdings rented from others","%","area",39.23,"A",
+18315,"Pakistan",1960,"Holdings rented from others","No","holdings",2027990,"A",
+18320,"Pakistan",1960,"Holdings rented from others","%","holdings",35.64,"A",
+18304,"Pakistan",1972,"Holdings rented from others","ha","area",5868176,"A","Excludes 59089 area of government holdings"
+18310,"Pakistan",1972,"Holdings rented from others","%","area",29.47,"A","Excludes 59089 area of government holdings"
+18316,"Pakistan",1972,"Holdings rented from others","No","holdings",1296468,"A","Excludes 252 government holdings"
+18321,"Pakistan",1972,"Holdings rented from others","%","holdings",34.46,"A","Excludes 252 government holdings"
+18305,"Pakistan",1980,"Holdings rented from others","ha","area",4113878,"A","Excludes 192 government holdings with an area of 49 995"
+18311,"Pakistan",1980,"Holdings rented from others","%","area",21.53,"A","Excludes 192 government holdings with an area of 49 995"
+18317,"Pakistan",1980,"Holdings rented from others","No","holdings",1053495,"A","Excludes 192 government holdings with an area of 49 995"
+18322,"Pakistan",1980,"Holdings rented from others","%","holdings",25.89,"A","Excludes 192 government holdings with an area of 49 995"
+18306,"Pakistan",1990,"Holdings rented from others","ha","area",3081276,"A","Excluding 149 Government holdings with an area of 103 035 Ha."
+18312,"Pakistan",1990,"Holdings rented from others","%","area",16,"A","Excluding 149 Government holdings with an area of 103 035 Ha."
+18318,"Pakistan",1990,"Holdings rented from others","No","holdings",953557,"A","Excluding 149 Government holdings with an area of 103 035 Ha."
+18323,"Pakistan",1990,"Holdings rented from others","%","holdings",18.8,"A","Excluding 149 Government holdings with an area of 103 035 Ha."
+18307,"Pakistan",2000,"Holdings rented from others","ha","area",2482061,"A","Excluding 170 government holdings with an area of 30 772 ha."
+18313,"Pakistan",2000,"Holdings rented from others","%","area",12.14,"A","Excluding 170 government holdings with an area of 30 772 ha."
+18319,"Pakistan",2000,"Holdings rented from others","No","holdings",926562,"A","Excluding 170 government holdings with an area of 30 772 ha."
+18324,"Pakistan",2000,"Holdings rented from others","%","holdings",14,"A","Excluding 170 government holdings with an area of 30 772 ha."
+18308,"Pakistan",2010,"Holdings rented from others","ha","area",2385398,"A",
+18314,"Pakistan",2010,"Holdings rented from others","%","area",11.14,"A",
+18439,"Palau",1989,"Holdings rented from others","ha","area",20,"A",
+18440,"Palau",1989,"Holdings rented from others","%","area",12.66,"A",
+18479,"Palestine",2010,"Holdings rented from others","No","holdings",4577,"A","The category 'not stated' is included in 'Other form of land tenure'."
+18481,"Palestine",2010,"Holdings rented from others","%","holdings",4.11,"A","The category 'not stated' is included in 'Other form of land tenure'."
+18477,"Palestine",2021,"Holdings rented from others","ha","area",10577.54,"A",
+18478,"Palestine",2021,"Holdings rented from others","%","area",8.75,"A",
+18480,"Palestine",2021,"Holdings rented from others","No","holdings",7359,"A",
+18482,"Palestine",2021,"Holdings rented from others","%","holdings",5.24,"A",
+18749,"Panama",1960,"Holdings rented from others","ha","area",43598,"A",
+18755,"Panama",1960,"Holdings rented from others","%","area",2.41,"A",
+18761,"Panama",1960,"Holdings rented from others","No","holdings",5706,"A",
+18767,"Panama",1960,"Holdings rented from others","%","holdings",5.97,"A",
+18750,"Panama",1971,"Holdings rented from others","ha","area",73961,"A",
+18756,"Panama",1971,"Holdings rented from others","%","area",3.53,"A",
+18762,"Panama",1971,"Holdings rented from others","No","holdings",4671,"A","Excluding 10092 holdings without land"
+18768,"Panama",1971,"Holdings rented from others","%","holdings",4.05,"A","Excluding 10092 holdings without land"
+18751,"Panama",1981,"Holdings rented from others","ha","area",38289,"A",
+18757,"Panama",1981,"Holdings rented from others","%","area",1.7,"A",
+18763,"Panama",1981,"Holdings rented from others","No","holdings",3024,"A","Holdings with land only."
+18769,"Panama",1981,"Holdings rented from others","%","holdings",1.97,"A","Holdings with land only."
+18752,"Panama",1990,"Holdings rented from others","ha","area",36025,"A",
+18758,"Panama",1990,"Holdings rented from others","%","area",1.22,"A",
+18764,"Panama",1990,"Holdings rented from others","No","holdings",3014,"A",
+18770,"Panama",1990,"Holdings rented from others","%","holdings",1.41,"A",
+18753,"Panama",2001,"Holdings rented from others","ha","area",34416,"A",
+18759,"Panama",2001,"Holdings rented from others","%","area",1.24,"A",
+18765,"Panama",2001,"Holdings rented from others","No","holdings",2289,"A",
+18771,"Panama",2001,"Holdings rented from others","%","holdings",0.97,"A",
+18754,"Panama",2011,"Holdings rented from others","ha","area",35119.73,"A",
+18760,"Panama",2011,"Holdings rented from others","%","area",1.3,"A",
+18766,"Panama",2011,"Holdings rented from others","No","holdings",2218,"A",
+18772,"Panama",2011,"Holdings rented from others","%","holdings",0.89,"A",
+19103,"Paraguay",1961,"Holdings rented from others","ha","area",726799,"A",
+19108,"Paraguay",1961,"Holdings rented from others","%","area",4.16,"A",
+19113,"Paraguay",1961,"Holdings rented from others","No","holdings",12000,"A",
+19118,"Paraguay",1961,"Holdings rented from others","%","holdings",7.46,"A",
+19104,"Paraguay",1981,"Holdings rented from others","ha","area",281685,"A",
+19109,"Paraguay",1981,"Holdings rented from others","%","area",1.28,"A",
+19114,"Paraguay",1981,"Holdings rented from others","No","holdings",23019,"A",
+19119,"Paraguay",1981,"Holdings rented from others","%","holdings",9.25,"A",
+19105,"Paraguay",1991,"Holdings rented from others","ha","area",376452,"A",
+19110,"Paraguay",1991,"Holdings rented from others","%","area",1.58,"A",
+19115,"Paraguay",1991,"Holdings rented from others","No","holdings",22126,"A",
+19120,"Paraguay",1991,"Holdings rented from others","%","holdings",7.2,"A",
+19106,"Paraguay",2008,"Holdings rented from others","ha","area",2467234,"A",
+19111,"Paraguay",2008,"Holdings rented from others","%","area",7.94,"A",
+19116,"Paraguay",2008,"Holdings rented from others","No","holdings",22456,"A",
+19121,"Paraguay",2008,"Holdings rented from others","%","holdings",7.75,"A",
+19107,"Paraguay",2022,"Holdings rented from others","ha","area",1341000,"A",
+19112,"Paraguay",2022,"Holdings rented from others","%","area",4.41,"A",
+19117,"Paraguay",2022,"Holdings rented from others","No","holdings",8224,"A",
+19122,"Paraguay",2022,"Holdings rented from others","%","holdings",2.82,"A",
+19388,"Peru",1994,"Holdings rented from others","ha","area",301505,"A",
+19391,"Peru",1994,"Holdings rented from others","%","area",0.85,"A",
+19394,"Peru",1994,"Holdings rented from others","No","holdings",40738,"A",
+19397,"Peru",1994,"Holdings rented from others","%","holdings",2.32,"A",
+19389,"Peru",2012,"Holdings rented from others","ha","area",380504,"A",
+19392,"Peru",2012,"Holdings rented from others","%","area",0.98,"A",
+19395,"Peru",2012,"Holdings rented from others","No","holdings",94244,"A",
+19398,"Peru",2012,"Holdings rented from others","%","holdings",4.17,"A",
+19683,"Philippines",1948,"Holdings rented from others","ha","area",1046865,"A",
+19690,"Philippines",1948,"Holdings rented from others","%","area",18.28,"A",
+19697,"Philippines",1948,"Holdings rented from others","No","holdings",432630,"A",
+19704,"Philippines",1948,"Holdings rented from others","%","holdings",26.4,"A",
+19684,"Philippines",1960,"Holdings rented from others","ha","area",2000201,"A",
+19691,"Philippines",1960,"Holdings rented from others","%","area",25.73,"A",
+19698,"Philippines",1960,"Holdings rented from others","No","holdings",864538,"A",
+19705,"Philippines",1960,"Holdings rented from others","%","holdings",39.91,"A",
+19685,"Philippines",1971,"Holdings rented from others","ha","area",1746455,"A","Excluding 2458 holdings and 346242 ha not classified by tenure."
+19692,"Philippines",1971,"Holdings rented from others","%","area",20.56,"A","Excluding 2458 holdings and 346242 ha not classified by tenure."
+19699,"Philippines",1971,"Holdings rented from others","No","holdings",681658,"A","Excluding 2458 holdings and 346242 ha not classified by tenure."
+19706,"Philippines",1971,"Holdings rented from others","%","holdings",28.95,"A","Excluding 2458 holdings and 346242 ha not classified by tenure."
+19686,"Philippines",1981,"Holdings rented from others","ha","area",1903600,"A",
+19693,"Philippines",1981,"Holdings rented from others","%","area",19.53,"A",
+19700,"Philippines",1981,"Holdings rented from others","No","holdings",936912,"A",
+19707,"Philippines",1981,"Holdings rented from others","%","holdings",27.39,"A",
+19687,"Philippines",1991,"Holdings rented from others","ha","area",1775752,"A",
+19694,"Philippines",1991,"Holdings rented from others","%","area",17.8,"A",
+19701,"Philippines",1991,"Holdings rented from others","No","holdings",1051976,"A",
+19708,"Philippines",1991,"Holdings rented from others","%","holdings",22.82,"A",
+19688,"Philippines",2002,"Holdings rented from others","ha","area",202518,"A",
+19695,"Philippines",2002,"Holdings rented from others","%","area",2.09,"A",
+19702,"Philippines",2002,"Holdings rented from others","No","holdings",111085,"A",
+19709,"Philippines",2002,"Holdings rented from others","%","holdings",2.3,"A",
+19689,"Philippines",2012,"Holdings rented from others","ha","area",1553526,"A",
+19696,"Philippines",2012,"Holdings rented from others","%","area",21.36,"A",
+19703,"Philippines",2012,"Holdings rented from others","No","holdings",1404660,"A",
+19710,"Philippines",2012,"Holdings rented from others","%","holdings",25.25,"A",
+20021,"Poland",1970,"Holdings rented from others","ha","area",369864,"A",
+20024,"Poland",1970,"Holdings rented from others","%","area",2.25,"A",
+20027,"Poland",1970,"Holdings rented from others","No","holdings",198830,"A",
+20030,"Poland",1970,"Holdings rented from others","%","holdings",5.85,"A",
+20022,"Poland",2010,"Holdings rented from others","ha","area",2706250,"A",
+20025,"Poland",2010,"Holdings rented from others","%","area",15.94,"A",
+20028,"Poland",2010,"Holdings rented from others","No","holdings",252240,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+20031,"Poland",2010,"Holdings rented from others","%","holdings",16.74,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+20023,"Poland",2020,"Holdings rented from others","ha","area",3459950,"A",
+20026,"Poland",2020,"Holdings rented from others","%","area",23.46,"A",
+20029,"Poland",2020,"Holdings rented from others","No","holdings",286140,"A",
+20032,"Poland",2020,"Holdings rented from others","%","holdings",21.99,"A",
+20306,"Portugal",1968,"Holdings rented from others","ha","area",691229,"A",
+20312,"Portugal",1968,"Holdings rented from others","%","area",13.9,"A",
+20319,"Portugal",1968,"Holdings rented from others","No","holdings",138255,"A","Only for holdings with land"
+20324,"Portugal",1968,"Holdings rented from others","%","holdings",17.03,"A","Only for holdings with land"
+20307,"Portugal",1979,"Holdings rented from others","ha","area",1040669,"A",
+20313,"Portugal",1979,"Holdings rented from others","%","area",20.08,"A",
+20320,"Portugal",1979,"Holdings rented from others","No","holdings",68408,"A",
+20325,"Portugal",1979,"Holdings rented from others","%","holdings",8.73,"A",
+20308,"Portugal",1989,"Holdings rented from others","ha","area",1050917,"A","Data refer to agricultural land."
+20314,"Portugal",1989,"Holdings rented from others","%","area",19.77,"A","Data refer to agricultural land."
+20309,"Portugal",1999,"Holdings rented from others","ha","area",867474,"A","Agricultural area"
+20315,"Portugal",1999,"Holdings rented from others","%","area",16.72,"A","Agricultural area"
+20310,"Portugal",2009,"Holdings rented from others","ha","area",824850,"A",
+20316,"Portugal",2009,"Holdings rented from others","%","area",17.52,"A",
+20321,"Portugal",2009,"Holdings rented from others","No","holdings",33950,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+20326,"Portugal",2009,"Holdings rented from others","%","holdings",11.12,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+20311,"Portugal",2019,"Holdings rented from others","ha","area",696530,"A",
+20317,"Portugal",2019,"Holdings rented from others","%","area",17.57,"A",
+20322,"Portugal",2019,"Holdings rented from others","No","holdings",18040,"A",
+20327,"Portugal",2019,"Holdings rented from others","%","holdings",6.22,"A",
+20778,"Puerto Rico",1930,"Holdings rented from others","ha","area",54931.27,"A",
+20787,"Puerto Rico",1930,"Holdings rented from others","%","area",6.86,"A",
+20796,"Puerto Rico",1930,"Holdings rented from others","No","holdings",6490,"A",
+20805,"Puerto Rico",1930,"Holdings rented from others","%","holdings",12.25,"A",
+20779,"Puerto Rico",1950,"Holdings rented from others","ha","area",49547,"A",
+20788,"Puerto Rico",1950,"Holdings rented from others","%","area",6.83,"A",
+20797,"Puerto Rico",1950,"Holdings rented from others","No","holdings",2910,"A",
+20806,"Puerto Rico",1950,"Holdings rented from others","%","holdings",5.44,"A",
+20780,"Puerto Rico",1969,"Holdings rented from others","ha","area",54233,"A",
+20789,"Puerto Rico",1969,"Holdings rented from others","%","area",10.34,"A",
+20798,"Puerto Rico",1969,"Holdings rented from others","No","holdings",2394,"A",
+20807,"Puerto Rico",1969,"Holdings rented from others","%","holdings",7.32,"A",
+20781,"Puerto Rico",1978,"Holdings rented from others","ha","area",49890,"A",
+20790,"Puerto Rico",1978,"Holdings rented from others","%","area",11.71,"A",
+20799,"Puerto Rico",1978,"Holdings rented from others","No","holdings",1604,"A",
+20808,"Puerto Rico",1978,"Holdings rented from others","%","holdings",5.04,"A",
+20782,"Puerto Rico",1987,"Holdings rented from others","ha","area",47321,"A",
+20791,"Puerto Rico",1987,"Holdings rented from others","%","area",13.58,"A",
+20800,"Puerto Rico",1987,"Holdings rented from others","No","holdings",1433,"A",
+20809,"Puerto Rico",1987,"Holdings rented from others","%","holdings",7.08,"A",
+20783,"Puerto Rico",2002,"Holdings rented from others","ha","area",39272,"A",
+20792,"Puerto Rico",2002,"Holdings rented from others","%","area",14.47,"A",
+20801,"Puerto Rico",2002,"Holdings rented from others","No","holdings",1636,"A",
+20810,"Puerto Rico",2002,"Holdings rented from others","%","holdings",9.26,"A",
+20784,"Puerto Rico",2012,"Holdings rented from others","ha","area",67148.68,"A",
+20793,"Puerto Rico",2012,"Holdings rented from others","%","area",28.36,"A",
+20802,"Puerto Rico",2012,"Holdings rented from others","No","holdings",2728,"A",
+20811,"Puerto Rico",2012,"Holdings rented from others","%","holdings",20.73,"A",
+20785,"Puerto Rico",2018,"Holdings rented from others","ha","area",61922,"A",
+20794,"Puerto Rico",2018,"Holdings rented from others","%","area",32.3,"A",
+20803,"Puerto Rico",2018,"Holdings rented from others","No","holdings",1808,"A",
+20812,"Puerto Rico",2018,"Holdings rented from others","%","holdings",21.97,"A",
+20786,"Puerto Rico",2022,"Holdings rented from others","ha","area",58613.59,"A",
+20795,"Puerto Rico",2022,"Holdings rented from others","%","area",30.16,"A",
+20804,"Puerto Rico",2022,"Holdings rented from others","No","holdings",1581,"A",
+20813,"Puerto Rico",2022,"Holdings rented from others","%","holdings",20.8,"A",
+21099,"Republic of Korea",1970,"Holdings rented from others","ha","area",142280,"A","Only for holdings with cropland"
+21102,"Republic of Korea",1970,"Holdings rented from others","%","area",6.67,"A","Only for holdings with cropland"
+21105,"Republic of Korea",1970,"Holdings rented from others","No","holdings",229039,"A","Only for holdings with cropland"
+21108,"Republic of Korea",1970,"Holdings rented from others","%","holdings",9.46,"A","Only for holdings with cropland"
+21100,"Republic of Korea",2015,"Holdings rented from others","ha","area",102001,"A",
+21103,"Republic of Korea",2015,"Holdings rented from others","%","area",7.79,"A",
+21106,"Republic of Korea",2015,"Holdings rented from others","No","holdings",87178,"A",
+21109,"Republic of Korea",2015,"Holdings rented from others","%","holdings",8.01,"A",
+21101,"Republic of Korea",2020,"Holdings rented from others","ha","area",72881,"A",
+21104,"Republic of Korea",2020,"Holdings rented from others","%","area",6.53,"A",
+21107,"Republic of Korea",2020,"Holdings rented from others","No","holdings",59897,"A","Excludes holdings without land."
+21110,"Republic of Korea",2020,"Holdings rented from others","%","holdings",5.79,"A","Excludes holdings without land."
+21295,"Republic of Moldova",2011,"Holdings rented from others","ha","area",571504,"A",
+21296,"Republic of Moldova",2011,"Holdings rented from others","%","area",25.36,"A",
+21297,"Republic of Moldova",2011,"Holdings rented from others","No","holdings",2685,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+21298,"Republic of Moldova",2011,"Holdings rented from others","%","holdings",0.3,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+21398,"Réunion",1989,"Holdings rented from others","ha","area",18117,"A","Data refer to agricultural land."
+21401,"Réunion",1989,"Holdings rented from others","%","area",26.98,"A","Data refer to agricultural land."
+21399,"Réunion",2000,"Holdings rented from others","ha","area",18424,"A","Agricultural area"
+21402,"Réunion",2000,"Holdings rented from others","%","area",42.17,"A","Agricultural area"
+21528,"Romania",2002,"Holdings rented from others","ha","area",760186,"A",
+21531,"Romania",2002,"Holdings rented from others","%","area",4.84,"A",
+21534,"Romania",2002,"Holdings rented from others","No","holdings",7029,"A",
+21537,"Romania",2002,"Holdings rented from others","%","holdings",0.16,"A",
+21529,"Romania",2010,"Holdings rented from others","ha","area",3642000,"A",
+21532,"Romania",2010,"Holdings rented from others","%","area",23.2,"A",
+21535,"Romania",2010,"Holdings rented from others","No","holdings",69380,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+21538,"Romania",2010,"Holdings rented from others","%","holdings",1.8,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+21530,"Romania",2020,"Holdings rented from others","ha","area",4785620,"A",
+21533,"Romania",2020,"Holdings rented from others","%","area",37.5,"A",
+21536,"Romania",2020,"Holdings rented from others","No","holdings",136060,"A",
+21539,"Romania",2020,"Holdings rented from others","%","holdings",4.71,"A",
+21732,"Rwanda",1984,"Holdings rented from others","No","holdings",15397,"A",
+21733,"Rwanda",1984,"Holdings rented from others","%","holdings",1.38,"A",
+21802,"Saint Kitts and Nevis",1987,"Holdings rented from others","ha","area",685,"A",
+21804,"Saint Kitts and Nevis",1987,"Holdings rented from others","%","area",7.72,"A",
+21803,"Saint Kitts and Nevis",2000,"Holdings rented from others","ha","area",757,"A","Holdings with land only."
+21805,"Saint Kitts and Nevis",2000,"Holdings rented from others","%","area",11.89,"A","Holdings with land only."
+21806,"Saint Kitts and Nevis",2000,"Holdings rented from others","No","holdings",703,"A","Holdings with land only."
+21807,"Saint Kitts and Nevis",2000,"Holdings rented from others","%","holdings",22.93,"A","Holdings with land only."
+21946,"Saint Lucia",1986,"Holdings rented from others","ha","area",1927,"A",
+21949,"Saint Lucia",1986,"Holdings rented from others","%","area",8.21,"A",
+21947,"Saint Lucia",1996,"Holdings rented from others","ha","area",2809,"A",
+21950,"Saint Lucia",1996,"Holdings rented from others","%","area",13.52,"A",
+22114,"Saint Vincent and the Grenadines",1986,"Holdings rented from others","ha","area",1083,"A",
+22116,"Saint Vincent and the Grenadines",1986,"Holdings rented from others","%","area",9.01,"A",
+22118,"Saint Vincent and the Grenadines",1986,"Holdings rented from others","No","holdings",1094,"A",
+22119,"Saint Vincent and the Grenadines",1986,"Holdings rented from others","%","holdings",12.35,"A",
+22115,"Saint Vincent and the Grenadines",2000,"Holdings rented from others","ha","area",1647,"A",
+22117,"Saint Vincent and the Grenadines",2000,"Holdings rented from others","%","area",22.88,"A",
+22236,"Samoa",1989,"Holdings rented from others","ha","area",1771,"A",
+22240,"Samoa",1989,"Holdings rented from others","%","area",2.63,"A",
+22237,"Samoa",1999,"Holdings rented from others","ha","area",1521,"A",
+22241,"Samoa",1999,"Holdings rented from others","%","area",2.85,"A",
+22238,"Samoa",2009,"Holdings rented from others","ha","area",1717,"A",
+22242,"Samoa",2009,"Holdings rented from others","%","area",4.6,"A",
+22239,"Samoa",2019,"Holdings rented from others","ha","area",2657,"A",
+22243,"Samoa",2019,"Holdings rented from others","%","area",5.89,"A",
+22463,"Saudi Arabia",1983,"Holdings rented from others","ha","area",180727,"A",
+22467,"Saudi Arabia",1983,"Holdings rented from others","%","area",8.46,"A",
+22471,"Saudi Arabia",1983,"Holdings rented from others","No","holdings",5548,"A",
+22475,"Saudi Arabia",1983,"Holdings rented from others","%","holdings",2.62,"A",
+22464,"Saudi Arabia",1999,"Holdings rented from others","ha","area",24018,"A",
+22468,"Saudi Arabia",1999,"Holdings rented from others","%","area",0.59,"A",
+22472,"Saudi Arabia",1999,"Holdings rented from others","No","holdings",1883,"A",
+22476,"Saudi Arabia",1999,"Holdings rented from others","%","holdings",0.78,"A",
+22465,"Saudi Arabia",2015,"Holdings rented from others","ha","area",206714,"A",
+22469,"Saudi Arabia",2015,"Holdings rented from others","%","area",6.04,"A",
+22473,"Saudi Arabia",2015,"Holdings rented from others","No","holdings",11549,"A",
+22477,"Saudi Arabia",2015,"Holdings rented from others","%","holdings",3.33,"A",
+22784,"Serbia",2002,"Holdings rented from others","ha","area",121617,"A",
+22787,"Serbia",2002,"Holdings rented from others","%","area",4.24,"A",
+22790,"Serbia",2002,"Holdings rented from others","No","holdings",3708,"A",
+22793,"Serbia",2002,"Holdings rented from others","%","holdings",0.48,"A",
+22785,"Serbia",2012,"Holdings rented from others","ha","area",1019008,"A",
+22788,"Serbia",2012,"Holdings rented from others","%","area",19.06,"A",
+22791,"Serbia",2012,"Holdings rented from others","No","holdings",145525,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+22794,"Serbia",2012,"Holdings rented from others","%","holdings",23.04,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+22786,"Serbia",2023,"Holdings rented from others","ha","area",40362.11,"A","Utillized agricultural area (UAA)."
+22789,"Serbia",2023,"Holdings rented from others","%","area",1.25,"A","Utillized agricultural area (UAA)."
+22792,"Serbia",2023,"Holdings rented from others","No","holdings",6080,"A",
+22795,"Serbia",2023,"Holdings rented from others","%","holdings",1.2,"A",
+22943,"Seychelles",2011,"Holdings rented from others","ha","area",277,"A",
+22944,"Seychelles",2011,"Holdings rented from others","%","area",59.44,"A",
+23053,"Singapore",1973,"Holdings rented from others","No","holdings",13973,"A","Predominant forms of tenure."
+23054,"Singapore",1973,"Holdings rented from others","%","holdings",88.77,"A","Predominant forms of tenure."
+23132,"Slovakia",2010,"Holdings rented from others","ha","area",1669750,"A",
+23134,"Slovakia",2010,"Holdings rented from others","%","area",54.51,"A",
+23136,"Slovakia",2010,"Holdings rented from others","No","holdings",6570,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+23138,"Slovakia",2010,"Holdings rented from others","%","holdings",26.86,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+23133,"Slovakia",2020,"Holdings rented from others","ha","area",1375770,"A",
+23135,"Slovakia",2020,"Holdings rented from others","%","area",73.86,"A",
+23137,"Slovakia",2020,"Holdings rented from others","No","holdings",5870,"A",
+23139,"Slovakia",2020,"Holdings rented from others","%","holdings",29.9,"A",
+23286,"Slovenia",2010,"Holdings rented from others","ha","area",129170,"A",
+23288,"Slovenia",2010,"Holdings rented from others","%","area",14.26,"A",
+23290,"Slovenia",2010,"Holdings rented from others","No","holdings",21960,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+23292,"Slovenia",2010,"Holdings rented from others","%","holdings",29.42,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+23287,"Slovenia",2020,"Holdings rented from others","ha","area",134880,"A",
+23289,"Slovenia",2020,"Holdings rented from others","%","area",27.9,"A",
+23291,"Slovenia",2020,"Holdings rented from others","No","holdings",31310,"A",
+23293,"Slovenia",2020,"Holdings rented from others","%","holdings",43.2,"A",
+23503,"South Africa",1930,"Holdings rented from others","ha","area",13652563.38,"A",
+23506,"South Africa",1930,"Holdings rented from others","%","area",16.49,"A",
+23509,"South Africa",1930,"Holdings rented from others","No","holdings",19465,"A",
+23512,"South Africa",1930,"Holdings rented from others","%","holdings",20.08,"A",
+23504,"South Africa",1950,"Holdings rented from others","ha","area",12448738,"A",
+23507,"South Africa",1950,"Holdings rented from others","%","area",14.32,"A",
+23510,"South Africa",1950,"Holdings rented from others","No","holdings",25547,"A",
+23513,"South Africa",1950,"Holdings rented from others","%","holdings",21.86,"A",
+23505,"South Africa",1960,"Holdings rented from others","ha","area",8684431,"A",
+23508,"South Africa",1960,"Holdings rented from others","%","area",8.2,"A",
+23511,"South Africa",1960,"Holdings rented from others","No","holdings",11655,"A",
+23514,"South Africa",1960,"Holdings rented from others","%","holdings",10.56,"A",
+23784,"Spain",1962,"Holdings rented from others","ha","area",3623899,"A",
+23790,"Spain",1962,"Holdings rented from others","%","area",8.12,"A",
+23796,"Spain",1962,"Holdings rented from others","No","holdings",355547,"A",
+23801,"Spain",1962,"Holdings rented from others","%","holdings",11.82,"A",
+23785,"Spain",1982,"Holdings rented from others","ha","area",1911249,"A",
+23791,"Spain",1982,"Holdings rented from others","%","area",4.31,"A",
+23797,"Spain",1982,"Holdings rented from others","No","holdings",95356,"A","Holdings with land only."
+23802,"Spain",1982,"Holdings rented from others","%","holdings",4.01,"A","Holdings with land only."
+23786,"Spain",1989,"Holdings rented from others","ha","area",2100757,"A",
+23792,"Spain",1989,"Holdings rented from others","%","area",4.89,"A",
+23798,"Spain",1989,"Holdings rented from others","No","holdings",87689,"A",
+23803,"Spain",1989,"Holdings rented from others","%","holdings",3.84,"A",
+23787,"Spain",1999,"Holdings rented from others","ha","area",7907502,"A","Agricultural area"
+23793,"Spain",1999,"Holdings rented from others","%","area",18.75,"A","Agricultural area"
+23788,"Spain",2009,"Holdings rented from others","ha","area",7545110,"A",
+23794,"Spain",2009,"Holdings rented from others","%","area",24.65,"A",
+23799,"Spain",2009,"Holdings rented from others","No","holdings",210110,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+23804,"Spain",2009,"Holdings rented from others","%","holdings",21.23,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+23789,"Spain",2020,"Holdings rented from others","ha","area",8948840,"A",
+23795,"Spain",2020,"Holdings rented from others","%","area",37.42,"A",
+23800,"Spain",2020,"Holdings rented from others","No","holdings",277170,"A",
+23805,"Spain",2020,"Holdings rented from others","%","holdings",30.3,"A",
+24060,"Sri Lanka",1962,"Holdings rented from others","No","holdings",71684,"A","Data relate only to holdings with an area under 20.23 ha"
+24061,"Sri Lanka",1962,"Holdings rented from others","%","holdings",6.13,"A","Data relate only to holdings with an area under 20.23 ha"
+24189,"Suriname",1959,"Holdings rented from others","ha","area",19495,"A",
+24192,"Suriname",1959,"Holdings rented from others","%","area",18.42,"A",
+24195,"Suriname",1959,"Holdings rented from others","No","holdings",8478,"A",
+24197,"Suriname",1959,"Holdings rented from others","%","holdings",52.21,"A",
+24190,"Suriname",1969,"Holdings rented from others","ha","area",20670,"A",
+24193,"Suriname",1969,"Holdings rented from others","%","area",22.03,"A",
+24196,"Suriname",1969,"Holdings rented from others","No","holdings",7954,"A","Only for holdings with land"
+24198,"Suriname",1969,"Holdings rented from others","%","holdings",49.47,"A","Only for holdings with land"
+24191,"Suriname",2008,"Holdings rented from others","ha","area",34828,"A",
+24194,"Suriname",2008,"Holdings rented from others","%","area",54.43,"A",
+24504,"Sweden",1961,"Holdings rented from others","ha","area",717025,"A","Numbe of holdings relates only to holdings of 2 ha and over. Data on area are for agricultural area"
+24515,"Sweden",1961,"Holdings rented from others","No","holdings",30727,"A","Numbe of holdings relates only to holdings of 2 ha and over. Data on area are for agricultural area"
+24520,"Sweden",1961,"Holdings rented from others","%","holdings",11.61,"A","Numbe of holdings relates only to holdings of 2 ha and over. Data on area are for agricultural area"
+24505,"Sweden",1971,"Holdings rented from others","ha","area",625258,"A","Data refer to arable area of holdings with 2 ha or more of arable area."
+24510,"Sweden",1971,"Holdings rented from others","%","area",5.9,"A","Data refer to arable area of holdings with 2 ha or more of arable area."
+24516,"Sweden",1971,"Holdings rented from others","No","holdings",19418,"A",
+24521,"Sweden",1971,"Holdings rented from others","%","holdings",11.99,"A",
+24506,"Sweden",1981,"Holdings rented from others","ha","area",632557,"A","Tenure of arable land"
+24511,"Sweden",1981,"Holdings rented from others","%","area",7.23,"A","Tenure of arable land"
+24517,"Sweden",1981,"Holdings rented from others","No","holdings",18185,"A",
+24522,"Sweden",1981,"Holdings rented from others","%","holdings",15.79,"A",
+24508,"Sweden",2010,"Holdings rented from others","ha","area",1317480,"A",
+24513,"Sweden",2010,"Holdings rented from others","%","area",19.49,"A",
+24518,"Sweden",2010,"Holdings rented from others","No","holdings",32970,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+24523,"Sweden",2010,"Holdings rented from others","%","holdings",46.38,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+24509,"Sweden",2020,"Holdings rented from others","ha","area",1274850,"A",
+24514,"Sweden",2020,"Holdings rented from others","%","area",42.41,"A",
+24519,"Sweden",2020,"Holdings rented from others","No","holdings",25680,"A",
+24524,"Sweden",2020,"Holdings rented from others","%","holdings",43.68,"A",
+24781,"Switzerland",1929,"Holdings rented from others","ha","area",267321,"A",
+24784,"Switzerland",1929,"Holdings rented from others","%","area",16.88,"A",
+24787,"Switzerland",1929,"Holdings rented from others","No","holdings",87110,"A",
+24789,"Switzerland",1929,"Holdings rented from others","%","holdings",36.53,"A",
+24782,"Switzerland",1990,"Holdings rented from others","ha","area",427085,"A","Data refer to agricultural land, but excluding 59 810 ha of communal grazing land (alpages)."
+24785,"Switzerland",1990,"Holdings rented from others","%","area",33.28,"A","Data refer to agricultural land, but excluding 59 810 ha of communal grazing land (alpages)."
+24783,"Switzerland",2010,"Holdings rented from others","ha","area",494380,"A",
+24786,"Switzerland",2010,"Holdings rented from others","%","area",42.5,"A",
+24788,"Switzerland",2010,"Holdings rented from others","No","holdings",47810,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+24790,"Switzerland",2010,"Holdings rented from others","%","holdings",80.94,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+24862,"Syrian Arab Republic",1981,"Holdings rented from others","ha","area",207421,"A",
+24863,"Syrian Arab Republic",1981,"Holdings rented from others","%","area",6.58,"A",
+24864,"Syrian Arab Republic",1981,"Holdings rented from others","No","holdings",16816,"A","Holdings with land only."
+24865,"Syrian Arab Republic",1981,"Holdings rented from others","%","holdings",3.46,"A","Holdings with land only."
+25002,"Thailand",1963,"Holdings rented from others","ha","area",424634,"A",
+25006,"Thailand",1963,"Holdings rented from others","%","area",3.81,"A",
+25010,"Thailand",1963,"Holdings rented from others","No","holdings",130968,"A",
+25014,"Thailand",1963,"Holdings rented from others","%","holdings",4.07,"A",
+25003,"Thailand",1978,"Holdings rented from others","ha","area",814232,"A",
+25007,"Thailand",1978,"Holdings rented from others","%","area",5.44,"A",
+25011,"Thailand",1978,"Holdings rented from others","No","holdings",234005,"A","Holdings with land only."
+25015,"Thailand",1978,"Holdings rented from others","%","holdings",5.82,"A","Holdings with land only."
+25004,"Thailand",1993,"Holdings rented from others","ha","area",2276160,"A",
+25008,"Thailand",1993,"Holdings rented from others","%","area",11.98,"A",
+25012,"Thailand",1993,"Holdings rented from others","No","holdings",411410,"A",
+25016,"Thailand",1993,"Holdings rented from others","%","holdings",7.28,"A",
+25005,"Thailand",2023,"Holdings rented from others","ha","area",2830610.4,"A",
+25009,"Thailand",2023,"Holdings rented from others","%","area",12.49,"A",
+25013,"Thailand",2023,"Holdings rented from others","No","holdings",877221,"A","Figures involve holdings operated under both one and two or more tenure forms."
+25017,"Thailand",2023,"Holdings rented from others","%","holdings",10.13,"A","Figures involve holdings operated under both one and two or more tenure forms."
+25237,"Timor-Leste",2019,"Holdings rented from others","ha","area",2160.87,"A",
+25238,"Timor-Leste",2019,"Holdings rented from others","%","area",0.99,"A",
+25239,"Timor-Leste",2019,"Holdings rented from others","No","holdings",129,"A",
+25240,"Timor-Leste",2019,"Holdings rented from others","%","holdings",0.09,"A",
+25444,"Tonga",1985,"Holdings rented from others","ha","area",10213,"A",
+25446,"Tonga",1985,"Holdings rented from others","%","area",30.59,"A",
+25445,"Tonga",2001,"Holdings rented from others","ha","area",2366,"A","Agricultural area"
+25447,"Tonga",2001,"Holdings rented from others","%","area",8.73,"A","Agricultural area"
+25554,"Trinidad and Tobago",1963,"Holdings rented from others","ha","area",19960,"A",
+25557,"Trinidad and Tobago",1963,"Holdings rented from others","%","area",9.28,"A",
+25560,"Trinidad and Tobago",1963,"Holdings rented from others","No","holdings",11149,"A",
+25562,"Trinidad and Tobago",1963,"Holdings rented from others","%","holdings",31.15,"A",
+25555,"Trinidad and Tobago",1982,"Holdings rented from others","ha","area",25230,"A",
+25558,"Trinidad and Tobago",1982,"Holdings rented from others","%","area",19.06,"A",
+25561,"Trinidad and Tobago",1982,"Holdings rented from others","No","holdings",11154,"A",
+25563,"Trinidad and Tobago",1982,"Holdings rented from others","%","holdings",36.5,"A",
+25556,"Trinidad and Tobago",2004,"Holdings rented from others","ha","area",16786,"A",
+25559,"Trinidad and Tobago",2004,"Holdings rented from others","%","area",19.75,"A",
+25811,"Türkiye",1991,"Holdings rented from others","ha","area",135815,"A",
+25813,"Türkiye",1991,"Holdings rented from others","%","area",0.58,"A",
+25815,"Türkiye",1991,"Holdings rented from others","No","holdings",46636,"A",
+25817,"Türkiye",1991,"Holdings rented from others","%","holdings",1.15,"A",
+25812,"Türkiye",2001,"Holdings rented from others","ha","area",563828,"A","Holdings with land only."
+25814,"Türkiye",2001,"Holdings rented from others","%","area",3.06,"A","Holdings with land only."
+25816,"Türkiye",2001,"Holdings rented from others","No","holdings",92792,"A","Holdings with land only."
+25818,"Türkiye",2001,"Holdings rented from others","%","holdings",3.02,"A","Holdings with land only."
+26188,"United Kingdom of Great Britain and Northern Ireland",1930,"Holdings rented from others","ha","area",1283564.44,"A","Figures pertain to Scotland only"
+26197,"United Kingdom of Great Britain and Northern Ireland",1930,"Holdings rented from others","%","area",6.71,"A","Figures pertain to Scotland only"
+26189,"United Kingdom of Great Britain and Northern Ireland",1950,"Holdings rented from others","ha","area",9737700,"A",
+26198,"United Kingdom of Great Britain and Northern Ireland",1950,"Holdings rented from others","%","area",51.25,"A",
+26206,"United Kingdom of Great Britain and Northern Ireland",1950,"Holdings rented from others","No","holdings",242100,"A",
+26212,"United Kingdom of Great Britain and Northern Ireland",1950,"Holdings rented from others","%","holdings",44.55,"A",
+26190,"United Kingdom of Great Britain and Northern Ireland",1960,"Holdings rented from others","ha","area",7133740,"A",
+26199,"United Kingdom of Great Britain and Northern Ireland",1960,"Holdings rented from others","%","area",37.5,"A",
+26207,"United Kingdom of Great Britain and Northern Ireland",1960,"Holdings rented from others","No","holdings",160560,"A",
+26213,"United Kingdom of Great Britain and Northern Ireland",1960,"Holdings rented from others","%","holdings",34.34,"A",
+26191,"United Kingdom of Great Britain and Northern Ireland",1970,"Holdings rented from others","ha","area",5535741,"A",
+26200,"United Kingdom of Great Britain and Northern Ireland",1970,"Holdings rented from others","%","area",30.77,"A",
+26208,"United Kingdom of Great Britain and Northern Ireland",1970,"Holdings rented from others","No","holdings",89822,"A",
+26214,"United Kingdom of Great Britain and Northern Ireland",1970,"Holdings rented from others","%","holdings",27.49,"A",
+26192,"United Kingdom of Great Britain and Northern Ireland",1979,"Holdings rented from others","ha","area",3466150,"A","Agricultural area"
+26201,"United Kingdom of Great Britain and Northern Ireland",1979,"Holdings rented from others","%","area",19.73,"A","Agricultural area"
+26209,"United Kingdom of Great Britain and Northern Ireland",1979,"Holdings rented from others","No","holdings",46320,"A",
+26215,"United Kingdom of Great Britain and Northern Ireland",1979,"Holdings rented from others","%","holdings",17.25,"A",
+26193,"United Kingdom of Great Britain and Northern Ireland",1993,"Holdings rented from others","ha","area",6040000,"A",
+26202,"United Kingdom of Great Britain and Northern Ireland",1993,"Holdings rented from others","%","area",34.91,"A",
+26195,"United Kingdom of Great Britain and Northern Ireland",2010,"Holdings rented from others","ha","area",4804500,"A",
+26204,"United Kingdom of Great Britain and Northern Ireland",2010,"Holdings rented from others","%","area",26.68,"A",
+26210,"United Kingdom of Great Britain and Northern Ireland",2010,"Holdings rented from others","No","holdings",63370,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+26216,"United Kingdom of Great Britain and Northern Ireland",2010,"Holdings rented from others","%","holdings",34.22,"A","Category of land use for most European countries is UAA (Utilized Agricultural Area)"
+26196,"United Kingdom of Great Britain and Northern Ireland",2021,"Holdings rented from others","ha","area",1350350.9,"A","Data pertains to England only. Excludes tenure not known."
+26205,"United Kingdom of Great Britain and Northern Ireland",2021,"Holdings rented from others","%","area",7.74,"A","Data pertains to England only. Excludes tenure not known."
+26211,"United Kingdom of Great Britain and Northern Ireland",2021,"Holdings rented from others","No","holdings",14562,"A","Data pertains to England only. Excludes tenure not known."
+26217,"United Kingdom of Great Britain and Northern Ireland",2021,"Holdings rented from others","%","holdings",6.73,"A","Data pertains to England only. Excludes tenure not known."
+26720,"United States of America",1930,"Holdings rented from others","ha","area",124362392.6,"A","Includes Alaska and Hawaii"
+26730,"United States of America",1930,"Holdings rented from others","%","area",31.04,"A","Includes Alaska and Hawaii"
+26740,"United States of America",1930,"Holdings rented from others","No","holdings",2668811,"A","Includes Alaska and Hawaii"
+26750,"United States of America",1930,"Holdings rented from others","%","holdings",42.4,"A","Includes Alaska and Hawaii"
+26721,"United States of America",1950,"Holdings rented from others","ha","area",58033796,"A",
+26731,"United States of America",1950,"Holdings rented from others","%","area",12.35,"A",
+26741,"United States of America",1950,"Holdings rented from others","No","holdings",1097509,"A",
+26751,"United States of America",1950,"Holdings rented from others","%","holdings",20.37,"A",
+26722,"United States of America",1959,"Holdings rented from others","ha","area",66060652,"A",
+26732,"United States of America",1959,"Holdings rented from others","%","area",14.53,"A",
+26742,"United States of America",1959,"Holdings rented from others","No","holdings",759973,"A",
+26752,"United States of America",1959,"Holdings rented from others","%","holdings",20.48,"A",
+26723,"United States of America",1969,"Holdings rented from others","ha","area",55686833,"A",
+26733,"United States of America",1969,"Holdings rented from others","%","area",12.94,"A",
+26743,"United States of America",1969,"Holdings rented from others","No","holdings",352923,"A",
+26753,"United States of America",1969,"Holdings rented from others","%","holdings",12.93,"A",
+26724,"United States of America",1978,"Holdings rented from others","ha","area",50216580,"A",
+26734,"United States of America",1978,"Holdings rented from others","%","area",12.05,"A",
+26744,"United States of America",1978,"Holdings rented from others","No","holdings",313648,"A",
+26754,"United States of America",1978,"Holdings rented from others","%","holdings",12.65,"A",
+26725,"United States of America",1987,"Holdings rented from others","ha","area",51342597,"A",
+26735,"United States of America",1987,"Holdings rented from others","%","area",13.15,"A",
+26745,"United States of America",1987,"Holdings rented from others","No","holdings",240200,"A",
+26755,"United States of America",1987,"Holdings rented from others","%","holdings",11.51,"A",
+26726,"United States of America",2002,"Holdings rented from others","ha","area",35005505,"A",
+26736,"United States of America",2002,"Holdings rented from others","%","area",9.22,"A",
+26746,"United States of America",2002,"Holdings rented from others","No","holdings",149842,"A",
+26756,"United States of America",2002,"Holdings rented from others","%","holdings",7.04,"A",
+26727,"United States of America",2012,"Holdings rented from others","ha","area",142024913.8,"A",
+26737,"United States of America",2012,"Holdings rented from others","%","area",38.38,"A",
+26747,"United States of America",2012,"Holdings rented from others","No","holdings",666945,"A",
+26757,"United States of America",2012,"Holdings rented from others","%","holdings",31.62,"A",
+26728,"United States of America",2017,"Holdings rented from others","ha","area",142746905.1,"A",
+26738,"United States of America",2017,"Holdings rented from others","%","area",39.15,"A",
+26748,"United States of America",2017,"Holdings rented from others","No","holdings",616954,"A",
+26758,"United States of America",2017,"Holdings rented from others","%","holdings",30.21,"A",
+26729,"United States of America",2022,"Holdings rented from others","ha","area",139977827.1,"A",
+26739,"United States of America",2022,"Holdings rented from others","%","area",39.3,"A",
+26749,"United States of America",2022,"Holdings rented from others","No","holdings",530864,"A",
+26759,"United States of America",2022,"Holdings rented from others","%","holdings",27.93,"A",
+27199,"United States Virgin Islands",1930,"Holdings rented from others","ha","area",847.01,"A",
+27207,"United States Virgin Islands",1930,"Holdings rented from others","%","area",3.06,"A",
+27215,"United States Virgin Islands",1930,"Holdings rented from others","No","holdings",93,"A",
+27224,"United States Virgin Islands",1930,"Holdings rented from others","%","holdings",28.27,"A",
+27200,"United States Virgin Islands",1950,"Holdings rented from others","ha","area",1743,"A",
+27208,"United States Virgin Islands",1950,"Holdings rented from others","%","area",6.76,"A",
+27216,"United States Virgin Islands",1950,"Holdings rented from others","No","holdings",146,"A",
+27225,"United States Virgin Islands",1950,"Holdings rented from others","%","holdings",19.34,"A",
+27201,"United States Virgin Islands",1959,"Holdings rented from others","ha","area",1172,"A",
+27209,"United States Virgin Islands",1959,"Holdings rented from others","%","area",6.57,"A",
+27217,"United States Virgin Islands",1959,"Holdings rented from others","No","holdings",69,"A",
+27226,"United States Virgin Islands",1959,"Holdings rented from others","%","holdings",13.77,"A",
+27202,"United States Virgin Islands",1969,"Holdings rented from others","ha","area",225,"A",
+27210,"United States Virgin Islands",1969,"Holdings rented from others","%","area",2.72,"A",
+27218,"United States Virgin Islands",1969,"Holdings rented from others","No","holdings",17,"A",
+27227,"United States Virgin Islands",1969,"Holdings rented from others","%","holdings",8.02,"A",
+27219,"United States Virgin Islands",1978,"Holdings rented from others","No","holdings",28,"A",
+27228,"United States Virgin Islands",1978,"Holdings rented from others","%","holdings",7.41,"A",
+27203,"United States Virgin Islands",1987,"Holdings rented from others","ha","area",427,"A",
+27211,"United States Virgin Islands",1987,"Holdings rented from others","%","area",5.93,"A",
+27220,"United States Virgin Islands",1987,"Holdings rented from others","No","holdings",23,"A",
+27229,"United States Virgin Islands",1987,"Holdings rented from others","%","holdings",8.61,"A",
+27204,"United States Virgin Islands",2002,"Holdings rented from others","ha","area",1878,"A",
+27212,"United States Virgin Islands",2002,"Holdings rented from others","%","area",50.62,"A",
+27221,"United States Virgin Islands",2007,"Holdings rented from others","No","holdings",112,"A",
+27230,"United States Virgin Islands",2007,"Holdings rented from others","%","holdings",51.14,"A",
+27205,"United States Virgin Islands",2018,"Holdings rented from others","ha","area",1018,"A",
+27213,"United States Virgin Islands",2018,"Holdings rented from others","%","area",26.96,"A",
+27222,"United States Virgin Islands",2018,"Holdings rented from others","No","holdings",144,"A",
+27231,"United States Virgin Islands",2018,"Holdings rented from others","%","holdings",25.49,"A",
+27206,"United States Virgin Islands",2023,"Holdings rented from others","ha","area",818.28,"A",
+27214,"United States Virgin Islands",2023,"Holdings rented from others","%","area",24.99,"A",
+27223,"United States Virgin Islands",2023,"Holdings rented from others","No","holdings",177,"A",
+27232,"United States Virgin Islands",2023,"Holdings rented from others","%","holdings",28.59,"A",
+27546,"Uruguay",1930,"Holdings rented from others","No","holdings",20471,"A",
+27552,"Uruguay",1930,"Holdings rented from others","%","holdings",54.87,"A",
+27534,"Uruguay",1951,"Holdings rented from others","ha","area",5579675,"A",
+27540,"Uruguay",1951,"Holdings rented from others","%","area",32.87,"A",
+27547,"Uruguay",1951,"Holdings rented from others","No","holdings",29611,"A",
+27553,"Uruguay",1951,"Holdings rented from others","%","holdings",34.73,"A",
+27535,"Uruguay",1961,"Holdings rented from others","ha","area",4892329,"A",
+27541,"Uruguay",1961,"Holdings rented from others","%","area",28.8,"A",
+27548,"Uruguay",1961,"Holdings rented from others","No","holdings",28961,"A",
+27554,"Uruguay",1961,"Holdings rented from others","%","holdings",33.32,"A",
+27536,"Uruguay",1970,"Holdings rented from others","ha","area",3149218,"A",
+27542,"Uruguay",1970,"Holdings rented from others","%","area",19.07,"A",
+27549,"Uruguay",1970,"Holdings rented from others","No","holdings",17668,"A",
+27555,"Uruguay",1970,"Holdings rented from others","%","holdings",22.9,"A",
+27537,"Uruguay",1980,"Holdings rented from others","ha","area",2041162,"A",
+27543,"Uruguay",1980,"Holdings rented from others","%","area",12.74,"A",
+27550,"Uruguay",1980,"Holdings rented from others","No","holdings",12077,"A",
+27556,"Uruguay",1980,"Holdings rented from others","%","holdings",17.67,"A",
+27538,"Uruguay",2000,"Holdings rented from others","ha","area",3854882,"A",
+27544,"Uruguay",2000,"Holdings rented from others","%","area",23.48,"A",
+27539,"Uruguay",2011,"Holdings rented from others","ha","area",2262067,"A",
+27545,"Uruguay",2011,"Holdings rented from others","%","area",13.83,"A",
+27551,"Uruguay",2011,"Holdings rented from others","No","holdings",6087,"A",
+27557,"Uruguay",2011,"Holdings rented from others","%","holdings",13.59,"A",
+27702,"Vanuatu",2007,"Holdings rented from others","ha","area",59,"A",
+27845,"Venezuela (Bolivarian Republic of)",1961,"Holdings rented from others","ha","area",613631,"A",
+27848,"Venezuela (Bolivarian Republic of)",1961,"Holdings rented from others","%","area",2.36,"A",
+27851,"Venezuela (Bolivarian Republic of)",1961,"Holdings rented from others","No","holdings",41189,"A",
+27854,"Venezuela (Bolivarian Republic of)",1961,"Holdings rented from others","%","holdings",12.87,"A",
+27846,"Venezuela (Bolivarian Republic of)",1971,"Holdings rented from others","ha","area",548288,"A",
+27849,"Venezuela (Bolivarian Republic of)",1971,"Holdings rented from others","%","area",2.07,"A",
+27852,"Venezuela (Bolivarian Republic of)",1971,"Holdings rented from others","No","holdings",15998,"A","Only for holdings with land"
+27855,"Venezuela (Bolivarian Republic of)",1971,"Holdings rented from others","%","holdings",5.56,"A","Only for holdings with land"
+28439,"Zambia",1950,"Holdings rented from others","ha","area",326300,"A","Figures are for European holdings holds"
+28440,"Zambia",1950,"Holdings rented from others","%","area",21.47,"A","Figures are for European holdings holds"
+28441,"Zambia",1950,"Holdings rented from others","No","holdings",336,"A","Figures are for European holdings holds"
+28442,"Zambia",1950,"Holdings rented from others","%","holdings",34.75,"A","Figures are for European holdings holds"
+28550,"Zimbabwe",1950,"Holdings rented from others","ha","area",624626,"A","Figures are for European holdings holds"
+28551,"Zimbabwe",1950,"Holdings rented from others","%","area",5.4,"A","Figures are for European holdings holds"
+28552,"Zimbabwe",1950,"Holdings rented from others","No","holdings",444,"A","Figures are for European holdings holds"
+28553,"Zimbabwe",1950,"Holdings rented from others","%","holdings",8.79,"A","Figures are for European holdings holds"

@@ -1,0 +1,13 @@
+"metric","value"
+"valid_rental_area_percent_observations",343
+"unique_rental_area_percent_country_years",343
+"countries_with_rental_area_percent",115
+"duplicate_country_year_keys",0
+"out_of_bounds_observations",0
+"countries_with_2plus_area_percent_censuses",77
+"countries_with_3plus_area_percent_censuses",51
+"countries_latest_area_percent_since_2000",85
+"countries_latest_area_percent_since_2010",75
+"countries_latest_area_percent_since_2015",55
+"countries_latest_area_percent_since_2020",44
+"median_latest_area_percent_census_year",2014

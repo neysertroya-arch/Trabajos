@@ -1,0 +1,17 @@
+"metric","value"
+"wcad_country_years",343
+"wcad_countries",115
+"countries_matched_to_usda",94
+"unmatched_wcad_countries",21
+"countries_matched_by_fao_code",94
+"countries_matched_by_name_fallback",0
+"usda_tfp_min_year",1961
+"usda_tfp_max_year",2023
+"country_years_post3_available",220
+"country_years_post5_available",188
+"country_years_pre5_post5_available",176
+"countries_post3_since2000_latest_per_country",69
+"countries_post5_since2000_latest_per_country",66
+"countries_post5_since2010_latest_per_country",54
+"countries_pre5_post5_since2000_latest_per_country",65
+"conflicting_usda_country_year_keys",0

@@ -1,0 +1,121 @@
+name: Land Use Policy submission package
+
+on:
+  pull_request:
+    paths:
+      - 'R/**'
+      - 'scripts/**'
+      - 'manuscript/**'
+      - 'submission/land-use-policy/**'
+      - '_quarto.yml'
+      - '.github/workflows/land-use-policy-submission.yml'
+  workflow_dispatch:
+
+jobs:
+  submission-package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: 'release'
+          use-public-rspm: true
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Parse analytical and submission pipeline
+        run: |
+          Rscript -e 'files <- c("R/01_download_wcad.R","R/02_audit_wcad.R","R/02b_audit_wcad_comparability.R","R/03_download_usda.R","R/04_harmonize.R","R/04b_audit_farm_structure.R","R/04c_add_development_controls.R","R/05_descriptive_diagnostics.R","R/06_models_robustness.R","R/07_advanced_robustness.R","R/08_publication_outputs.R","R/09_build_lup_submission.R","R/10_audit_editorial_submission.R","R/11_build_presubmission_assets.R"); for (f in files) { message("Parsing ", f); parse(file = f) }; cat("LUP_SUBMISSION_PIPELINE_PARSE_OK\n")'
+
+      - name: Rebuild approved analytical pipeline
+        run: |
+          Rscript R/01_download_wcad.R
+          Rscript R/02_audit_wcad.R
+          Rscript R/02b_audit_wcad_comparability.R
+          Rscript R/03_download_usda.R
+          Rscript R/04_harmonize.R
+          Rscript R/04b_audit_farm_structure.R
+          Rscript R/04c_add_development_controls.R
+          Rscript R/05_descriptive_diagnostics.R
+          Rscript R/06_models_robustness.R
+          Rscript R/07_advanced_robustness.R
+          Rscript R/08_publication_outputs.R
+
+      - name: Audit editorial structure and references
+        run: Rscript R/10_audit_editorial_submission.R
+
+      - name: Build anonymous manuscript source
+        run: Rscript R/09_build_lup_submission.R
+
+      - name: Build separate presubmission figures and captions
+        run: Rscript R/11_build_presubmission_assets.R
+
+      - name: Build reproducible Word reference formatting
+        run: python scripts/build_lup_reference_docx.py
+
+      - name: Build editable submission documents
+        run: python scripts/build_lup_submission_docs.py
+
+      - name: Render anonymous Word manuscript
+        shell: bash
+        run: |
+          set -euo pipefail
+          (cd submission/land-use-policy && quarto render article_lup_anonymous.qmd --to docx)
+          mkdir -p outputs/submission/land-use-policy
+          test -f submission/land-use-policy/article_lup_anonymous.docx
+          mv submission/land-use-policy/article_lup_anonymous.docx outputs/submission/land-use-policy/
+
+      - name: Audit manuscript anonymity
+        shell: bash
+        run: |
+          set -euo pipefail
+          DOCX="outputs/submission/land-use-policy/article_lup_anonymous.docx"
+          test -f "$DOCX"
+          AUDIT_DIR="/tmp/lup-docx-audit"
+          rm -rf "$AUDIT_DIR"
+          mkdir -p "$AUDIT_DIR"
+          unzip -q "$DOCX" -d "$AUDIT_DIR"
+          if grep -R -a -Eiq 'Andrea Yolanda Jaramillo Castillo|José Vicente Ordóñez Yaguache|Jose Vicente Ordonez Yaguache|Universidad Nacional de Loja|josevicente1980|0000-0002-3349-6714' "$AUDIT_DIR"; then
+            echo "ANONYMITY_AUDIT_FAIL"
+            exit 1
+          fi
+          echo "ANONYMITY_AUDIT_PASS"
+
+      - name: Build anonymous replication bundle
+        shell: bash
+        run: |
+          set -euo pipefail
+          ROOT="outputs/submission/land-use-policy/replication"
+          mkdir -p "$ROOT/R" "$ROOT/outputs"
+          find R -maxdepth 1 -type f -name '*.R' ! -name '09_build_lup_submission.R' -exec cp {} "$ROOT/R/" \;
+          cp submission/land-use-policy/REPLICATION_README.md "$ROOT/README.md"
+          if [ -f renv.lock ]; then cp renv.lock "$ROOT/renv.lock"; fi
+          cp -R outputs/publication "$ROOT/outputs/publication"
+          if grep -R -a -Eiq 'Andrea Yolanda Jaramillo Castillo|José Vicente Ordóñez Yaguache|Jose Vicente Ordonez Yaguache|Universidad Nacional de Loja|josevicente1980|0000-0002-3349-6714' "$ROOT"; then
+            echo "REPLICATION_ANONYMITY_AUDIT_FAIL"
+            exit 1
+          fi
+          (cd "outputs/submission/land-use-policy" && zip -qr anonymous-replication.zip replication)
+          rm -rf "$ROOT"
+          echo "REPLICATION_ANONYMITY_AUDIT_PASS"
+
+      - name: Add source copies and verify upload files
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp submission/land-use-policy/title-page.md outputs/submission/land-use-policy/
+          cp submission/land-use-policy/cover-letter.md outputs/submission/land-use-policy/
+          cp submission/land-use-policy/highlights.md outputs/submission/land-use-policy/
+          for f in article_lup_anonymous.docx title-page.docx cover-letter.docx highlights.docx figure-captions.docx Figure_1.pdf Figure_2.pdf anonymous-replication.zip; do
+            test -s "outputs/submission/land-use-policy/$f"
+          done
+          echo "LUP_REQUIRED_UPLOAD_FILES_OK"
+
+      - name: Upload submission package
+        uses: actions/upload-artifact@v4
+        with:
+          name: land-use-policy-submission-package
+          path: outputs/submission/land-use-policy/
+          if-no-files-found: error
+          retention-days: 14

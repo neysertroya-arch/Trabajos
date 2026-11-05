@@ -1,0 +1,17 @@
+# Valoración de las variables y de la base de datos
+
+Consideramos que la base está bien estructurada para un diseño asociacional y exploratorio, con las limitaciones que se señalan a continuación.
+
+## Fortalezas
+
+Las tres fuentes son oficiales, públicas y comparables entre países. La variable dependiente se mide después del año censal, lo que ordena en el tiempo la relación, y se incluye un diagnóstico con el crecimiento previo de la TFP. El conjunto de controles es parsimonioso y las seis comprobaciones de robustez dan una lectura consistente.
+
+## Limitaciones
+
+1. Con 65 países el poder estadístico es bajo, por lo que un coeficiente impreciso no equivale a ausencia de efecto; el modelo de efectos fijos usa aún menos observaciones.
+2. La prevalencia nacional del arrendamiento es un indicador único que no recoge seguridad de tenencia, duración de los contratos ni dirección de las transferencias (Macours et al., 2010; Chen et al., 2022).
+3. Los países tienen censos en años distintos, y el tamaño medio de la explotación y la proporción de explotaciones pequeñas pueden estar muy correlacionados, lo que conviene revisar con medidas de multicolinealidad.
+4. Entre los controles no figura el nivel inicial de la TFP, que suele asociarse con su crecimiento posterior, ni variables regionales o climáticas (Ortiz-Bobea et al., 2021).
+5. La TFP agregada y el tamaño de las explotaciones se miden con error (Coelli y Rao, 2005; Carletto et al., 2013).
+
+En conjunto, las variables son pertinentes y la base es suficiente para responder la pregunta de asociación, pero no para inferir causalidad; los resultados deben leerse de forma proporcional a la evidencia.

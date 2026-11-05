@@ -1,0 +1,37 @@
+name: Farm structure coverage audit
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  farm-structure-audit:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: release
+          use-public-rspm: true
+      - name: Parse scripts
+        run: |
+          Rscript -e 'parse("R/01_download_wcad.R"); parse("R/02_audit_wcad.R"); parse("R/02b_audit_wcad_comparability.R"); parse("R/03_download_usda.R"); parse("R/04_harmonize.R"); parse("R/04b_audit_farm_structure.R"); cat("FARM_STRUCTURE_R_PARSE_OK\n")'
+      - name: Rebuild WCAD
+        run: |
+          Rscript R/01_download_wcad.R
+          Rscript R/02_audit_wcad.R
+          Rscript R/02b_audit_wcad_comparability.R
+      - name: Rebuild WCAD-USDA candidate sample
+        run: |
+          Rscript R/03_download_usda.R
+          Rscript R/04_harmonize.R
+      - name: Audit farm-structure coverage
+        run: Rscript R/04b_audit_farm_structure.R
+      - name: Upload audit outputs
+        uses: actions/upload-artifact@v4
+        with:
+          name: farm-structure-coverage-audit
+          path: outputs/audit/farm_structure/
+          if-no-files-found: error
+          retention-days: 14

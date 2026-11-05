@@ -1,0 +1,42 @@
+name: Advanced robustness
+
+on:
+  pull_request:
+    paths:
+      - 'R/07_advanced_robustness.R'
+      - '.github/workflows/advanced-robustness.yml'
+      - 'R/01_download_wcad.R'
+      - 'R/02_audit_wcad.R'
+      - 'R/02b_audit_wcad_comparability.R'
+      - 'R/03_download_usda.R'
+      - 'R/04_harmonize.R'
+      - 'R/04b_audit_farm_structure.R'
+      - 'R/04c_add_development_controls.R'
+
+jobs:
+  advanced-robustness:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: release
+          use-public-rspm: true
+      - name: Parse scripts
+        run: Rscript -e 'for(f in c("R/01_download_wcad.R","R/02_audit_wcad.R","R/02b_audit_wcad_comparability.R","R/03_download_usda.R","R/04_harmonize.R","R/04b_audit_farm_structure.R","R/04c_add_development_controls.R","R/07_advanced_robustness.R")) parse(f); cat("ADVANCED_SCRIPTS_PARSE_OK\n")'
+      - name: Rebuild analytical inputs
+        run: |
+          Rscript R/01_download_wcad.R
+          Rscript R/02_audit_wcad.R
+          Rscript R/02b_audit_wcad_comparability.R
+          Rscript R/03_download_usda.R
+          Rscript R/04_harmonize.R
+          Rscript R/04b_audit_farm_structure.R
+          Rscript R/04c_add_development_controls.R
+      - name: Run advanced robustness
+        run: Rscript R/07_advanced_robustness.R
+      - uses: actions/upload-artifact@v4
+        with:
+          name: advanced-robustness
+          path: outputs/models/advanced/
+          retention-days: 14

@@ -1,10 +1,19 @@
-.Rproj.user
+﻿.Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
-/.quarto/
-**/*.quarto_ipynb
+data/raw/*
+!data/raw/.gitkeep
 
-_book/
-.Renviron
+output/*
+!output/.gitkeep
+
+*.html
+*.pdf
+*.docx
+.DS_Store
+Thumbs.db
+
+# Generated scientific-audit outputs
+05_results/

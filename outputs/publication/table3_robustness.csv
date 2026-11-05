@@ -1,0 +1,9 @@
+"Test","Effect per 10 pp","p","N"
+"Main post-5-year model","-0.0011","0.598",65
+"Structural interaction: rental main effect","-0.0013","0.577",64
+"Post-3-year TFP growth","-0.0025","0.388",65
+"Pre-census 5-year TFP growth","0.0008","0.752",64
+"Excluding influential observations","-0.0001","0.956",62
+"Country FE, repeated censuses","0.0008","0.910",37
+"Alternative: rented holdings share","-0.0014","0.586",55
+"TFP acceleration: post minus pre","-0.0013","0.730",64

@@ -1,0 +1,38 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Arrendamiento de tierras, estructura agraria y crecimiento de la productividad total de los factores agrícola"
+  subtitle: "Evidencia censal entre 65 países"
+  author: "Alexandra Rivera, Neyser Troya"
+  date: "04/11/2026"
+  chapters:
+    - index.qmd
+    - 01_tema_objetivos.qmd
+    - 02_marco_teorico.qmd
+    - 03_diagnostico.qmd
+    - 04_metodologia.qmd
+    - 05_valoracion_datos.qmd
+    - 06_correlaciones_estadisticos.qmd
+    - 07_referencias.qmd
+
+lang: es
+
+crossref:
+  chapters: false
+  fig-title: Figura
+  tbl-title: Tabla
+
+execute:
+  echo: false
+  warning: false
+  message: false
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+  pdf:
+    documentclass: scrreprt

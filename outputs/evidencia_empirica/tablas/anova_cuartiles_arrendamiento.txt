@@ -1,0 +1,17 @@
+             Df  Sum Sq   Mean Sq F value Pr(>F)
+quart_rental  3 0.00179 0.0005976   0.906  0.443
+Residuals    61 0.04023 0.0006595               
+  Tukey multiple comparisons of means
+    95% family-wise confidence level
+
+Fit: aov(formula = tfp_growth_post5 ~ quart_rental, data = d)
+
+$quart_rental
+              diff         lwr         upr     p adj
+Q2-Q1 -0.014203018 -0.03782917 0.009423137 0.3930847
+Q3-Q1 -0.010191984 -0.03381814 0.013434171 0.6667963
+Q4-Q1 -0.008974949 -0.03260110 0.014651206 0.7480260
+Q3-Q2  0.004011034 -0.01997042 0.027992489 0.9709495
+Q4-Q2  0.005228069 -0.01875339 0.029209524 0.9389470
+Q4-Q3  0.001217035 -0.02276442 0.025198490 0.9991305
+

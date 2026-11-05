@@ -1,0 +1,8 @@
+"Variable","Modelo base","p (base)","Modelo con interacción","p (interacción)"
+"Intercepto","0.0015 (0.0526)","0.978","-0.0210 (0.0769)","0.786"
+"Arrendamiento (por 10 pp)","-0.0013 (0.0022)","0.568","-0.0000 (0.0024)","0.987"
+"Tamaño medio (ha)","-0.0000 (0.0000)","0.731","-0.0000 (0.0001)","0.856"
+"Log PIB per cápita","0.0015 (0.0053)","0.782","0.0031 (0.0074)","0.682"
+"Valor agregado agrícola (% PIB)","0.0003 (0.0008)","0.685","0.0003 (0.0009)","0.715"
+"Explotaciones < 2 ha","","","0.0002 (0.0002)","0.462"
+"Arrendamiento × Explotaciones < 2 ha","","","-0.0000 (0.0000)","0.520"
