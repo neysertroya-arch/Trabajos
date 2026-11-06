@@ -18,6 +18,10 @@ encontrar_base <- function() {
 }
 
 d <- readRDS(encontrar_base())
+if (any(!is.finite(d$average_holding_area_ha) | d$average_holding_area_ha <= 0, na.rm = TRUE)) {
+  stop("El tamaÃ±o medio debe ser positivo y finito para calcular su logaritmo.")
+}
+d$log_average_holding_area <- log(d$average_holding_area_ha)
 
 br_rental <- c(0, 4, 10, 20, 30, 40, 50, 60, 70, 71)
 h_rental <- hist(d$rental_area_share, breaks = br_rental, plot = FALSE)
@@ -485,3 +489,5 @@ knitr::kable(
 :::
 
 Los resultados del modelo son consistentes con la lectura descriptiva: el coeficiente del arrendamiento es pequeño e impreciso, y el modelo explica una fracción muy baja de la variación del crecimiento de la TFP. Con 65 observaciones, la ausencia de significancia no debe interpretarse como ausencia de relación, sino como evidencia limitada en una muestra pequeña.
+
+

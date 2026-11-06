@@ -16,6 +16,10 @@ encontrar_base <- function() {
 }
 
 d <- readRDS(encontrar_base())
+if (any(!is.finite(d$average_holding_area_ha) | d$average_holding_area_ha <= 0, na.rm = TRUE)) {
+  stop("El tamaÃ±o medio debe ser positivo y finito para calcular su logaritmo.")
+}
+d$log_average_holding_area <- log(d$average_holding_area_ha)
 
 dir.create("salidas/tablas", recursive = TRUE, showWarnings = FALSE)
 dir.create("salidas/figuras", recursive = TRUE, showWarnings = FALSE)
@@ -332,3 +336,5 @@ ajuste_tab <- data.frame(
 ajuste_tab[] <- lapply(ajuste_tab, function(x) if (is.numeric(x)) round(x, 4) else x)
 write.csv(ajuste_tab, "salidas/tablas/tabla9_ajuste.csv", row.names = FALSE)
 print(ajuste_tab)
+
+
