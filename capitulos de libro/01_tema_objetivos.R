@@ -13,7 +13,7 @@
 # potencialidades del arrendamiento de tierras como mecanismo de reasignación.
 #
 # Objetivo 2:
-# Estimar un modelo de regresión del crecimiento anualizado de la TFP agrícola
+# Estimar un modelo de regresión del crecimiento anual de la TFP agrícola
 # sobre la prevalencia del arrendamiento, con controles de estructura agraria y
 # desarrollo, errores estándar robustos HC3, un término de interacción con la
 # proporción de explotaciones menores de dos hectáreas y un conjunto de
