@@ -1,0 +1,127 @@
+﻿# Referencias
+
+Adamopoulos, T., Brandt, L., Leight, J., & Restuccia, D. (2022). Misallocation, selection, and productivity: A quantitative analysis with panel data from China. *Econometrica, 90*(3), 1261-1282. https://doi.org/10.3982/ECTA16598
+
+Adamopoulos, T., & Restuccia, D. (2014). The size distribution of farms and international productivity differences. *American Economic Review, 104*(6), 1667-1697. https://doi.org/10.1257/aer.104.6.1667
+
+Adamopoulos, T., & Restuccia, D. (2020). Land reform and productivity: A quantitative analysis with micro data. *American Economic Journal: Macroeconomics, 12*(3), 1-39. https://www.aeaweb.org/articles?id=10.1257/mac.20150222
+
+Ali, D. A., Deininger, K., & Goldstein, M. (2014). Environmental and gender impacts of land tenure regularization in Africa: Pilot evidence from Rwanda. *Journal of Development Economics, 110*, 262-275. https://doi.org/10.1016/j.jdeveco.2013.12.009
+
+Alston, J. M., & Pardey, P. G. (2014). Agriculture in the global economy. *Journal of Economic Perspectives, 28*(1), 121-146. https://doi.org/10.1257/jep.28.1.121
+
+Altman, D. G., & Bland, J. M. (1995). Absence of evidence is not evidence of absence. *BMJ, 311*(7003), 485. https://doi.org/10.1136/bmj.311.7003.485
+
+Athey, S., & Imbens, G. W. (2019). Machine learning methods that economists should know about. *Annual Review of Economics, 11*, 685-725. https://doi.org/10.1146/annurev-economics-080217-053433
+
+Ayerst, S., Brandt, L., & Restuccia, D. (2020). Market constraints, misallocation, and productivity in Vietnam agriculture. *Food Policy, 94*, 101840. https://doi.org/10.1016/j.foodpol.2020.101840
+
+Bail, C. A. (2024). Can generative AI improve social science? *Proceedings of the National Academy of Sciences, 121*(21), e2314021121. https://doi.org/10.1073/pnas.2314021121
+
+Barrett, C. B., Bellemare, M. F., & Hou, J. Y. (2010). Reconsidering conventional explanations of the inverse productivity–size relationship. *World Development, 38*(1), 88-97. https://doi.org/10.1016/j.worlddev.2009.11.009
+
+Besley, T. (1995). Property rights and investment incentives: Theoretical and empirical evidence from Ghana. *Journal of Political Economy, 103*(5), 903-937. https://doi.org/10.1086/262008
+
+Bishara, A. J., & Hittner, J. B. (2012). Testing the significance of a correlation with nonnormal data: Comparison of Pearson, Spearman, transformation, and resampling approaches. *Psychological Methods, 17*(3), 399-417. https://doi.org/10.1037/a0028087
+
+Blanca, M. J., Alarcón, R., Arnau, J., Bono, R., & Bendayan, R. (2017). Non-normal data: Is ANOVA still a valid option? *Psicothema, 29*(4), 552-557. https://doi.org/10.7334/psicothema2016.383
+
+Brambor, T., Clark, W. R., & Golder, M. (2006). Understanding interaction models: Improving empirical analyses. *Political Analysis, 14*(1), 63-82. https://doi.org/10.1093/pan/mpi014
+
+Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at work. *The Quarterly Journal of Economics, 140*(2), 889-942. https://doi.org/10.1093/qje/qjae040
+
+Button, K. S., Ioannidis, J. P. A., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S. J., & Munafò, M. R. (2013). Power failure: Why small sample size undermines the reliability of neuroscience. *Nature Reviews Neuroscience, 14*(5), 365-376. https://doi.org/10.1038/nrn3475
+
+Carletto, C., Savastano, S., & Zezza, A. (2013). Fact or artefact: The impact of measurement errors on the farm size–productivity relationship. *Journal of Development Economics, 103*, 254-261. https://doi.org/10.1016/j.jdeveco.2013.03.003
+
+Chamberlin, J., & Ricker-Gilbert, J. (2016). Participation in rural land rental markets in Sub-Saharan Africa: Who benefits and by how much? Evidence from Malawi and Zambia. *American Journal of Agricultural Economics, 98*(5), 1507-1528. https://doi.org/10.1093/ajae/aaw051
+
+Chari, A., Liu, E. M., Wang, S.-Y., & Wang, Y. (2021). Property rights, land misallocation, and agricultural efficiency in China. *Review of Economic Studies, 88*(4), 1831-1862. https://doi.org/10.1093/restud/rdaa048
+
+Chen, C., Restuccia, D., & Santaeulàlia-Llopis, R. (2022). The effects of land markets on resource allocation and agricultural productivity. *Review of Economic Dynamics, 45*, 41-54. https://doi.org/10.1016/j.red.2021.04.006
+
+Ciaian, P., & Swinnen, J. F. M. (2006). Land market imperfections and agricultural policy impacts in the new EU member states: A partial equilibrium analysis. *American Journal of Agricultural Economics, 88*(4), 799-815. https://doi.org/10.1111/j.1467-8276.2006.00900.x
+
+Coelli, T. J., & Rao, D. S. P. (2005). Total factor productivity growth in agriculture: A Malmquist index analysis of 93 countries, 1980–2000. *Agricultural Economics, 32*(s1), 115-134. https://doi.org/10.1111/j.1574-0862.2005.00402.x
+
+Cook, R. D. (1977). Detection of influential observation in linear regression. *Technometrics, 19*(1), 15-18. https://doi.org/10.2307/1268249
+
+Deininger, K., & Byerlee, D. (2012). The rise of large farms in land abundant countries: Do they have a future? *World Development, 40*(4), 701-714. https://doi.org/10.1016/j.worlddev.2011.09.031
+
+Deininger, K., & Jin, S. (2005). The potential of land rental markets in the process of economic development: Evidence from China. *Journal of Development Economics, 78*(1), 241-270. https://doi.org/10.1016/j.jdeveco.2004.08.002
+
+Deininger, K., & Jin, S. (2008). Land sales and rental markets in transition: Evidence from rural Vietnam. *Oxford Bulletin of Economics and Statistics, 70*(1), 67-101. https://doi.org/10.1111/j.1468-0084.2007.00483.x
+
+Deininger, K., Jin, S., & Nagarajan, H. K. (2008). Efficiency and equity impacts of rural land rental restrictions: Evidence from India. *European Economic Review, 52*(5), 892-918. https://doi.org/10.1016/j.euroecorev.2007.08.002
+
+Deininger, K., Savastano, S., & Xia, F. (2017). Smallholders’ land access in Sub-Saharan Africa: A new landscape? *Food Policy, 67*, 78-92. https://doi.org/10.1016/j.foodpol.2016.09.012
+
+Dell, M. (2025). Deep learning for economists. *Journal of Economic Literature, 63*(1), 5-58. https://doi.org/10.1257/jel.20241733
+
+Desiere, S., & Jolliffe, D. (2018). Land productivity and plot size: Is measurement error driving the inverse relationship? *Journal of Development Economics, 130*, 84-98. https://doi.org/10.1016/j.jdeveco.2017.10.002
+
+Eswaran, M., & Kotwal, A. (1985). A theory of contractual structure in agriculture. *American Economic Review, 75*(3), 352-367. https://doi.org/10.2307/1814805
+
+Foster, A. D., & Rosenzweig, M. R. (2022). Are there too many farms in the world? Labor market transaction costs, machine capacities, and optimal farm size. *Journal of Political Economy, 130*(3), 636-680. https://doi.org/10.1086/717890
+
+Fuglie, K. O. (2018). Is agricultural productivity slowing? *Global Food Security, 17*, 73-83. https://doi.org/10.1016/j.gfs.2018.05.001
+
+Goldstein, M., & Udry, C. (2008). The profits of power: Land rights and agricultural investment in Ghana. *Journal of Political Economy, 116*(6), 981-1022. https://doi.org/10.1086/595561
+
+Gollin, D., Hansen, C. W., & Wingender, A. M. (2021). Two blades of grass: The impact of the Green Revolution. *Journal of Political Economy, 129*(8), 2344-2384. https://doi.org/10.1086/714424
+
+Gollin, D., Lagakos, D., & Waugh, M. E. (2014). The agricultural productivity gap. *The Quarterly Journal of Economics, 129*(2), 939-993. https://doi.org/10.1093/qje/qjt056
+
+Gollin, D., Parente, S., & Rogerson, R. (2002). The role of agriculture in development. *American Economic Review, 92*(2), 160-164. https://doi.org/10.1257/000282802320189177
+
+Hayes, A. F., & Cai, L. (2007). Using heteroskedasticity-consistent standard error estimators in OLS regression: An introduction and software implementation. *Behavior Research Methods, 39*(4), 709-722. https://doi.org/10.3758/BF03192961
+
+Holden, S. T., Deininger, K., & Ghebru, H. (2011). Tenure insecurity, gender, low-cost land certification and land rental market participation in Ethiopia. *The Journal of Development Studies, 47*(1), 31-47. https://doi.org/10.1080/00220388.2010.492858
+
+Hsieh, C.-T., & Klenow, P. J. (2009). Misallocation and manufacturing TFP in China and India. *The Quarterly Journal of Economics, 124*(4), 1403-1448. https://doi.org/10.1162/qjec.2009.124.4.1403
+
+Jin, S., & Deininger, K. (2009). Land rental markets in the process of rural structural transformation: Productivity and equity impacts from China. *Journal of Comparative Economics, 37*(4), 629-646. https://doi.org/10.1016/j.jce.2009.04.004
+
+Kimura, S., Otsuka, K., Sonobe, T., & Rozelle, S. (2011). Efficiency of land allocation through tenancy markets: Evidence from China. *Economic Development and Cultural Change, 59*(3), 485-510. https://doi.org/10.1086/658832
+
+Korinek, A. (2023). Generative AI for economic research: Use cases and implications for economists. *Journal of Economic Literature, 61*(4), 1281-1317. https://doi.org/10.1257/jel.20231736
+
+Kruskal, W. H., & Wallis, W. A. (1952). Use of ranks in one-criterion variance analysis. *Journal of the American Statistical Association, 47*(260), 583-621. https://doi.org/10.1080/01621459.1952.10483441
+
+Kung, J. K. (2002). Off-farm labor markets and the emergence of land rental markets in rural China. *Journal of Comparative Economics, 30*(2), 395-414. https://doi.org/10.1006/jcec.2002.1782
+
+Lagakos, D., & Waugh, M. E. (2013). Selection, agriculture, and cross-country productivity differences. *American Economic Review, 103*(2), 948-980. https://doi.org/10.1257/aer.103.2.948
+
+Long, J. S., & Ervin, L. H. (2000). Using heteroscedasticity consistent standard errors in the linear regression model. *The American Statistician, 54*(3), 217-224. https://doi.org/10.1080/00031305.2000.10474549
+
+Lowder, S. K., Skoet, J., & Raney, T. (2016). The number, size, and distribution of farms, smallholder farms, and family farms worldwide. *World Development, 87*, 16-29. https://doi.org/10.1016/j.worlddev.2015.10.041
+
+Lowder, S. K., Sánchez, M. V., & Bertini, R. (2021). Which farms feed the world and has farmland become more concentrated? *World Development, 142*, 105455. https://doi.org/10.1016/j.worlddev.2021.105455
+
+Ludwig, J., & Mullainathan, S. (2024). Machine learning as a tool for hypothesis generation. *The Quarterly Journal of Economics, 139*(2), 751-827. https://doi.org/10.1093/qje/qjad055
+
+MacKinnon, J. G., & White, H. (1985). Some heteroskedasticity-consistent covariance matrix estimators with improved finite sample properties. *Journal of Econometrics, 29*(3), 305-325. https://doi.org/10.1016/0304-4076(85)90158-7
+
+Macours, K., de Janvry, A., & Sadoulet, E. (2010). Insecurity of property rights and social matching in the tenancy market. *European Economic Review, 54*(7), 880-899. https://doi.org/10.1016/j.euroecorev.2010.02.002
+
+Muraoka, R., Jin, S., & Jayne, T. S. (2018). Land access, land rental and food security: Evidence from Kenya. *Land Use Policy, 70*, 611-622. https://doi.org/10.1016/j.landusepol.2017.10.046
+
+Noy, S., & Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence. *Science, 381*(6654), 187-192. https://doi.org/10.1126/science.adh2586
+
+O’Brien, R. M. (2007). A caution regarding rules of thumb for variance inflation factors. *Quality & Quantity, 41*(5), 673-690. https://doi.org/10.1007/s11135-006-9018-6
+
+Ortiz-Bobea, A., Ault, T. R., Carrillo, C. M., Chambers, R. G., & Lobell, D. B. (2021). Anthropogenic climate change has slowed global agricultural productivity growth. *Nature Climate Change, 11*(4), 306-312. https://doi.org/10.1038/s41558-021-01000-1
+
+Otsuka, K., Chuma, H., & Hayami, Y. (1992). Land and labor contracts in agrarian economies: Theories and facts. *Journal of Economic Literature, 30*(4), 1965-2018. https://www.jstor.org/stable/2727972
+
+Rada, N. E., & Fuglie, K. O. (2019). New perspectives on farm size and productivity. *Food Policy, 84*, 147-152. https://doi.org/10.1016/j.foodpol.2019.03.006
+
+Restuccia, D., & Rogerson, R. (2008). Policy distortions and aggregate productivity with heterogeneous establishments. *Review of Economic Dynamics, 11*(4), 707-720. https://doi.org/10.1016/j.red.2008.01.003
+
+Restuccia, D., Yang, D. T., & Zhu, X. (2008). Agriculture and aggregate productivity: A quantitative cross-country analysis. *Journal of Monetary Economics, 55*(2), 234-250. https://doi.org/10.1016/j.jmoneco.2007.11.006
+
+Rozelle, S., & Swinnen, J. F. M. (2004). Success and failure of reform: Insights from the transition of agriculture. *Journal of Economic Literature, 42*(2), 404-456. https://doi.org/10.1257/0022051041409048
+
+Schober, P., Boer, C., & Schwarte, L. A. (2018). Correlation coefficients: Appropriate use and interpretation. *Anesthesia & Analgesia, 126*(5), 1763-1768. https://doi.org/10.1213/ANE.0000000000002864
+
+Vranken, L., & Swinnen, J. F. M. (2006). Land rental markets in transition: Theory and evidence from Hungary. *World Development, 34*(3), 481-500. https://doi.org/10.1016/j.worlddev.2005.08.009

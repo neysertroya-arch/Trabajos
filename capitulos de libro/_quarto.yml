@@ -1,4 +1,4 @@
-project:
+﻿project:
   type: book
   output-dir: _book
 
@@ -9,14 +9,10 @@ book:
   date: "04/11/2026"
   chapters:
     - index.qmd
-    - 01_tema_objetivos.qmd
-    - 02_marco_teorico.qmd
-    - 03_diagnostico.qmd
-    - 04_metodologia.qmd
-    - 05_valoracion_datos.qmd
-    - 06_correlaciones_estadisticos.qmd
-    - 07_referencias.qmd
-
+    - tema.qmd
+    - objetivos.qmd
+    - marco_teorico.qmd
+    - referencias.qmd
 lang: es
 
 crossref:
@@ -36,3 +32,7 @@ format:
     code-fold: true
   pdf:
     documentclass: scrreprt
+
+
+
+

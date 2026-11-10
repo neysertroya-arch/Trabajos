@@ -1,0 +1,538 @@
+﻿# Marco teórico
+
+## Fundamentos teóricos
+
+La teoría de los mercados de tierras plantea que el arrendamiento cumple una función de reasignación. Cuando hay propietarios con poca capacidad o interés en cultivar y hogares con poca tierra, pero mayor habilidad o más mano de obra, el arriendo permite que la tierra pase a quien la usa mejor sin necesidad de una venta (Deininger y Jin, 2005; Vranken y Swinnen, 2006). La literatura sobre contratos agrarios añade que la forma del contrato (renta fija o aparcería) depende de los incentivos, el riesgo y los costos de supervisión (Eswaran y Kotwal, 1985; Otsuka et al., 1992), por lo que el arrendamiento no es un mecanismo homogéneo entre países.
+
+A nivel agregado, el vínculo con la productividad se explica por la mala asignación de recursos. Restuccia y Rogerson (2008) muestran que las distorsiones que impiden que los factores lleguen a los productores más eficientes reducen la TFP agregada, y Hsieh y Klenow (2009) documentan ese mecanismo para la manufactura de China e India. En la agricultura, Restuccia et al. (2008) sostienen que la baja productividad agrícola de los países pobres explica buena parte de las diferencias de ingreso entre países, y Gollin et al. (2014) documentan que el valor agregado por trabajador es sustancialmente menor en la agricultura que fuera de ella en los países en desarrollo, y Lagakos y Waugh (2013) sostienen que la selección de los trabajadores hacia los sectores no agrícolas ayuda a explicar esa brecha. Adamopoulos y Restuccia (2014) añaden que la distribución del tamaño de las explotaciones ayuda a explicar las diferencias de productividad agrícola. Desde esta perspectiva, un mercado de arrendamiento que funcione bien sería un canal para corregir esa mala asignación.
+
+Sin embargo, la prevalencia del arrendamiento no es lo mismo que su efectividad. Besley (1995) muestra que la seguridad de los derechos sobre la tierra condiciona los incentivos de inversión, y Goldstein y Udry (2008) encuentran, para Ghana, que quienes tienen derechos más débiles invierten menos en la tierra. Ali et al. (2014) evalúan, para Ruanda, los efectos de regularizar la tenencia sobre la inversión en conservación de suelos y sobre la equidad de género. Macours et al. (2010) encuentran que, con derechos inseguros, los propietarios tienden a arrendar a personas cercanas y no necesariamente a los productores más productivos, y Deininger et al. (2008) muestran que las restricciones al arriendo reducen la eficiencia y la equidad. Por eso, dos países con un porcentaje similar de tierra arrendada pueden diferir en la calidad de la reasignación.
+
+## Evidencia empírica
+
+En primer lugar, la literatura basada en estudios de hogares analiza la evidencia proveniente principalmente de un solo país. En China, Deininger y Jin (2005) encuentran que el arrendamiento transfiere tierra hacia hogares más productivos y con menos tierra; Jin y Deininger (2009) muestran que los mercados de arriendo aportan a la diversificación ocupacional y a la productividad de la tierra, aunque los costos de transacción limitan la participación; Kimura et al. (2011) hallan que el riesgo de expropiación de la tierra arrendada frena las transacciones, y Kung (2002) vincula el surgimiento del arriendo con los mercados de trabajo no agrícolas. En Vietnam, Deininger y Jin (2008) analizan conjuntamente los mercados de venta y arriendo y, en India, Deininger et al. (2008) muestran los costos en eficiencia y equidad de restringir el arrendamiento. Para África, Chamberlin y Ricker-Gilbert (2016) examinan quiénes participan y cuánto se benefician en Malawi y Zambia, Muraoka et al. (2018) relacionan el acceso a la tierra y el arriendo con la seguridad alimentaria en Kenia, y Holden et al. (2011) analizan cómo la certificación de tierras en Etiopía se relaciona con la seguridad de tenencia y la participación en el mercado de arriendo.
+
+En cuanto a la evidencia agregada y estructural, otra línea de investigación conecta la tenencia de la tierra con la productividad agregada. Chari et al. (2021) muestran que, en China, derechos de propiedad más seguros reducen la mala asignación de la tierra; Ayerst et al. (2020) estudian cómo las restricciones de mercado generan mala asignación en Vietnam; Adamopoulos et al. (2022) cuantifican con datos de panel el papel de la mala asignación y la selección de productores; y Adamopoulos y Restuccia (2020) analizan una reforma agraria con microdatos de Filipinas. El estudio más cercano a nuestra pregunta es el de Chen et al. (2022), que con una reforma de certificación en Etiopía encuentran que la certificación facilita los arriendos y mejora la productividad agrícola, y que pasar de ningún arriendo a arriendos eficientes elevaría la productividad zonal en alrededor de 43 %; además, la certificación explica solo una cuarta parte de esas ganancias, lo que revela fricciones residuales. Sobre tamaño y productividad, Rada y Fuglie (2019) y Foster y Rosenzweig (2022) muestran que los resultados dependen del contexto y de la tecnología; Barrett et al. (2010), Carletto et al. (2013) y Desiere y Jolliffe (2018) discuten el papel de los errores de medición en la relación inversa entre tamaño y productividad.
+
+Respecto a Europa, la transición y la estructura agraria, Ciaian y Swinnen (2006) analizan cómo las imperfecciones de los mercados de tierras modifican los efectos de las políticas agrarias en los nuevos Estados miembros de la Unión Europea; Vranken y Swinnen (2006) muestran, para Hungría, que el arriendo reasigna tierra hacia hogares con mejor capacidad de gestión; Rozelle y Swinnen (2004) estudian las reformas agrícolas en las economías en transición. Más recientemente, Deininger y Byerlee (2012) y Deininger et al. (2017) examinan el auge de las grandes explotaciones y los cambios en el acceso a la tierra de los pequeños productores. En conjunto, la evidencia indica que el efecto del arrendamiento depende de las instituciones que lo rodean, lo que dificulta esperar una relación simple entre su prevalencia y la productividad nacional.
+
+Por último, en lo concerniente a la medición y econometría, Alston y Pardey (2014) discuten la evolución de la productividad agrícola mundial, Coelli y Rao (2005) ilustran los índices de TFP para un grupo amplio de países y Gollin et al. (2021) estiman los efectos económicos de la Revolución Verde; Lowder et al. (2016; 2021) documentan el número, el tamaño y la distribución de las explotaciones a partir de los censos. En lo econométrico, las muestras pequeñas con heterocedasticidad justifican los errores estándar robustos HC3 (MacKinnon y White, 1985; Long y Ervin, 2000; Hayes y Cai, 2007), las observaciones influyentes se identifican con la distancia de Cook (Cook, 1977) y las interacciones deben interpretarse con cuidado (Brambor et al., 2006).
+
+## Agentes de inteligencia artificial como apoyo a la modelación
+
+La evidencia reciente sugiere que los agentes y asistentes basados en modelos de lenguaje pueden acelerar el trabajo empírico. Korinek (2023) describe casos de uso en seis áreas de la investigación económica como son la ideación, redacción, búsqueda de antecedentes, análisis de datos, programación y derivaciones matemáticas y sostiene que automatizar microtareas puede traducirse en importantes ganancias de productividad; en una actualización en línea de 2025 al mismo artículo, el autor discute específicamente el papel de los agentes de IA en la investigación económica. En el ámbito del trabajo, Noy y Zhang (2023) encuentran, en un experimento, que el acceso a un asistente de IA reduce el tiempo y mejora la calidad de tareas profesionales de escritura, y Brynjolfsson et al. (2025) estiman que un asistente conversacional aumentó en 15 % los casos resueltos por hora en una gran empresa de atención al cliente, con mayores beneficios para los trabajadores menos experimentados.
+
+Para la modelación, Athey e Imbens (2019) y Dell (2025) presentan métodos de aprendizaje automático y aprendizaje profundo útiles para economistas, y Ludwig y Mullainathan (2024) proponen usarlos para generar hipótesis a partir de los datos. Estas herramientas permiten construir más rápido la base de datos, escribir y depurar código, ejecutar comprobaciones de robustez y reproducir resultados. No obstante, Bail (2024) advierte que la IA generativa también implica riesgos para la investigación social, como la generación de información inexacta y los problemas de reproducibilidad. Además, la mayor parte de esta evidencia no proviene de la economía agraria, por lo que su aplicación aquí es una extrapolación razonable, no una prueba. En este proyecto, por tanto, los agentes se usan como apoyo bajo supervisión humana: toda cifra, referencia y línea de código debe verificarse contra la fuente original.
+
+## Brecha en la literatura
+
+La mayor parte de la evidencia sobre arrendamiento proviene de análisis de hogares o de modelos calibrados para un solo país (China, India, Vietnam, Etiopía, Kenia, Hungría). Se encontraron pocas pruebas comparativas entre países que midan, con datos censales, si la prevalencia del arrendamiento se asocia con el crecimiento posterior de la TFP agrícola. Además, la literatura suele tratar la proporción de tierra arrendada como indicador de que el mercado funciona, sin distinguir cuánto se arrienda de qué tan bien se reasigna la tierra. Este proyecto aporta en esa dirección con 65 países que combinan los censos de la FAO, las series de TFP del USDA y los indicadores del Banco Mundial.
+
+## Diagnóstico: problemas y potencialidades
+
+A partir de la literatura revisada se identifican los siguientes problemas y potencialidades del arrendamiento de tierras como mecanismo de reasignación. Cada uno se sustenta en la fuente indicada y define una implicación para el estudio.
+
+::: {#tabla-problemas}
+**Tabla 1: Problemas y potencialidades identificados**
+
+```{r}
+problemas <- data.frame(
+  Tipo = c(
+    "Problema", "Problema", "Problema", "Problema", "Problema", "Problema",
+    "Problema", "Problema", "Potencialidad", "Potencialidad", "Potencialidad",
+    "Potencialidad", "Potencialidad", "Potencialidad"
+  ),
+  `Problema o potencialidad` = c(
+    "La prevalencia no equivale a efectividad: con tenencia insegura se arrienda a allegados y no a los más productivos",
+    "El riesgo de expropiación y la falta de derechos seguros frenan el arriendo y la inversión",
+    "Restricciones legales y costos de transacción limitan la participación",
+    "Persisten fricciones aun con certificación de tierras",
+    "Estructura agraria fragmentada y mala asignación de recursos",
+    "Errores de medición del tamaño de las explotaciones y de la TFP",
+    "Muestra pequeña, heterocedasticidad y observaciones influyentes",
+    "Factores omitidos que afectan la TFP, como el clima",
+    "El arriendo reasigna tierra hacia hogares más hábiles y con menos tierra",
+    "La certificación y la seguridad de tenencia elevan el arriendo y la productividad",
+    "Los mercados de trabajo no agrícolas impulsan el arriendo",
+    "Las ganancias agregadas de una mejor reasignación pueden ser grandes",
+    "Existen datos públicos, comparables y reproducibles",
+    "Los agentes de IA aceleran la construcción de la base y la modelación"
+  ),
+  `Según` = c(
+    "Macours et al. (2010); Besley (1995)",
+    "Kimura et al. (2011); Goldstein y Udry (2008)",
+    "Deininger et al. (2008); Jin y Deininger (2009)",
+    "Chen et al. (2022)",
+    "Adamopoulos y Restuccia (2014); Restuccia y Rogerson (2008); Lowder et al. (2016)",
+    "Carletto et al. (2013); Desiere y Jolliffe (2018); Coelli y Rao (2005)",
+    "Long y Ervin (2000); Hayes y Cai (2007); Cook (1977)",
+    "Ortiz-Bobea et al. (2021)",
+    "Deininger y Jin (2005); Vranken y Swinnen (2006); Jin y Deininger (2009)",
+    "Holden et al. (2011); Ali et al. (2014); Chen et al. (2022)",
+    "Kung (2002); Jin y Deininger (2009)",
+    "Chen et al. (2022); Adamopoulos et al. (2022); Hsieh y Klenow (2009)",
+    "Alston y Pardey (2014); Lowder et al. (2016; 2021)",
+    "Korinek (2023); Brynjolfsson et al. (2025)"
+  ),
+  `Implicación para el estudio` = c(
+    "La proporción de tierra arrendada es un indicador agregado limitado",
+    "La seguridad de tenencia es un factor omitido relevante",
+    "Países con igual prevalencia pueden tener mercados distintos",
+    "La señal agregada puede ser débil",
+    "Se incorpora el tamaño medio y la interacción con explotaciones menores de dos hectáreas",
+    "Se validan los datos y se prueban medidas alternativas",
+    "Errores HC3 y exclusión de observaciones influyentes",
+    "Se interpreta de forma asociacional, sin causalidad",
+    "Justifica esperar una asociación positiva con la TFP",
+    "Orienta la recomendación de política pública",
+    "El PIB per cápita y el peso agrícola actúan como controles",
+    "La pregunta tiene relevancia de política",
+    "Es viable construir la base con FAO, USDA y Banco Mundial",
+    "Se usan con verificación humana de cada resultado"
+  ),
+  check.names = FALSE
+)
+
+knitr::kable(
+  problemas,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = "llll",
+  linesep = ""
+)
+```
+:::
+
+La [Tabla 1](#tabla-problemas) ordena los hallazgos en dos bloques. Los problemas muestran que la prevalencia del arrendamiento no basta para garantizar una reasignación eficiente; las potencialidades indican por qué, aun así, el arrendamiento puede mejorar la asignación y la productividad. La [Tabla 2](#tabla-esquema) sintetiza esa lectura en cinco ejes y la conecta con la respuesta metodológica del proyecto.
+
+::: {#tabla-esquema}
+**Tabla 2: Esquema síntesis del diagnóstico**
+
+```{r}
+esquema <- data.frame(
+  Eje = c("Institucional", "Estructural", "Medición", "Estadístico", "Tecnológico"),
+  Problema = c(
+    "Inseguridad de tenencia y costos de transacción",
+    "Explotaciones fragmentadas y mala asignación",
+    "Errores en tamaño de explotación y TFP",
+    "N pequeño, heterocedasticidad, influyentes",
+    "Tiempo y riesgo de errores al consolidar y modelar"
+  ),
+  Potencialidad = c(
+    "Certificación y reformas de seguridad",
+    "Reasignación hacia productores más hábiles",
+    "Fuentes oficiales y comparables",
+    "Métodos robustos disponibles",
+    "Agentes de IA como apoyo"
+  ),
+  `Respuesta del proyecto` = c(
+    "Interpretar la prevalencia como indicador parcial",
+    "Interacción con explotaciones menores de dos hectáreas",
+    "Validación y medidas alternativas",
+    "HC3 y distancia de Cook",
+    "Protocolo de verificación humana"
+  ),
+  check.names = FALSE
+)
+
+knitr::kable(
+  esquema,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = "llll",
+  linesep = ""
+)
+```
+:::
+
+## Valoración de las variables y de la base de datos
+
+Consideramos que la base está bien estructurada para un diseño asociacional y exploratorio, con las limitaciones que se señalan a continuación.
+
+## Fortalezas
+
+Las tres fuentes son oficiales, públicas y comparables entre países. La variable dependiente se mide después del año censal, lo que ordena en el tiempo la relación, y se incluye un diagnóstico con el crecimiento previo de la TFP. El conjunto de controles es parsimonioso y las seis comprobaciones de robustez dan una lectura consistente.
+
+## Limitaciones
+
+1. Con 65 países el poder estadístico es bajo, por lo que un coeficiente impreciso no equivale a ausencia de efecto; el modelo de efectos fijos usa aún menos observaciones.
+2. La prevalencia nacional del arrendamiento es un indicador único que no recoge seguridad de tenencia, duración de los contratos ni dirección de las transferencias (Macours et al., 2010; Chen et al., 2022).
+3. Los países tienen censos en años distintos, y el tamaño medio de la explotación y la proporción de explotaciones pequeñas pueden estar muy correlacionados, lo que conviene revisar con medidas de multicolinealidad.
+4. Entre los controles no figura el nivel inicial de la TFP, que suele asociarse con su crecimiento posterior, ni variables regionales o climáticas (Ortiz-Bobea et al., 2021).
+5. La TFP agregada y el tamaño de las explotaciones se miden con error (Coelli y Rao, 2005; Carletto et al., 2013).
+
+En conjunto, las variables son pertinentes y la base es suficiente para responder la pregunta de asociación, pero no para inferir causalidad; los resultados deben leerse de forma proporcional a la evidencia.
+
+## Correlaciones y estadísticos
+
+```{r}
+#| label: setup
+#| include: false
+
+encontrar_base <- function() {
+  candidatos <- c(
+    file.path("..", "..", "data_raw", "base_arrendamiento_unificada.rds"),
+    file.path("..", "data_raw", "base_arrendamiento_unificada.rds"),
+    file.path("data_raw", "base_arrendamiento_unificada.rds"),
+    "C:/Users/LENOVO/Documents/land-rental-productivity-global/data_raw/base_arrendamiento_unificada.rds"
+  )
+  for (p in candidatos) {
+    if (file.exists(p)) return(normalizePath(p))
+  }
+  stop("No se encontró base_arrendamiento_unificada.rds")
+}
+
+d <- readRDS(encontrar_base())
+if (any(!is.finite(d$average_holding_area_ha) | d$average_holding_area_ha <= 0, na.rm = TRUE)) {
+  stop("El tamaÃ±o medio debe ser positivo y finito para calcular su logaritmo.")
+}
+d$log_average_holding_area <- log(d$average_holding_area_ha)
+
+br_rental <- c(0, 4, 10, 20, 30, 40, 50, 60, 70, 71)
+h_rental <- hist(d$rental_area_share, breaks = br_rental, plot = FALSE)
+
+cor_vars <- c(
+  "rental_area_share",
+  "small_holdings_share_lt2",
+  "average_holding_area_ha",
+  "log_gdp_per_capita",
+  "agriculture_value_added_pct_gdp",
+  "tfp_growth_post5"
+)
+```
+
+## Estadística descriptiva
+
+La [Tabla 4](#tabla-descriptivos) resume la distribución de las variables que entran al análisis. La prevalencia del arrendamiento es muy heterogénea: en promedio el 22.9 % del área agrícola se arrienda a terceros, pero la mediana es 17.5 % y el rango va de 0.7 % a 70.9 %, con una desviación estándar de 18.7 puntos porcentuales (pp). Que la media supere a la mediana indica una distribución asimétrica a la derecha, con pocos países donde el arriendo es la forma dominante de acceso a la tierra. Esta dispersión es coherente con la literatura, según la cual el arrendamiento depende de las restricciones legales, de la seguridad de la tenencia y de la historia agraria de cada país, de modo que una misma proporción de tierra arrendada puede reflejar mercados muy distintos (Deininger et al., 2008; Macours et al., 2010; Rozelle y Swinnen, 2004).
+
+La estructura agraria también es muy desigual. El tamaño medio de la explotación promedia 65.5 ha frente a una mediana de 15.0 ha, con un máximo de 988.4 ha: unos pocos países con explotaciones muy grandes elevan el promedio, mientras que en la mayoría predominan las unidades pequeñas (Lowder et al., 2016; Deininger y Byerlee, 2012). Esta asimetría extrema justifica el uso del logaritmo del tamaño en el modelo (la tabla de variables de la metodología). La proporción de explotaciones menores de dos hectáreas promedia 42.8 % y va de 0.8 % a 94.3 %, con un rango intercuartílico de 10.8 % a 72.6 %. La muestra combina, por tanto, países de agricultura comercial de gran escala con países dominados por la pequeña explotación, una brecha que la literatura asocia con las diferencias internacionales de productividad agrícola (Adamopoulos y Restuccia, 2014).
+
+Los controles de desarrollo también varían mucho. El logaritmo del PIB per cápita va de 6.32 a 11.58, lo que equivale a una razón de alrededor de 190 veces entre el país más pobre y el más rico de la muestra. El valor agregado agrícola promedia 6.0 % del PIB, pero su mediana es 3.2 % y alcanza 36.2 %: la mayoría de las economías tiene un sector agrícola pequeño y pocas siguen siendo predominantemente agrarias. Esta combinación es la esperable en un corte transversal de países en distintas etapas de la transformación estructural (Gollin et al., 2002; Restuccia et al., 2008).
+
+Finalmente, el crecimiento anualizado de la TFP en los cinco años posteriores al censo promedia 1.3 % (mediana 0.8 %), con una desviación estándar de 2.6 pp y valores entre −4.6 % y 11.8 %. El crecimiento previo al censo promedia 0.75 %, algo menor, aunque esa diferencia no se ha contrastado. La desviación estándar es mayor con el horizonte de tres años (3.7 pp) que con el de cinco (2.6 pp), lo que sugiere que las ventanas cortas amplifican la volatilidad anual propia de la TFP agrícola, sensible al clima y a los errores de medición (Ortiz-Bobea et al., 2021; Coelli y Rao, 2005), y respalda el horizonte de cinco años como medida principal. Dos variables (la proporción de explotaciones pequeñas y el crecimiento previo de la TFP) tienen 64 observaciones en lugar de 65 por un dato faltante.
+
+::: {#tabla-descriptivos}
+**Tabla 4: Estadística descriptiva**
+
+```{r}
+desc_vars <- c(
+  "rental_area_share",
+  "small_holdings_share_lt2",
+  "average_holding_area_ha",
+  "log_gdp_per_capita",
+  "agriculture_value_added_pct_gdp",
+  "tfp_growth_post5",
+  "tfp_growth_post3",
+  "tfp_growth_pre5"
+)
+
+desc <- do.call(rbind, lapply(desc_vars, function(v) {
+  x <- d[[v]]
+  x <- x[!is.na(x)]
+  data.frame(
+    variable = v,
+    n = length(x),
+    media = mean(x),
+    mediana = median(x),
+    sd = sd(x),
+    min = min(x),
+    p25 = quantile(x, 0.25, names = FALSE),
+    p75 = quantile(x, 0.75, names = FALSE),
+    max = max(x)
+  )
+}))
+
+desc[] <- lapply(desc, function(x) if (is.numeric(x)) round(x, 4) else x)
+
+knitr::kable(
+  desc,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = c("l", rep("r", 8)),
+  linesep = ""
+)
+```
+:::
+
+## Distribución del arrendamiento y estructura agraria
+
+La @fig-distribucion muestra que la participación de tierra arrendada, la clase más frecuente reúne `r max(h_rental$counts)` países, otros `r sum(d$rental_area_share < 4)` países arriendan menos de 4 % de su área agrícola y cerca de tres de cada cuatro o `r sum(d$rental_area_share < 30)` de 65 arriendan menos de 30 %. Solo `r sum(d$rental_area_share > 50)` países superan el 50 % y apenas uno se acerca al 70 %. La asimetría implica que la media sobrestima el nivel típico y que los pocos países con arrendamiento alto pueden tener una influencia desproporcionada en las estimaciones, lo que respalda los errores estándar HC3 y la revisión con la distancia de Cook (Long y Ervin, 2000; Cook, 1977).
+
+```{r}
+#| label: fig-distribucion
+#| fig-cap: "Distribución de la participación de tierra arrendada a terceros"
+#| fig-width: 8
+#| fig-height: 5
+
+par(mar = c(4.5, 4.5, 2, 1))
+hist(
+  d$rental_area_share,
+  breaks = br_rental,
+  main = "",
+  xlab = "Área arrendada a terceros (%)",
+  ylab = "Frecuencia",
+  col = "lightblue",
+  border = "grey35"
+)
+abline(v = mean(d$rental_area_share, na.rm = TRUE), col = "#c0392b", lwd = 2)
+abline(v = median(d$rental_area_share, na.rm = TRUE), col = "#2471a3", lwd = 2, lty = 2)
+legend(
+  "topright",
+  legend = c("Media", "Mediana"),
+  col = c("#c0392b", "#2471a3"),
+  lwd = 2,
+  lty = c(1, 2),
+  bty = "n"
+)
+```
+
+La forma de la distribución tiene una lectura económica. Un arrendamiento bajo en muchos países puede reflejar restricciones legales o derechos de tenencia inseguros que desalientan el arriendo y es posible que una parte de los arriendos informales no quede registrada en los censos. En el otro extremo, los países con arrendamiento alto suelen ser aquellos donde los mercados de trabajo no agrícolas permiten que los hogares dejen de cultivar y cedan su tierra o donde las reformas de la transición, como las de Europa central y oriental, generaron mercados de arriendo extensos.
+
+La @fig-tamano relaciona el tamaño medio de la explotación con la participación de tierra arrendada y no muestra una asociación clara ya que la recta de ajuste es casi horizontal y la correlación es prácticamente nula de r = −0.03, la gran mayoría de los países se concentra por debajo de 100 ha, y dentro de ese grupo el arrendamiento va de menos de 1 % a más de 70 %, de modo que el tamaño de las explotaciones no distingue por sí solo a los países que arriendan más. La banda de confianza se ensancha con fuerza a partir de unas 250 ha porque solo cinco países superan las 200 ha, y los dos más extremos que son cerca de 620 y 990 ha, con arrendamiento de 10 % y 6 % tienen un peso desproporcionado sobre la pendiente.
+
+```{r}
+#| label: fig-tamano
+#| fig-cap: "Tamaño medio de explotación vs participación de tierra arrendada"
+#| fig-width: 8
+#| fig-height: 5
+
+x <- d$average_holding_area_ha
+y <- d$rental_area_share
+ok <- complete.cases(x, y)
+x <- x[ok]
+y <- y[ok]
+
+ajuste <- lm(y ~ x)
+nuevo <- data.frame(x = seq(min(x), max(x), length.out = 200))
+pred <- predict(ajuste, newdata = nuevo, interval = "confidence")
+
+plot(
+  x, y,
+  log = "x",
+  pch = 19,
+  col = adjustcolor("#2471a3", alpha.f = 0.65),
+  xlab = "Tamaño medio de la explotación (ha, escala logarítmica)",
+  ylab = "Área arrendada a terceros (%)",
+  main = ""
+)
+polygon(
+  c(nuevo$x, rev(nuevo$x)),
+  c(pred[, "lwr"], rev(pred[, "upr"])),
+  col = adjustcolor("grey50", alpha.f = 0.25),
+  border = NA
+)
+lines(nuevo$x, pred[, "fit"], col = "#c0392b", lwd = 2)
+legend(
+  "topright",
+  legend = sprintf("r = %.2f", cor(x, y)),
+  bty = "n"
+)
+```
+
+Esta falta de patrón es coherente con que el arriendo cumple funciones distintas según el contexto. En economías de pequeños productores permite que hogares con poca tierra amplíen su superficie operada y que propietarios con menor interés en cultivar la cedan, en sistemas de explotaciones grandes y comerciales sirve para ajustar la superficie sin comprar tierra, como ocurre en los nuevos Estados miembros de la Unión Europea y en los países con abundancia de tierra aparecen explotaciones muy grandes cuya escala responde sobre todo a la dotación de recursos y a la agricultura comercial.
+
+## Arrendamiento y crecimiento de la TFP
+
+La @fig-tfp muestra la relación de la prevalencia del arrendamiento frente al crecimiento de la TFP en los cinco años posteriores al censo, la recta de ajuste tiene una pendiente levemente negativa y la nube de puntos es muy dispersa, la correlación es r = −0.09, de modo que el arrendamiento explica menos del 1 % de la variación del crecimiento de la TFP, la pendiente bivariada equivale a una diferencia de apenas −0.13 pp anuales de crecimiento de la TFP por cada 10 pp adicionales de área arrendada, cerca del 5 % de la desviación estándar del crecimiento de la TFP. Entre países con arrendamiento similar de 10 % a 25 %, el crecimiento de la TFP va de −4.6 % a más de 6 %, lo que indica que otros factores pesan mucho más. El signo negativo es opuesto al que anticipa la teoría de la reasignación, pero una recta horizontal cabe dentro de la banda de confianza en todo el rango, por lo que la pendiente no se distingue de cero.
+
+Varias razones explican por qué el arrendamiento agregado se asocia tan poco con el crecimiento de la TFP. Primero, la prevalencia no equivale a efectividad con derechos inseguros la tierra se arrienda a allegados y no a quienes la usan mejor, las restricciones legales reducen la eficiencia y aun con certificación de tierras, persisten fricciones que limitan las ganancias; un mismo porcentaje puede corresponder a una reasignación productiva o a una meramente nominal. Segundo, la seguridad de la tenencia condiciona la inversión, un canal que esta variable no capta. Tercero, el crecimiento de la TFP depende de factores ajenos al arrendamiento, como el cambio tecnológico, el clima y la difusión de variedades mejoradas, y se mide con error al comparar países. Cuarto, con 65 países el poder estadístico es limitado, por lo que un coeficiente no significativo no equivale a ausencia de efecto. Por último, los dos países con mayor crecimiento de la TFP cerca de 12 % y 7 % anual tienen un arrendamiento inferior al 7 %; son observaciones influyentes que podrían generar parte de la pendiente negativa, razón por la cual la distancia de Cook forma parte de las pruebas de robustez.
+
+```{r}
+#| label: fig-tfp
+#| fig-cap: "Arrendamiento vs crecimiento TFP (5 años post-censo)"
+#| fig-width: 8
+#| fig-height: 5
+
+x <- d$rental_area_share
+y <- d$tfp_growth_post5
+ok <- complete.cases(x, y)
+x <- x[ok]
+y <- y[ok]
+
+ajuste <- lm(y ~ x)
+nuevo <- data.frame(x = seq(min(x), max(x), length.out = 200))
+pred <- predict(ajuste, newdata = nuevo, interval = "confidence")
+
+plot(
+  x, y,
+  pch = 19,
+  col = adjustcolor("#2471a3", alpha.f = 0.65),
+  xlab = "Área arrendada a terceros (%)",
+  ylab = "Crecimiento anualizado de la TFP",
+  main = ""
+)
+polygon(
+  c(nuevo$x, rev(nuevo$x)),
+  c(pred[, "lwr"], rev(pred[, "upr"])),
+  col = adjustcolor("grey50", alpha.f = 0.25),
+  border = NA
+)
+lines(nuevo$x, pred[, "fit"], col = "#c0392b", lwd = 2)
+abline(h = 0, col = "grey80", lty = 2)
+legend(
+  "topright",
+  legend = sprintf("r = %.2f", cor(x, y)),
+  bty = "n"
+)
+```
+
+## Correlaciones
+
+La [Tabla 5](#tabla-correlaciones) presenta los coeficientes de correlación entre las variables del modelo, con 65 observaciones hay un coeficiente es significativo al 5 % cuando su valor absoluto supera 0.24 y al 1 % cuando supera 0.32. Para calificar la magnitud se sigue la clasificación de Schober donde débil de 0.10 a 0.39, moderada de 0.40 a 0.69 y fuerte de 0.70 a 0.89.
+
+El resultado principal es que ninguna variable estructural o de desarrollo se asocia con el crecimiento de la TFP: todos los coeficientes con `tfp_growth_post5` son menores que 0.11 en valor absoluto y sus valores p superan 0.40, es decir, magnitudes despreciables según Schober et al. (2018). Esto es consistente con la idea de que la prevalencia del arrendamiento es un indicador agregado limitado, pero una correlación bivariada nula no descarta asociaciones condicionales, y la falta de significancia con una muestra pequeña no prueba que no exista relación.
+
+El arrendamiento sí se vincula con el nivel de desarrollo, se correlaciona de forma moderada y positiva con el PIB per cápita y de forma moderada y negativa con el peso de la agricultura en el PIB, los países más ricos y menos agrarios arriendan más tierra, como predice la literatura cuando los mercados de trabajo no agrícolas permiten que los hogares dejen de cultivar y cedan su tierra, y cuando las instituciones hacen más segura la tenencia. Esto indica que, sin controlar por desarrollo, la prevalencia del arrendamiento captaría en parte el grado de transformación estructural de cada país, que es la razón por la que el PIB per cápita y el peso agrícola entran como controles.
+
+La estructura agraria sigue el mismo gradiente. La proporción de explotaciones menores de dos hectáreas se asocia de forma moderada con un menor PIB per cápita y con un mayor peso agrícola, y el tamaño medio de la explotación aumenta débilmente con el ingreso en línea con la evidencia de que las explotaciones son más pequeñas y numerosas en los países pobres y más grandes en los ricos. La correlación entre arrendamiento y explotaciones pequeñas es débil y no significativa y los países con más explotaciones muy pequeñas tienden a arrendar algo menos, lo que podría reflejar que, donde la tenencia es insegura y hay restricciones, el arriendo es menos frecuente.
+
+La correlación más alta es la del PIB per cápita con el peso de la agricultura y comparten cerca del 70 % de su varianza, como corresponde a la relación clásica entre ingreso y transformación estructural. Para ese par, el factor de inflación de la varianza bivariado sería cercano a 3.3, aunque estos no son reglas rígidas; conviene, para el tamaño medio y las explotaciones pequeñas el VIF bivariado sería cercano a 1.25, lo que atenúa la preocupación por multicolinealidad señalada en la valoración de las variables.
+
+::: {#tabla-correlaciones}
+**Tabla 5: Correlaciones**
+
+```{r}
+cor_mat <- cor(d[, cor_vars], use = "pairwise.complete.obs")
+cor_df <- data.frame(
+  Variable = rownames(cor_mat),
+  round(cor_mat, 3),
+  check.names = FALSE
+)
+rownames(cor_df) <- NULL
+
+knitr::kable(
+  cor_df,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = c("l", rep("r", ncol(cor_df) - 1)),
+  linesep = ""
+)
+```
+:::
+
+La @fig-matriz muestra la matriz de dispersión que acompaña a la [Tabla 5](#tabla-correlaciones) y permite revisar visualmente los supuestos de los coeficientes de Pearson.
+
+```{r}
+#| label: fig-matriz
+#| fig-cap: "Matriz de correlaciones"
+#| fig-width: 8
+#| fig-height: 7
+
+panel_cor <- function(x, y, digits = 2, ...) {
+  usr <- par("usr")
+  on.exit(par(usr = usr))
+  par(usr = c(0, 1, 0, 1))
+  r <- cor(x, y, use = "complete.obs")
+  text(0.5, 0.5, format(round(r, digits), nsmall = digits), cex = 1.1)
+}
+
+pairs(
+  d[, cor_vars],
+  upper.panel = panel_cor,
+  pch = 19,
+  col = adjustcolor("black", alpha.f = 0.5),
+  cex = 0.7
+)
+```
+
+## ANOVA por cuartiles de arrendamiento
+
+La @fig-anova compara el crecimiento de la TFP según cuartiles de la prevalencia del arrendamiento, los cortes son aproximadamente 7.9 % (Q1), 17.5 % (Q2) y 33.0 % (Q3), y cada grupo reúne alrededor de 16 países. Las medianas del crecimiento de la TFP disminuyen de Q1 cerca de 2.1 % anual a Q2 (1.3 %), Q3 (0.6 %) y Q4 (0.5 %), pero las cajas se superponen casi por completo, la dispersión dentro de cada grupo es mucho mayor que la diferencia entre medianas y los cuatro grupos incluyen países con crecimiento negativo. El Q1 es además el grupo más disperso y contiene los dos valores más altos de la muestra cerca de 12 % y 7 %, que pueden elevar su media, y el Q2 contiene el más bajo de −4.6 %. Con grupos tan pequeños, un contraste de medias es sensible a esas observaciones.
+
+Una posible explicación de la mediana algo mayor en el cuartil de menor arrendamiento es la convergencia. La [Tabla 5](#tabla-correlaciones) muestra que los países que arriendan menos tienden a ser más pobres y más agrarios, y estos pueden crecer más rápido porque parten de niveles bajos de TFP, mientras que en los países de ingreso alto el margen de mejora es menor. Como el modelo no incluye el nivel inicial de la TFP, esta diferencia podría deberse al desarrollo y no al arrendamiento, y es coherente con que la TFP agrícola ha crecido a ritmos desiguales según el período y el grupo de países.
+
+```{r}
+#| label: fig-anova
+#| fig-cap: "Crecimiento TFP post5 según cuartiles de arrendamiento"
+#| fig-width: 8
+#| fig-height: 5
+
+d$quart_rental <- cut(
+  d$rental_area_share,
+  breaks = quantile(d$rental_area_share, probs = c(0, 0.25, 0.5, 0.75, 1), na.rm = TRUE),
+  include.lowest = TRUE,
+  labels = c("Q1", "Q2", "Q3", "Q4")
+)
+
+boxplot(
+  tfp_growth_post5 ~ quart_rental,
+  data = d,
+  main = "",
+  xlab = "Cuartil de arrendamiento",
+  ylab = "Crecimiento anualizado de la TFP",
+  col = "lightgray",
+  border = "grey35"
+)
+points(
+  seq_len(nlevels(d$quart_rental)),
+  tapply(d$tfp_growth_post5, d$quart_rental, median, na.rm = TRUE),
+  pch = 23,
+  bg = "#c0392b",
+  col = "#c0392b",
+  cex = 1.2
+)
+legend(
+  "topright",
+  legend = "Mediana",
+  pch = 23,
+  pt.bg = "#c0392b",
+  col = "#c0392b",
+  bty = "n"
+)
+```
+
+La [Tabla 6](#tabla-anova) resume el contraste de medias entre cuartiles. El estadístico F no permite rechazar la igualdad de medias, lo que es coherente con la superposición de las cajas y con la debilidad de la asociación descrita.
+
+::: {#tabla-anova}
+**Tabla 6: ANOVA del crecimiento de la TFP por cuartiles de arrendamiento**
+
+```{r}
+anova_res <- aov(tfp_growth_post5 ~ quart_rental, data = d)
+anova_sum <- summary(anova_res)[[1]]
+
+anova_tab <- data.frame(
+  Fuente = c("Cuartiles de arrendamiento", "Residuos"),
+  Df = anova_sum$Df,
+  `Suma de cuadrados` = anova_sum$`Sum Sq`,
+  `Media cuadrática` = anova_sum$`Mean Sq`,
+  `F` = anova_sum$`F value`,
+  `p` = anova_sum$`Pr(>F)`,
+  check.names = FALSE
+)
+
+anova_tab[] <- lapply(anova_tab, function(x) if (is.numeric(x)) round(x, 4) else x)
+
+knitr::kable(
+  anova_tab,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = "lrrrrr",
+  linesep = ""
+)
+```
+:::
+
+::: {#tabla-tukey}
+**Tabla 7: Comparaciones múltiples de Tukey entre cuartiles**
+
+```{r}
+tukey <- TukeyHSD(anova_res)$quart_rental
+tukey_tab <- data.frame(
+  Comparación = rownames(tukey),
+  Diferencia = tukey[, "diff"],
+  `IC 95% inferior` = tukey[, "lwr"],
+  `IC 95% superior` = tukey[, "upr"],
+  `p ajustado` = tukey[, "p adj"],
+  check.names = FALSE
+)
+tukey_tab[] <- lapply(tukey_tab, function(x) if (is.numeric(x)) round(x, 4) else x)
+
+knitr::kable(
+  tukey_tab,
+  booktabs = TRUE,
+  longtable = TRUE,
+  align = "lrrrr",
+  linesep = ""
+)
+```
+:::

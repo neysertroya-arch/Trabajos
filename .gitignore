@@ -17,3 +17,9 @@ Thumbs.db
 
 # Generated scientific-audit outputs
 05_results/
+
+# Respaldos locales
+capitulos de libro/_book_anterior_*/
+capitulos de libro/_respaldo_anterior/
+capitulos de libro/respaldo_*/
+*.bak

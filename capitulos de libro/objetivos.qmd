@@ -1,0 +1,11 @@
+﻿# Objetivos
+
+**Objetivo 1:** Consolidar una base de datos país–censo que integre los indicadores censales de la FAO, las series de TFP del USDA ERS y los controles del Banco Mundial, y, a partir de ella y de la literatura, diagnosticar los problemas y las potencialidades del arrendamiento de tierras como mecanismo de reasignación.
+
+Para ello se busca:
+
+- reunir y armonizar las tres fuentes en una sola base, con un diccionario de variables;
+- describir la distribución del arrendamiento, del tamaño de las explotaciones y del crecimiento de la TFP en la muestra;
+- identificar los problemas y las potencialidades que condicionan la relación.
+
+**Objetivo 2:** Estimar un modelo de regresión del crecimiento anualizado de la TFP agrícola sobre la prevalencia del arrendamiento, con controles de estructura agraria y desarrollo, errores estándar robustos HC3, un término de interacción con la proporción de explotaciones menores de dos hectáreas y un conjunto de comprobaciones de robustez.
